@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/magna-shine.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-06-19T13:10:37-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580244095036</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/magna-shine-paint-correction-pad"/>
+    <title>Magna Shine Paint Correction Pad</title>
+    <s:type></s:type>
+    <s:vendor>Magna Shine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/magna-shine-6-medium-magna-shine-paint-correction-pad-14707817283644.png?v=1614155620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magna Shine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2920-product-field-body">
+<div class="field field-name-field-body">
+<p>This Paint Correction Pad is a revolutionary surface prep material made with Nano technology. This pad is attached to a velcro backing plate and use at high speeds. This removes surface fallout and provides the same benefits of clay but even faster, and can be washed and re-used.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5627" action="http://www.bocar.ca/en/product/2920/magna-shine-paint-correction-pad" method="post" id="commerce-cart-add-to-cart-form-5627" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>magna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580244095036</id>
+      <title>6&quot; Medium</title>
+      <s:price currency="CAD">35.30</s:price>
+      <s:sku>HTMSPC-06</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580238590012</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/magna-mark-ink-remover-pen"/>
+    <title>Magna Mark Ink Remover Pen</title>
+    <s:type></s:type>
+    <s:vendor>Magna Shine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/magna-shine-magna-mark-ink-remover-pen-14707764265020.png?v=1614156483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magna Shine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Professional Ink Remover. Safely removes ink from most automotive interior surfaces. Gently rub this specially formulated chemical over the ink mark, then wipe away with a clean cloth. </p>
+<p>Effective on:</p>
+<ul>
+<li>Headliners and Sun Visors</li>
+<li>Leather Upholstery</li>
+<li>Cloth Upholstery</li>
+<li>Plastic Surfaces</li>
+<li>Vinyl Surfaces</li>
+<li>Scuff Panels</li>
+</ul>
+<p>*Note: Only use on leathers that have a top-coat finish. Not for use on suede, pigskin, and raw hide. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>auto interior</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>magna</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>surface cleaner</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580238590012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>HTMM200</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578072952892</id>
+    <published>2020-06-17T14:08:53-07:00</published>
+    <updated>2020-06-17T14:08:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/magna-shine-interface-pads"/>
+    <title>Magna Shine Interface Pads</title>
+    <s:type></s:type>
+    <s:vendor>Magna Shine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/magna-shine-6-magna-shine-interface-pads-14695438778428.png?v=1614156520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magna Shine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3194-product-field-body">
+<div class="field field-name-field-body">
+<p>The Magna Shine 6 Inch Interface Pad attaches to a 6 Inch hook and loop backing plate to add a soft pad between the backing plate and sanding disc. The soft pad allows the sanding disc to follow the contours and curves of the vehicle for a smoother sand.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5986" action="http://www.bocar.ca/en/product/3194/magna-shine-interface-pad" method="post" id="commerce-cart-add-to-cart-form-5986" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>magna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578072952892</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">14.29</s:price>
+      <s:sku>HTMSPC-IP6</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

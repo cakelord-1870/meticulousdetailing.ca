@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/tools-cleaning-aviation.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-06-19T13:43:21-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580137271356</id>
+    <published>2020-06-19T13:43:21-07:00</published>
+    <updated>2020-06-19T13:43:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/3m-auto-trizact-hookit-blending-discs"/>
+    <title>3M Auto -  Trizact Hookit Blending Discs</title>
+    <s:type>Miscellaneous</s:type>
+    <s:vendor>3M Auto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/3m-auto-miscellaneous-3m-auto-trizact-hookit-blending-discs-14706954240060.png?v=1614130869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Auto<br>
+        <strong>Type: </strong>Miscellaneous<br>
+        <strong>Price: </strong>
+            9.89 - 11.49
+            <a href="https://meticulousdetailing.ca/products/3m-auto-trizact-hookit-blending-discs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>3M™ Trizact™ Hookit™ Blending Discs are used to scuff sanding blend panels prior to painting. The soft foam backing preserves orange peel for better texture matching, and can be used damp to prevent loading.</p>
+<p>*Price per unit. 15 blending discs/box.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3m auto</s:tag>
+    <s:tag>abrasive product</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>disc</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Micellaneous</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580137271356</id>
+      <title>3&quot;</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku>02091-3M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580137271356</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>02090-3M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4497169317948</id>
+    <published>2020-04-14T15:55:12-07:00</published>
+    <updated>2020-04-14T15:55:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/scangrip-equipment-kit"/>
+    <title>Scangrip Equipment Kit</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Scangrip</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/scangrip-accessory-scangrip-equipment-kit-14286699266108.png?v=1614060832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scangrip<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>3 Part Kit w/Great Case</li>
+<li>Includes Matchpen, Sunmatch &amp; Multimatch Lights</li>
+<li>Perfect For Mobile Detailers</li>
+<li>Great Portable Kit</li>
+</ul>
+<meta charset="utf-8">
+<p>The Scangrip Kit contains 1 - Matchpen, 1 - Sunmatch Handheld and 1 - MultiMatch Light in a quality carrying and storage case perfect for mobile detailers or shop storage.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>Scangrip</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4497169317948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>E1215</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4497167515708</id>
+    <published>2020-04-14T14:28:58-07:00</published>
+    <updated>2020-04-14T14:28:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/scangrip-telescopic-wheel-stand"/>
+    <title>Scangrip Telescopic Wheel Stand</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Scangrip</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/scangrip-accessory-scangrip-telescopic-wheel-stand-14286695465020.png?v=1614058545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scangrip<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            251.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Rolling Stand</li>
+<li>For Multimatch Light</li>
+<li>Heavy Duty Construction</li>
+<li>Height Range - 2.4 ft. to 6 ft.</li>
+<li>3 Wheel Work Base</li>
+</ul>
+<meta charset="utf-8">
+<p>The Scangrip Telescopic Lighting Wheel Stand is developed for mobile positioning of the work light in the detailing workshop. It makes it easy to move the light to where you need it, and at the same time, you avoid uncomfortable and heavy lifting from one workplace to the other. The 3 wheels are sturdy and of high quality and roll easily even on uneven surfaces. 2 of the wheels are lockable to secure a safe and fixed position. The Scangrip Telescopic Lighting Wheel Stand is made of durable and sturdy powder coated steel for both indoor and outdoor use.The Scangrip Telescopic Lighting Wheel Stand is extendable from just 2.4ft up to 6ft which gives you complete flexibility to position the light in the requested height. To provide illumination for the work on the side of the car the low working height is particularly useful.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>Scangrip</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4497167515708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">251.99</s:price>
+      <s:sku>E1211</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495961751612</id>
+    <published>2020-04-13T13:14:05-07:00</published>
+    <updated>2020-04-13T13:14:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/detailers-stand"/>
+    <title>P&amp;S Detailer&apos;s Stand</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-equipment-p-s-detailer-s-stand-14281691725884.png?v=1614139678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            217.46 - 283.54
+            <a href="https://meticulousdetailing.ca/products/detailers-stand">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Safety Stand For Detailing</li>
+<li>Extremely Stable</li>
+<li>Constructed of Aluminum</li>
+<li>Built to Last</li>
+<li>40" W x 18" H</li>
+</ul>
+<meta charset="utf-8">
+<p>These stands were built for professional detailers in mind. These cool stands are perfect for reaching the roofs of SUV's and trucks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495961751612</id>
+      <title>18&quot; x 32&quot;</title>
+      <s:price currency="CAD">217.46</s:price>
+      <s:sku>E4018</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495961751612</id>
+      <title>24&quot; x 32&quot;</title>
+      <s:price currency="CAD">283.54</s:price>
+      <s:sku>E4024</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495938289724</id>
+    <published>2020-04-13T13:14:05-07:00</published>
+    <updated>2020-04-13T13:14:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/detailers-helper-workbelt"/>
+    <title>P&amp;S Detailer&apos;s Helper Workbelt</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-equipment-p-s-detailer-s-helper-workbelt-14281639133244.png?v=1614139711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            84.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Velcro Belt</li>
+<li>Durable and Washable</li>
+<li>Amazing Time Saver</li>
+<li>Large Pockets</li>
+</ul>
+<meta charset="utf-8">
+<p>Detail Helper is perfect for professional Detailing. A work belt specifically designed with detailing in mind. No Buckles, soft but durable canvas pockets, large enough to fit towels, small enough to fit polish bottles or cell phones. Detailers helper is so useful, you will never want to work without it after you've tried it. (One Size Fits All)</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/JFcU1PdGi4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>protection</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495938289724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.79</s:price>
+      <s:sku>PA425</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495888187452</id>
+    <published>2020-04-13T13:14:05-07:00</published>
+    <updated>2020-04-13T13:14:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/dust-mist-respirator"/>
+    <title>P&amp;S Dust &amp; Mist Respirator</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-equipment-p-s-dust-mist-respirator-14281489285180.png?v=1614139442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            23.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Inner foam provides custom seal</li>
+<li>Dual head strap for optimum fit</li>
+<li>Maintenance free</li>
+<li>NIOSH Approved</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>protection</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495888187452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.31</s:price>
+      <s:sku>SE501</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495884386364</id>
+    <published>2020-04-13T13:14:05-07:00</published>
+    <updated>2020-04-13T13:14:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/dust-mask"/>
+    <title>P&amp;S Dust Mask</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-equipment-p-s-dust-mask-14281475883068.png?v=1614139226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            12.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Single fixed strap</li>
+<li>Adjustable metal nose band</li>
+<li>Contoured non-woven material</li>
+<li>Compact design</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>protection</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495884386364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.71</s:price>
+      <s:sku>SE500</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495880192060</id>
+    <published>2020-04-13T13:14:05-07:00</published>
+    <updated>2020-04-13T13:14:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/p-s-rubber-tip-blow-gun"/>
+    <title>P&amp;S Rubber Tip Blow Gun</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-accessory-p-s-rubber-tip-blow-gun-14281460973628.png?v=1614073429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            10.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Great for blowing out hard to reach areas! Clean fuel lines, dry out wet ignitions, blow out dirt, dust, metal chips, filings, and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>sprayer</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495880192060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.59</s:price>
+      <s:sku>SE420</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495877177404</id>
+    <published>2020-04-13T12:44:52-07:00</published>
+    <updated>2020-04-13T12:44:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/empty-spray-bottles"/>
+    <title>P&amp;S Empty Spray Bottles</title>
+    <s:type>Bottle</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-bottle-labeled-quart-sized-p-s-empty-spray-bottles-14281452978236.png?v=1614138723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Bottle<br>
+        <strong>Price: </strong>
+            3.70 - 4.23
+            <a href="https://meticulousdetailing.ca/products/empty-spray-bottles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chemical resistant grade spray bottle - does not include trigger</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495877177404</id>
+      <title>Labeled Quart Sized</title>
+      <s:price currency="CAD">4.23</s:price>
+      <s:sku>PB320</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495877177404</id>
+      <title>Blank Quart Sized</title>
+      <s:price currency="CAD">4.23</s:price>
+      <s:sku>PB320B</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495877177404</id>
+      <title>Pint Sized</title>
+      <s:price currency="CAD">3.70</s:price>
+      <s:sku>PB160</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495875407932</id>
+    <published>2020-04-13T12:44:52-07:00</published>
+    <updated>2020-04-13T12:44:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/plastic-dispense-bottle"/>
+    <title>P&amp;S Plastic Dispense Bottle</title>
+    <s:type>Bottle</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-bottle-p-s-plastic-dispense-bottle-14281448816700.png?v=1614074908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Bottle<br>
+        <strong>Price: </strong>
+            2.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plastic dispense bottle ready to fill and use!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495875407932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.64</s:price>
+      <s:sku>PB380</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495873540156</id>
+    <published>2020-04-13T12:44:52-07:00</published>
+    <updated>2020-04-13T12:44:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/five-gallon-tighthead-container"/>
+    <title>P&amp;S Five Gallon Tighthead Container</title>
+    <s:type>Bottle</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-bottle-p-s-five-gallon-tighthead-container-14281437544508.png?v=1614138237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Bottle<br>
+        <strong>Price: </strong>
+            33.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Five gallon tighthead container ready to use!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495873540156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.91</s:price>
+      <s:sku>PB410</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495870394428</id>
+    <published>2020-04-13T12:44:52-07:00</published>
+    <updated>2020-04-13T12:44:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/p-s-standard-duty-sprayer"/>
+    <title>P&amp;S Standard Duty Sprayer</title>
+    <s:type></s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-p-s-standard-duty-sprayer-14281410150460.png?v=1614072235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A standard duty sprayer built to hold up for professional detailers. Delivers a quality spray pattern to effectively apply a wide range of detailing chemicals. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>sprayer</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495870394428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.17</s:price>
+      <s:sku>PB820</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495865479228</id>
+    <published>2020-04-13T12:44:52-07:00</published>
+    <updated>2020-04-13T12:44:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/chemical-resistant-grey-sprayer"/>
+    <title>P&amp;S Chemical Resistant Grey Sprayer - Trigger</title>
+    <s:type>Bottle Sprayer</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-bottle-sprayer-p-s-chemical-resistant-grey-sprayer-trigger-14281381675068.png?v=1614140698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Bottle Sprayer<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Chemical Resistant Grey Sprayer has become the spray head of choice for professional detailers. It holds up well against all types of chemicals including solvent based tire dressing. The sprayer includes a synthetic o-ring and piston cup built to hold up against harsh chemicals. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>P&amp;S</s:tag>
+    <s:tag>sprayer</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495865479228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>PB825</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4489756770364</id>
+    <published>2020-04-05T18:39:35-07:00</published>
+    <updated>2020-04-05T18:39:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/3m-auto-perfect-it-foam-polishing-pad"/>
+    <title>3M Auto -  Perfect-It Foam Polishing Pad</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>3M Auto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/3m-auto-paint-correction-3m-auto-perfect-it-foam-polishing-pad-14251349573692.png?v=1614131758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Auto<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>3M™ Perfect-It Foam Polishing Pads are ideal for refining minor sand scratches, scuff marks and surface defects, producing a smooth, flawless surface.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3m auto</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>Paint Correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4489756770364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>05725-3M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4489656074300</id>
+    <published>2020-04-05T18:39:35-07:00</published>
+    <updated>2020-04-05T18:39:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/3m-auto-perfect-it-foam-double-sided-compounding-pads"/>
+    <title>3M Auto Perfect-It Foam Double Sided Compounding Pads</title>
+    <s:type>Tool</s:type>
+    <s:vendor>3M Auto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/3m-auto-tool-8-3m-auto-perfect-it-foam-double-sided-compounding-pads-14250878697532.png?v=1614131823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Auto<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>3M™ Perfect-It™ Foam Compounding Pads are high performance, double-sided foam compounding pads that features a quick connect attachment. The pad is intended for use with 3M™ Quick Connect Adaptor and is used to refine P1200 or finer sand scratches.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3m auto</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>buffing pads</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>Paint Correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4489656074300</id>
+      <title>8&quot;</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>05706-3M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4489651978300</id>
+    <published>2020-04-05T18:39:35-07:00</published>
+    <updated>2020-04-05T18:39:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/3m-auto-trizact-foam-discs"/>
+    <title>3M Auto Trizact Foam Discs</title>
+    <s:type>sanding</s:type>
+    <s:vendor>3M Auto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/3m-auto-sanding-3m-auto-trizact-foam-discs-14250867327036.png?v=1614131108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Auto<br>
+        <strong>Type: </strong>sanding<br>
+        <strong>Price: </strong>
+            5.99 - 9.99
+            <a href="https://meticulousdetailing.ca/products/3m-auto-trizact-foam-discs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Patterned, precise mineral structures give 3M™ Trizact™ Foam Discs abrasives, the combination of fast cut and consistent finish every time. Use this foam disc for removing P3000 grade sand scratches.</p>
+<p>*Price per box. 15 foam discs per box.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3m auto</s:tag>
+    <s:tag>abrasive product</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>disc</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Micellaneous</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>sanding</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4489651978300</id>
+      <title>3 Inches</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02087-3M-1</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4489651978300</id>
+      <title>6 Inches</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02087-3M-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4489640378428</id>
+    <published>2020-04-05T18:39:35-07:00</published>
+    <updated>2020-04-05T18:39:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/3m-auto-ultrafine-blue-foam-polishing-pad"/>
+    <title>3M Auto Ultrafine Blue Foam Polishing Pad</title>
+    <s:type>Tool</s:type>
+    <s:vendor>3M Auto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/3m-auto-tool-3m-auto-ultrafine-blue-foam-polishing-pad-14250805755964.png?v=1614130601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Auto<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3534-product-field-body">
+<div class="field field-name-field-body">
+<p>3M™ Ultrafine Foam Polishing Pad is a one-sided pad that helps to eliminate swirl marks on painted surfaces, including dark coloured vehicles. This pad is intended for use with 3M™ Perfect-It™ EX Ultrafine Machine Polish. </p>
+<meta charset="utf-8">
+<ul class="MMM--pdpList SNAPS--bullets js--bnftsPdPList">
+	<li>3M™ Hookit™ Attachment System holds polishing pad securely and provides quick pad change-out</li>
+	<li>Leaves a high gloss finish</li>
+	<li>Great with dark coloured automotive paints</li>
+</ul>
+</div>
+</div>
+<div class="field field-name-field-product">
+<form accept-charset="UTF-8" action="http://www.bocar.ca/en/product/3534/3m-ultrafine-blue-foam-polishing-pad" class="commerce-add-to-cart commerce-cart-add-to-cart-form-5368" id="commerce-cart-add-to-cart-form-5368" method="post">
+<div></div>
+</form>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3m auto</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Miscellaneous</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4489640378428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>05751-3M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4489626091580</id>
+    <published>2020-04-05T18:39:35-07:00</published>
+    <updated>2020-04-05T18:39:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/3m-auto-wet-or-dry-abrasive-sheet"/>
+    <title>3m Auto Wet or Dry Abrasive Sheet</title>
+    <s:type>Sanding</s:type>
+    <s:vendor>3M Auto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/3m-auto-sanding-3m-auto-wet-or-dry-abrasive-sheet-14250763943996.png?v=1614130567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Auto<br>
+        <strong>Type: </strong>Sanding<br>
+        <strong>Price: </strong>
+            83.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Durable yet flexible, the 3M™ Wetordry™ Abrasive Sheet levels minor dust nibs, and is great for adjusting mismatched orange peel on all automotive paints. Fast cutting and long lasting, this abrasive has a flexible backing with a consistent scratch pattern. 5.5" x 9".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3m auto</s:tag>
+    <s:tag>abrasive product</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Miscellaneous</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4489626091580</id>
+      <title>P1200</title>
+      <s:price currency="CAD">83.99</s:price>
+      <s:sku>02022-3M-1</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4489626091580</id>
+      <title>P1500</title>
+      <s:price currency="CAD">83.99</s:price>
+      <s:sku>02022-3M-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4489626091580</id>
+      <title>P2000</title>
+      <s:price currency="CAD">83.99</s:price>
+      <s:sku>02022-3M-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4489619931196</id>
+    <published>2020-04-05T18:39:35-07:00</published>
+    <updated>2020-04-05T18:39:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/3m-sun-gun-battery-pack"/>
+    <title>3M Auto Sun Gun Battery Pack</title>
+    <s:type>Tool</s:type>
+    <s:vendor>3M Auto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/3m-auto-tool-3m-auto-sun-gun-battery-pack-14250744479804.png?v=1614131311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Auto<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            569.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The 3M™ PPS™ Sun Gun™ II Battery Pack is used with the 3M™ PPS™ Sun Gun™ II Colour Matching Light Kit, 16550. It is not compatible with earlier versions of the 3M™ PPS™ Sun Gun™, 16400. The 3M™ PPS™ Sun Gun™ II features a NiMH battery for longer run time between charging cycles, delivering improved cycle charge time.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3m auto</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Micellaneous</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4489619931196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">569.99</s:price>
+      <s:sku>16555</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4362924785724</id>
+    <published>2019-11-21T10:33:39-08:00</published>
+    <updated>2019-11-21T10:33:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/wheel-woolies-small-medium-large"/>
+    <title>P&amp;S Wheel Woolies -- Small, Medium or Large</title>
+    <s:type>Auto Products</s:type>
+    <s:vendor>P&amp;S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/p-s-auto-products-medium-p-s-wheel-woolies-small-medium-or-large-13577857761340.png?v=1614070556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;S<br>
+        <strong>Type: </strong>Auto Products<br>
+        <strong>Price: </strong>
+            19.99 - 23.99
+            <a href="https://meticulousdetailing.ca/products/wheel-woolies-small-medium-large">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Wheel Woolies clean wheels of all shapes and sizes. Wheel Woolies are constructed of the highest quality materials producing and exceptionally durable wheel cleaner. The head of the wooly when dipped into the cleaner bucket absorbs the cleaner and allows for even distribution of cleaner covering all of the wheel surface. The absorbent wooly conforms to the wheel allowing it to reach everywhere. </span></p>
+<p><span>These Wheel Woolies are constructed of soft synthetic wool mounted on long handles. They’re safe on any wheel finish and the wool compresses to fit into tight spaces. Wheel Woolies keep your hands clear of the wheel while you’re cleaning. Comes in 3 sizes.</span></p>
+<div class="prod-info-left-wrap seven columns">
+<div class="wsm-prod-summary prod-info-left">
+<ul>
+<ul>
+<li>Medium = 12" w/1.75" Diameter Head</li>
+<li>Large = 18" w/3" Diameter Head</li>
+<li>Small = 8" w/1" Diameter Head</li>
+<li>Wool Cleaning Head</li>
+<li>Conforms To Wheels</li>
+<li>Absorbent</li>
+<li>Keeps Hands Clean</li>
+</ul>
+</ul>
+<p class="ps-descr-partnumbers"> </p>
+</div>
+</div>
+<div class="prod-info-right-wrap five columns no-tiered-or-option2-wrap">
+<div class="wsm-cat-pricebox wsm-prod-pricebox wsm-cat-mbtm prod-info-right"><br></div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>auto exterior</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:tag>Wheel Maintenance</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:tag>woolie</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4362924785724</id>
+      <title>Small</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>R2012</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4362924785724</id>
+      <title>Medium</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>R2014</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4362924785724</id>
+      <title>Large</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>R2016</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4360128004156</id>
+    <published>2019-11-20T15:53:30-08:00</published>
+    <updated>2019-11-20T15:53:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/scangrip-sunmatch-handheld-rechargeable-work-light"/>
+    <title>Scangrip Sunmatch Handheld Rechargeable Work Light</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Scangrip</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/scangrip-equipment-scangrip-sunmatch-handheld-rechargeable-work-light-13561290522684.png?v=1614058789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scangrip<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A handheld rechargeable work light for quality paint or interior inspection. This is one sturdy light for quick access. This device comes with an amazing charging cradle for excellent storage and recharge. Place the lamp anywhere you want during an inspection with the turnable sturdy hook or the strong built-in magnet. The flexible lamp head tilts up to 180 degrees. Durable construction, dust and waterproof, IP65. Supplied with solvent resistant replaceable glass lens.</span></p>
+<p><span>Benefits: </span></p>
+<ul>
+<li><span>Portable Handheld Light</span></li>
+<li><span>Perfect for car inspections, detecting scratches and swirl marks, and colour matching</span></li>
+<li><span>Battery powered and rechargeable</span></li>
+<li><span>Ex-charging Station included</span></li>
+<li><span>Magnet Attachment</span></li>
+</ul>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>Scangrip</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4360128004156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>E1205</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4360084258876</id>
+    <published>2019-11-20T14:22:41-08:00</published>
+    <updated>2019-11-20T14:22:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/multi-match-light"/>
+    <title>Scangrip Multi-Match Light</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Scangrip</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/scangrip-equipment-scangrip-multi-match-light-13561015369788.png?v=1614059578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scangrip<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            633.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Outstanding and powerful rechargeable work light for detailing providing up to 2500 lumen. The MultiMatch is ideal for inspection of large surfaces during polishing, painting and cleaning operations. The MultiMatch is designed can be used both with cable connection and with battery without cable connection, depending on the worktask in question. This gives you complete flexibility and unlimited application possibilities. The body is made of diecast aluminium which makes it extremely sturdy, shockproof, dust and waterproof. MultiMatch features a carrying handle making it very easy to carry and place for perfect lighting. The flexible stand can be used as a hanger and to position the lamp in the desired lighting angle.</span></p>
+<ul>
+<ul>
+<li>Powerful Rechargeable Work Light</li>
+<li>Inspection of Large Surface</li>
+<li>Stand Alone or on Telescopic Stand</li>
+<li>Operates Off Battery or Plug In Option</li>
+<li>Heavy Construction/Die Cast Aluminum</li>
+<li>Dust and Waterproof</li>
+<li>WARM Light (4500K) &amp; COLD Light (6500K)</li>
+</ul>
+</ul>
+<p class="ps-descr-partnumbers"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>Scangrip</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4360084258876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">633.99</s:price>
+      <s:sku>E1210</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4359811661884</id>
+    <published>2019-11-20T13:52:35-08:00</published>
+    <updated>2019-11-20T13:52:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/rupes-big-foot-mark-iii-21-da-polisher"/>
+    <title>Rupes Big Foot Mark III 21 DA Polisher</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Rupes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/rupes-equipment-rupes-big-foot-mark-iii-21-da-polisher-13559737548860.png?v=1614063659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rupes<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the evolution of excellence. This is a high performance dual action polisher by Rupes. The Mark III generation of their flagship polishing system isn’t a full re-write of the platform, but an evolutionary step that takes the class-leading performance of the BigFoot random orbital tools and continues to refine their performance. With numerous ergonomic enhancements and new features, the best just continues to get better! With the ability to remove 1500 grit sanding marks and leave a high-gloss finish in one step*, the LHR21 Mark III Random Orbital Polisher makes paint polishing fast and easy. The large, overlapping orbital movement eliminates the cause of swirl marks, and greatly reduces the chances of damaging edges and tight areas. Engineered to work in harmony with RUPES 180mm foam, 170mm microfibre, or 170mm wool pads, the LHR21 Mark III is nearly vibration free and incredibly comfortable to use. (1 polisher per box, includes velcro back up plate)</p>
+<p>The LHR21 Mark III Random Orbital Polisher is ideal for large and flat surfaces where maximum coverage is beneficial. This polisher, along with RUPES engineered pads and polishing compounds, gives enthusiasts, professional detailers, and body shop technicians the ability to produce world-class results easily and quickly. In the evolution of paint polishing, the LHR21 Mark III Random Orbital Polisher leaves paint defects and many associated risks of polishing in the history books.</p>
+<ul>
+<li>Random Orbital Polisher</li>
+<li>Improved Ergonomics</li>
+<li>Tuned Electronic Speed Module</li>
+<li>Progressive Trigger</li>
+<li>Guaranteed No Swirls</li>
+<li>29.6' Cord</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>polisher</s:tag>
+    <s:tag>rupes</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4359811661884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku>RULHR21III</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4350010523708</id>
+    <published>2019-11-15T10:38:53-08:00</published>
+    <updated>2019-11-15T10:38:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/real-clean-aviation-waterless-dry-mop"/>
+    <title>Real Clean Aviation Waterless Dry Mop</title>
+    <s:type>Aircraft Wash</s:type>
+    <s:vendor>Real Clean Aviation Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/real-clean-aviation-products-aircraft-wash-real-clean-aviation-waterless-dry-mop-13511674298428.jpg?v=1614064371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Clean Aviation Products<br>
+        <strong>Type: </strong>Aircraft Wash<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Waterless Dry Wash Mop with Aluminum Extension Pole.</span><br><br><span>Pole extends from 57" to 144"</span><br><br><span>Comes with two dry wash mop pads.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation tool</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>exterior aviation</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4350010523708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

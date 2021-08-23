@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/cleaning-kits-aviation.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2019-11-15T10:38:53-08:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4349977198652</id>
+    <published>2019-11-15T10:38:53-08:00</published>
+    <updated>2019-11-15T10:38:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/real-clean-aviation-newstax-aircraft-exhaust-polishing-system"/>
+    <title>Real Clean Aviation NewStax Aircraft Exhaust Polishing System</title>
+    <s:type>Aircraft Wash</s:type>
+    <s:vendor>Real Clean Aviation Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/real-clean-aviation-products-aircraft-wash-real-clean-aviation-newstax-aircraft-exhaust-polishing-system-13511530283068.png?v=1614121672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Clean Aviation Products<br>
+        <strong>Type: </strong>Aircraft Wash<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NewStax is Real Clean Aviation's first &amp; only IN FIELD Exhaust Stacks Cleaning/Polishing System!</p>
+<ul>
+<li>Step 1 -CLEAN-Remove Heat Staining and Dark Spots!!!</li>
+<li>Step 2-POLISH-Restore Stacks to Factory <strong>Mirror finish!!!</strong>
+</li>
+<li>
+<span><strong>No need to remove stacks</strong></span>-NewStax can be used while the stacks are ON the aircraft! </li>
+<li>Professional grade finish without the high cost of sending stacks to the manufacturer</li>
+</ul>
+<ul></ul>
+<p><strong>STEP 1- PREP</strong>  Always wear chemical gloves, eye protection and protective clothing before use. Apply Metal Prep to blue sponge. Wet surface of exhaust stack. Apply sparingly, in small sections to avoid contact with other aircraft surfaces. Turn sponge over and use scouring side to lightly scrub metal by hand. Watch as heat staining and dark spots begin to fade. Repeat this process until stains are no longer visible.</p>
+<p><strong>Step 2- POLISH</strong> Apply liberal amount of polish to cushioned microfiber applicator. Using circular motion, apply to the surface of the exhaust stack. Small sections are recommended to avoid contact with other parts of the aircraft. Then, polish by hand using terry cloth or use orbital machine with terry cloth bonnet or foam pad. Wipe down newly polished surface with microfiber cloth. Repeat process until desired finish is achieved.</p>
+<p><iframe width="530" height="298" src="https://www.youtube.com/embed/8ZY0USmh8WE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviation</s:tag>
+    <s:tag>cleaning kits aviation</s:tag>
+    <s:tag>exterior cleaning aviation</s:tag>
+    <s:tag>real clean aviation</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4349977198652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku/>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4349972414524</id>
+    <published>2019-11-15T10:38:53-08:00</published>
+    <updated>2019-11-15T10:38:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/real-clean-aviation-complete-aircraft-detailing-kit"/>
+    <title>Real Clean Aviation Complete Aircraft Detailing Kit</title>
+    <s:type>Aircraft Wash</s:type>
+    <s:vendor>Real Clean Aviation Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/real-clean-aviation-products-aircraft-wash-real-clean-aviation-complete-aircraft-detailing-kit-13511505412156.png?v=1614066990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Clean Aviation Products<br>
+        <strong>Type: </strong>Aircraft Wash<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A box set including the essentials for a clean aircraft.</p>
+<ul>
+<li>16 oz spray bottles of Wingman Bug Remover, Turbine Soot Master, Dry Wash Pro, Post Flight</li>
+<li>2 Leather Restore sponges</li>
+<li>12 Premium Microfibre Towels.</li>
+</ul>
+<p>Convenient and easy to travel with!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviation</s:tag>
+    <s:tag>aviation kit</s:tag>
+    <s:tag>exterior aviation</s:tag>
+    <s:tag>interior aviation</s:tag>
+    <s:tag>real clean aviation</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4349972414524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>3783</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4345606733884</id>
+    <published>2019-11-13T10:21:03-08:00</published>
+    <updated>2019-11-13T10:21:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/fly-away-cleaning-kit"/>
+    <title>Real Clean Aviation Fly-Away Cleaning Kit</title>
+    <s:type>Aircraft Wash</s:type>
+    <s:vendor>Real Clean Aviation Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/real-clean-aviation-products-aircraft-wash-real-clean-aviation-fly-away-cleaning-kit-13492451573820.jpg?v=1614167029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Clean Aviation Products<br>
+        <strong>Type: </strong>Aircraft Wash<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Real Clean Premium Fly Away Kit <br></strong></p>
+<p>Real Clean has packaged our finest interior and exterior cleaning and detailing products into 1 carrying case for your convenience. Our Fly Away Kit has everything you need to keep your aircraft looking great on the fly.</p>
+<p>What's Inside</p>
+<ul>
+<li>1 12 oz Advantage Carpet and Upholstery Cleaner </li>
+<li>1 12 oz Dry Wash Pro </li>
+<li>1 12 oz Post Flight Detailing Spray</li>
+<li>1 12 oz Turbine Soot Master</li>
+<li>3 Premium Microfiber Cloths</li>
+<li>3 Antistatic Visual Wipes </li>
+<li>1 No Scratch Bug Scrubber</li>
+<li>2 Pair of Latex Gloves </li>
+<li>Stow-away Carrying Case<b></b>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviation kit</s:tag>
+    <s:tag>Carpet Care and Upholstery</s:tag>
+    <s:tag>Carpet Care and Upholstrey</s:tag>
+    <s:tag>Carpet Care Aviation</s:tag>
+    <s:tag>cleaning kits aviation</s:tag>
+    <s:tag>Exterior Cleaning Aviation</s:tag>
+    <s:tag>Interior Cleaners Aviation</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4345606733884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>609239363803</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4343972429884</id>
+    <published>2019-11-12T18:52:34-08:00</published>
+    <updated>2019-11-12T18:52:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/exterior-dry-wash-polish-kit"/>
+    <title>Real Clean Aviation Exterior Dry Wash &amp; Polish Kit</title>
+    <s:type>Wash</s:type>
+    <s:vendor>Real Clean Aviation Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/real-clean-aviation-products-wash-real-clean-aviation-exterior-dry-wash-polish-kit-13482418372668.png?v=1614066471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Clean Aviation Products<br>
+        <strong>Type: </strong>Wash<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Introducing Real Clean Aviation's Exterior Dry Wash Kit!</p>
+<p>Everything needed to keep your aircraft exterior looking it's best at a great package price! These products stand tough against bugs and dirt! Together they are a powerful force in maintaining a top notch finish on your aircraft.</p>
+<p>Kit Includes:</p>
+<ul>
+<li>1 32oz Streamline Speed Wax</li>
+<li>1 32oz Post Flight Detailing Spray</li>
+<li>1 32oz Aircraft Dry Wash Pro</li>
+<li>3 Premium Microfiber Cloths</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Real Clean Aviation</s:tag>
+    <s:tag>cleaning kits aviation</s:tag>
+    <s:tag>exterior aviation</s:tag>
+    <s:tag>Used For_Aviation Detailing</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4343972429884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>609239363797</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4343961354300</id>
+    <published>2019-11-12T18:52:34-08:00</published>
+    <updated>2019-11-12T18:52:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/aviation-interior-cleaning-kit"/>
+    <title>P&amp;S Aviation Interior Cleaning Kit</title>
+    <s:type>Cleaning Kit</s:type>
+    <s:vendor>Real Clean Aviation Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/real-clean-aviation-products-cleaning-kit-p-s-aviation-interior-cleaning-kit-13482372366396.jpg?v=1614096985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Clean Aviation Products<br>
+        <strong>Type: </strong>Cleaning Kit<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Real Clean Aviation Interior Cleaning Kit has all you need to keep the interior of your aircraft up to par.</p>
+<p><strong>Kit Includes:</strong></p>
+<p>(1) Advantage Carpet &amp; Upholstery Cleaner- 32oz Spray Bottle</p>
+<p>(1) Post Flight Detailer- 32oz Spray Bottle</p>
+<p>(1) Real Care Leather Cleaner &amp; Conditioner- 12 oz Bottle</p>
+<p>(2) Leather Restore Sponges</p>
+<p>(3) Instrument Display Cleaning Kits</p>
+<p>(3) Premium Microfiber Cloths</p>
+<meta charset="utf-8">
+<p>Product Description: </p>
+<ul>
+	<li><span><strong>Advantage Aircraft Carpet Upholstery Cleaner and Stain Remover</strong> is the ultimate multipurpose aircraft cleaning product specially designed to safely deep clean heavily soiled and stained carpet, fabric, vinyl, leather, and synthetics!</span></li>
+	<li><span><strong>Post Flight Aircraft Detailer</strong> is a high Performance Interior and Exterior liquid cleaner and polish that is safe for all surfaces. Post flight contains micro-waxes that clean and shine paint, aluminum, plexi-glass, polished wood and plastic to a beautiful high gloss finish. Just spray on and wipe away, leaving a clean beautiful shine</span></li>
+	<li><span><strong>Real Care Leather</strong> Cleaner and Conditioner rejuvenates leather by deep cleaning to remove dirt and grime and conditions to replace natural oils and moisture that has been lost over time. Real Care offers excellent UV protection to prevent color fading and naturally scented to maintain that "New Leather Smell"</span></li>
+	<li>
+	<p><strong>Leather Restore</strong><span> </span>is an exciting and new cutting edge technology that combines the power of top quality leather cleaners and conditioners with our proprietary micromesh melamine sponge to bring you the finest leather deep cleaning and care product available.Our easy 3 in 1 system deep cleans, conditions and restores the look and feel of leather, vinyl and plastic to restore your interior back to new in no time! Recommended for use on finished leather, vinyl and plastic. Do not use suede leather. Each packet contains 1 pre-saturated micromesh sponge and will clean approximately 1 full seat.</p>
+	</li>
+	<li>
+	<p><strong>Instrument Display Cleaning Kit</strong><span> </span>is a twin wet/dry wipe designed to clean all integrated or stand-alone instrumentation and flight deck displays for all aircraft. Avionics, radars and electronic touch panels build up static electricity which attracts dust. With frequent use, sweat and grime builds up, resulting in poor picture quality and reduced performance. Visial ensures a smear-free finish on a wide range of glass, acrylic and polycarbonate materials, whether active-matrix liquid-crystal panels or analogue instruments.</p>
+	</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Real Clean Aviation</s:tag>
+    <s:tag>cleaning kits aviation</s:tag>
+    <s:tag>Used For_Aviation Detailing</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4343961354300</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>609239363780</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+</feed>

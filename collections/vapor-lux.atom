@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/vapor-lux.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-04-12T11:11:29-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4495133016124</id>
+    <published>2020-04-12T11:11:29-07:00</published>
+    <updated>2020-04-12T11:11:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/vaporlux-vaporblast-ii-machine"/>
+    <title>VaporLux VaporBlast II Machine</title>
+    <s:type>Tool</s:type>
+    <s:vendor>VaporLux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/vaporlux-tool-vaporlux-vaporblast-ii-machine-14277563088956.png?v=1614062426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VaporLux<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">VAPORBLAST STEAM / VAPOR MACHINE</p>
+<meta charset="utf-8">
+<p>This is primarily a commercial machine. We have a UL <a href="https://www.ul.com/" title="Underwriters Laboratories">(Underwriters Laboratories)</a> listing for "Continuous Use." What this means is the Vaporblast II is as powerful as "the Big Boys." It's safe for continuous use, and is highly mobile, moved easily around while working.<br></p>
+<p>Auto Detail shops and Car Washes around the country have thoroughly tested the Vaporlux VaporBlast II. By cleaning cars in less time and with less water, and no chemicals, they have seen their profits dramatically increase. Excellent for detailing, removing chemicals, tar, odors and upholstery stains.<br></p>
+<p>Used by:</p>
+<ul>
+<li>Hotels</li>
+<li>Schools</li>
+<li>Hospitals</li>
+<li>Commercial Kitchens</li>
+<li>Nursing Homes and more</li>
+</ul>
+<ul></ul>
+<p>All tools are included. Cart is $200 additional. </p>
+<iframe width="565" height="318" src="https://www.youtube.com/embed/BRdnC92dzGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>auto interior</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>exterior aviation</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Micellaneous</s:tag>
+    <s:tag>vacuum</s:tag>
+    <s:tag>vacuum accessory</s:tag>
+    <s:tag>vacuum part</s:tag>
+    <s:tag>vapor</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4495133016124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku>VC5000</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+</feed>

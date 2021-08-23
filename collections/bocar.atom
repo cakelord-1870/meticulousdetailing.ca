@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/bocar.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2021-06-27T15:15:28-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6597037916220</id>
+    <published>2021-06-27T15:15:28-07:00</published>
+    <updated>2021-06-27T15:15:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/wash-wax-by-bocar"/>
+    <title>WASH &amp; WAX by Bocar ***</title>
+    <s:type>soap</s:type>
+    <s:vendor>Bocar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/bocar-soap-wash-wax-by-bocar-28419345088572.png?v=1624832281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bocar<br>
+        <strong>Type: </strong>soap<br>
+        <strong>Price: </strong>
+            26.99 - 1099.99
+            <a href="https://meticulousdetailing.ca/products/wash-wax-by-bocar">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Highly concentrated and biodegradable. It cleans gently without stripping wax shine or leaving traces on the windows and trims. It will leave the vehicle looking bright and clean. Can be used by hand or automatic application.</span></p>
+<div class="commerce-product-extra-field commerce-product-extra-field-sku node-3038-product-sku">
+<div class="commerce-product-sku">
+<div class="commerce-product-sku-label">Code:<span> </span>
+</div>
+HT670-01</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-measurement field-field-measurement node-3038-product-field-measurement">
+<div class="field field-name-field-measurement">
+<div class="label-inline">Size: </div>
+4 liters</div>
+</div>
+<div class="field field-name-field-company">
+<div class="label-inline">Company:  <a href="https://www.bocar.ca/en/products/company/bocar-private-label">Bocar Private Label</a>
+</div>
+</div>
+<p> </p>
+<p><span data-mce-fragment="1">Material Saftey Data Sheet : <a type="application/pdf; length=264568" href="https://www.bocar.ca/en/system/files/msds/3038-a45bb2a3.pdf">3038-a45bb2a3.pdf</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto soap</s:tag>
+    <s:tag>auto soap concentrate</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>car soap</s:tag>
+    <s:tag>car wash soaps</s:tag>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6597037916220</id>
+      <title>4 L</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>HT670-01</s:sku>
+      <s:grams>19958</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6597037916220</id>
+      <title>20 L</title>
+      <s:price currency="CAD">115.99</s:price>
+      <s:sku>HT670-02</s:sku>
+      <s:grams>19958</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6597037916220</id>
+      <title>205 L</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku>HT670-03</s:sku>
+      <s:grams>19958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580181082172</id>
+    <published>2020-06-19T15:11:11-07:00</published>
+    <updated>2020-06-19T15:11:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/bocar-refills-for-tire-dressing-applicators"/>
+    <title>Bocar Refills for Tire Dressing Applicators</title>
+    <s:type></s:type>
+    <s:vendor>Bocar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/bocar-bocar-refills-for-tire-dressing-applicators-14707257311292.png?v=1614162358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bocar<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bocar Refills for Tire Dressing Applicators</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>applicator</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580181082172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.10</s:price>
+      <s:sku>A2251-01</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580155162684</id>
+    <published>2020-06-19T14:20:33-07:00</published>
+    <updated>2020-06-19T14:20:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-dextatron-thick-rubber-gloves"/>
+    <title>Hi Tech Industries Dextatron Thick Rubber Gloves</title>
+    <s:type></s:type>
+    <s:vendor>Superior Glove Works Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/superior-glove-works-inc-l-hi-tech-industries-dextatron-thick-rubber-gloves-14707075678268.png?v=1614088550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Superior Glove Works Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3446-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3425-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2451-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3558-product-field-body">
+<div class="field field-name-field-body">
+<p>Heavy duty glove protection. Resistant to oils, acids, detergents and most chemicals.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6464" action="http://www.bocar.ca/en/product/3558/dextatron-thick-rubber-gloves" method="post" id="commerce-cart-add-to-cart-form-6464" accept-charset="UTF-8">
+<div></div>
+</form></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6312-6313" action="http://www.bocar.ca/en/product/3446/black-nylon-gloves" method="post" id="commerce-cart-add-to-cart-form-6312-6313" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>protection</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580155162684</id>
+      <title>L</title>
+      <s:price currency="CAD">6.10</s:price>
+      <s:sku>HT48009</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580153131068</id>
+    <published>2020-06-19T14:16:18-07:00</published>
+    <updated>2020-06-19T14:16:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-dextatron-black-nitrile-gloves"/>
+    <title>Hi Tech Industries Dextatron Black Nitrile Gloves</title>
+    <s:type></s:type>
+    <s:vendor>Superior Glove Works Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/superior-glove-works-inc-xl-hi-tech-industries-dextatron-black-nitrile-gloves-14707059556412.png?v=1614088615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Superior Glove Works Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3446-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3425-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2451-product-field-body">
+<div class="field field-name-field-body">
+<p>Premium quality gloves conform to your hand and provide protection, comfort and dexterity. Resistant to many acids, alkalis and solvents. Powder Free.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5347-5935-4950-6449" action="http://www.bocar.ca/en/product/2451/dextatron-black-nitrile-gloves" method="post" id="commerce-cart-add-to-cart-form-5347-5935-4950-6449" accept-charset="UTF-8">
+<div></div>
+</form></div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6271-6272-6273-6274" action="http://www.bocar.ca/en/product/3425/black-nitrile-gloves" method="post" id="commerce-cart-add-to-cart-form-6271-6272-6273-6274" accept-charset="UTF-8">
+<div><br></div>
+</form></div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6312-6313" action="http://www.bocar.ca/en/product/3446/black-nylon-gloves" method="post" id="commerce-cart-add-to-cart-form-6312-6313" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>protection</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580153131068</id>
+      <title>XL</title>
+      <s:price currency="CAD">12.15</s:price>
+      <s:sku>HT47008</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580151033916</id>
+    <published>2020-06-19T14:11:47-07:00</published>
+    <updated>2020-06-19T14:11:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/bocar-black-nitrile-gloves"/>
+    <title>Bocar Black Nitrile Gloves</title>
+    <s:type></s:type>
+    <s:vendor>Superior Glove Works Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/superior-glove-works-inc-xl-bocar-black-nitrile-gloves-14707043958844.png?v=1614162541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Superior Glove Works Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3446-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3425-product-field-body">
+<div class="field field-name-field-body">
+<p>Tough gloves for a tough job! These industrial grade gloves were built for workers. They are strong and extremely resistant to chemicals and tears, while still being form fitting and comfortable. Textured for better grip, these are gloves you can rely on.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6271-6272-6273-6274" action="http://www.bocar.ca/en/product/3425/black-nitrile-gloves" method="post" id="commerce-cart-add-to-cart-form-6271-6272-6273-6274" accept-charset="UTF-8">
+<div></div>
+</form></div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6312-6313" action="http://www.bocar.ca/en/product/3446/black-nylon-gloves" method="post" id="commerce-cart-add-to-cart-form-6312-6313" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>protection</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580151033916</id>
+      <title>XL</title>
+      <s:price currency="CAD">12.15</s:price>
+      <s:sku>AMD9950-E</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580248682556</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/bocar-spoke-grill-wheel-brush"/>
+    <title>Bocar Spoke Grill/Wheel Brush</title>
+    <s:type></s:type>
+    <s:vendor>Bocar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bocar<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" Bocar Spoke Grill/Wheel Brush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>detail brush</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580248682556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>CBE12214E</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580240425020</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/bocar-empty-plastic-bottles"/>
+    <title>Bocar Empty Plastic Bottles</title>
+    <s:type></s:type>
+    <s:vendor>Bocar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/bocar-bocar-empty-plastic-bottles-14707778158652.png?v=1614162508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bocar<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2622-product-field-body">
+<div class="field field-name-field-body">
+<p>28mm/400 neck finish. Made of polyethylene. Dilution ratios. FDA compliant.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5261" action="http://www.bocar.ca/en/product/2622/plastic-bottles" method="post" id="commerce-cart-add-to-cart-form-5261" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580240425020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.35</s:price>
+      <s:sku/>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580182458428</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/bocar-tire-dressing-applicator"/>
+    <title>Bocar Tire Dressing Applicator</title>
+    <s:type></s:type>
+    <s:vendor>Bocar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/bocar-bocar-tire-dressing-applicator-14707268911164.png?v=1614162263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bocar<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bocar Tire Dressing Applicator</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>applicator</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580182458428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>A2252-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580180918332</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/bocar-tire-dressing-applicator-1"/>
+    <title>Bocar Tire Dressing Applicator</title>
+    <s:type></s:type>
+    <s:vendor>Bocar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bocar<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99 - 1.49
+            <a href="https://meticulousdetailing.ca/products/bocar-tire-dressing-applicator-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bocar Tire Dressing Applicator</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>applicator</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580180918332</id>
+      <title>Jumbo</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>CBE751694</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580180918332</id>
+      <title>Crescent</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>CBE754264</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580149821500</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/super-glove-works-black-nylon-gloves"/>
+    <title>Super Glove Works Black Nylon Gloves</title>
+    <s:type></s:type>
+    <s:vendor>Superior Glove Works Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/superior-glove-works-inc-10-super-glove-works-black-nylon-gloves-14707031179324.png?v=1614054982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Superior Glove Works Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3446-product-field-body">
+<div class="field field-name-field-body">
+<p>Superior Touch® fine-gauge nylon gloves offer excellent comfort and touch sensitivity, while polyurethane palm coating provides an excellent grip. But what makes these gloves really great is the non-linting filament nylon used in the seamless knit shell, and the low-particulate shed of the polyurethane palm coating. Gloves are excellent for use in any fine assembly work where contamination is an issue, and protect hands from nicks and minor cuts, while allowing for a bare-hand feel during tasks where it is essential. </p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6312-6313" action="http://www.bocar.ca/en/product/3446/black-nylon-gloves" method="post" id="commerce-cart-add-to-cart-form-6312-6313" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>protection</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580149821500</id>
+      <title>10</title>
+      <s:price currency="CAD">20.64</s:price>
+      <s:sku>S13BKPUQ-10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578071838780</id>
+    <published>2020-06-17T14:08:53-07:00</published>
+    <updated>2020-06-17T14:08:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/bocar-diamond-shine"/>
+    <title>Bocar Diamond Shine</title>
+    <s:type>Dressing</s:type>
+    <s:vendor>Bocar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/bocar-dressing-4l-bocar-diamond-shine-14695412203580.png?v=1614162474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bocar<br>
+        <strong>Type: </strong>Dressing<br>
+        <strong>Price: </strong>
+            59.99 - 239.99
+            <a href="https://meticulousdetailing.ca/products/bocar-diamond-shine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2855-product-field-body">
+<div class="field field-name-field-body">
+<p>Solvent based dressing with an exceptionally high shine that lasts a long time. Use on rubber surfaces such as tires, bumpers and door seals. Diamond Shine can also be used on vinyl, leather and the engine compartment. Spray on and let dry. Protects from drying and cracking. Easy application and deep glossy shine.</p>
+</div>
+</div>
+<div class="field field-name-field-msds"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>dressing</s:tag>
+    <s:tag>solvent based dressing</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578071838780</id>
+      <title>4L</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>HT216-01</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578071838780</id>
+      <title>18.9 L</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku/>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578063941692</id>
+    <published>2020-06-17T14:08:53-07:00</published>
+    <updated>2020-06-17T14:08:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/bocar-scratch-eliminator-pen"/>
+    <title>Bocar Scratch Eliminator Pen</title>
+    <s:type></s:type>
+    <s:vendor>Bocar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/bocar-bocar-scratch-eliminator-pen-14695349321788.png?v=1614162296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bocar<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3342-product-field-body">
+<div class="field field-name-field-body">
+<p>Revolutionary Magna Mark™ Scratch Eliminator Pen made with clear coat resins fills and seals scratches. Dries within 4-5 minutes. Works on all colours.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6157" action="http://www.bocar.ca/en/product/3342/scratch-eliminator-pen" method="post" id="commerce-cart-add-to-cart-form-6157" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>bocar</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>tool</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578063941692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.49</s:price>
+      <s:sku>HTSE-01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

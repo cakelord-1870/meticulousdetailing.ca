@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/hi-tech-industries.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2021-03-07T16:39:55-08:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6539995578428</id>
+    <published>2021-03-07T16:39:55-08:00</published>
+    <updated>2021-03-07T16:39:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/firemans-style-hose-nozzle"/>
+    <title>FIREMAN&apos;S STYLE HOSE NOZZLE ***</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Hi-Tech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-equipment-fireman-s-style-hose-nozzle-27964690464828.png?v=1615164106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi-Tech<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Fireman's style nozzle will adjust from a straight stream to a wide fan. Made from a durable rubber, this water nozzle will withstand the harsh abuse.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>equipment</s:tag>
+    <s:tag>hi-tech</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6539995578428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4736189726780</id>
+    <published>2021-02-21T13:16:28-08:00</published>
+    <updated>2021-02-21T13:16:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/white-microfiber-polishing-bonnet-hi-tech"/>
+    <title>WHITE MICROFIBER POLISHING BONNET Hi-Tech ****</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Hi Tech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-paint-correction-white-microfiber-polishing-bonnet-hi-tech-15793720754236.png?v=1614196100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-title-field field-title-field node-2904-product-title-field" data-mce-fragment="1">
+<div class="field field-name-title-field" data-mce-fragment="1">WHITE MICROFIBER BONNET 11"</div>
+</div>
+<div class="commerce-product-extra-field commerce-product-extra-field-sku node-2904-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku-label" data-mce-fragment="1"></div>
+<div class="commerce-product-sku-label" data-mce-fragment="1">SKU:<span data-mce-fragment="1"> </span>HT100M</div>
+</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-measurement field-field-measurement node-2904-product-field-measurement" data-mce-fragment="1">
+<div class="field field-name-field-measurement" data-mce-fragment="1">
+<div class="label-inline" data-mce-fragment="1"></div>
+<div class="label-inline" data-mce-fragment="1">Size:  11 Inches</div>
+</div>
+</div>
+<div class="field field-name-field-company" data-mce-fragment="1">
+<div class="label-inline" data-mce-fragment="1"></div>
+<div class="label-inline" data-mce-fragment="1">Company: Hi-Tech </div>
+<div class="label-inline" data-mce-fragment="1"></div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2904-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<p data-mce-fragment="1">The magic of microfiber in an orbital bonnet provides a deep high gloss shine. Use for removing wax and polishing/finishing. Heavy duty, 100% terry microfiber.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bonnet</s:tag>
+    <s:tag>hi-tech</s:tag>
+    <s:tag>metal polishing</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>Polishing Pad</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4736189726780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HT100M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4736186220604</id>
+    <published>2021-02-21T13:12:21-08:00</published>
+    <updated>2021-02-21T13:12:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/car-wash-bonnet-hi-tech"/>
+    <title>CAR WASH BONNET Hi-Tech ****</title>
+    <s:type>Wash</s:type>
+    <s:vendor>Hi-Tech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-wash-car-wash-bonnet-hi-tech-15793710366780.png?v=1614188518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi-Tech<br>
+        <strong>Type: </strong>Wash<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-title-field field-title-field node-3503-product-title-field" data-mce-fragment="1">
+<div class="field field-name-title-field" data-mce-fragment="1">CAR WASH BONNET</div>
+</div>
+<div class="commerce-product-extra-field commerce-product-extra-field-sku node-3503-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku-label" data-mce-fragment="1">SKU:<span data-mce-fragment="1"> </span>
+</div>
+HTWM-950</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-measurement field-field-measurement node-3503-product-field-measurement commerce-product-field-empty" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="field field-name-field-company" data-mce-fragment="1">
+<div class="label-inline" data-mce-fragment="1">Company: Hi-tech </div>
+<div class="label-inline" data-mce-fragment="1"></div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3503-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<p data-mce-fragment="1">The new HTMH-950 Car Wash Mop and matching HTWM-950 Wash Mitt Bonnet can be affixed to any standard thread handle for easy, convenient and ergonomic vehicle washing. The HTWM-950 Wash Mitt Bonnet affixes securely onto the HTMH-950 head and with its soft synthetic lambswool is safe for any painted surface.</p>
+</div>
+</div>
+<div class="field field-name-field-product" data-mce-fragment="1"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6394" action="https://www.bocar.ca/en/product/3503/car-wash-bonnet" method="post" id="commerce-cart-add-to-cart-form-6394" data-mce-fragment="1" accept-charset="UTF-8">
+<div data-mce-fragment="1">
+<div id="edit-line-item-fields" class="form-wrapper" data-mce-fragment="1"></div>
+</div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hi-tech</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:tag>wash mitt</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4736186220604</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4736180715580</id>
+    <published>2021-02-21T13:06:21-08:00</published>
+    <updated>2021-02-21T13:06:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/magna-shine-8-x-11-wash-mitt-with-cuff"/>
+    <title>Magna Shine 8&quot; x 11&quot; Wash Mitt with cuff</title>
+    <s:type>Wash Mitt</s:type>
+    <s:vendor>Hi-Tech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-wash-mitt-magna-shine-8-x-11-wash-mitt-with-cuff-15793697456188.jpg?v=1614195743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi-Tech<br>
+        <strong>Type: </strong>Wash Mitt<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Hi Tech 811 8" x 11" Wash Mitt with cuff</strong></p>
+<p> </p>
+<p>This highly efficient, scratch proof, double faced mitt carries an abundance of water and withstands heat, gasoline and detergents. Made from heavy duty, long wearing, Lorene-Dynel synthetic fibers. Approximately 8" x 11" with elastic cuff.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hi tech</s:tag>
+    <s:tag>wash</s:tag>
+    <s:tag>Wash Mitt</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4736180715580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4733675765820</id>
+    <published>2021-02-16T17:36:44-08:00</published>
+    <updated>2021-02-16T17:36:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/clean-air-odor-eliminators-by-hi-tech"/>
+    <title>CLEAN AIR ODOR ELIMINATORS by Hi-Tech ****</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Hi-Tech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-deodorant-clean-air-odor-eliminators-by-hi-tech-15775939592252.png?v=1614195244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi-Tech<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Two-in-one product containing deodorizers and a powerful bactericide that, when sprayed on odor source, will eliminate odor on contact. Great for eliminating pet urine odors, spilled milk and other difficult to remove smells. 14.25 ounces (404 grams).</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air freshener</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>hi-tech</s:tag>
+    <s:tag>odor Eliminator</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733675765820</id>
+      <title>Fresh Air</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HT18065</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733675765820</id>
+      <title>Lemon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HT18070</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733675765820</id>
+      <title>Green Apple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HT18075</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733675765820</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HT18080</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733675765820</id>
+      <title>Mango</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HT19005</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733675765820</id>
+      <title>Watermelon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HT19020</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4733673603132</id>
+    <published>2021-02-16T17:22:22-08:00</published>
+    <updated>2021-02-16T17:22:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/total-release-odor-eliminators-by-hi-tech"/>
+    <title>TOTAL RELEASE ODOR ELIMINATORS by Hi-Tech ***</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Hi-Tech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-deodorant-total-release-odor-eliminators-by-hi-tech-15775934742588.png?v=1614189026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi-Tech<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Powerful odor destroyer combats smoke and fire odors, skunk and animal smells, mustiness... any annoying odor regardless of source. Lock-down tip makes it easy to use as a fogger for up to 6,000 cu. ft. or as a spot deodorizer. 5 ounces </span><span data-mce-fragment="1">(142 grams).</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air freshener</s:tag>
+    <s:tag>hi-tech</s:tag>
+    <s:tag>odor Eliminator</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Autumn Mist</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19025</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Black Diamond</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19030</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Sea Breeze</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19035</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Ocean Fresh</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19036</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Cucumber Melon</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19037</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Mountain Air</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19045</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Cinnamon</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19050</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Bubble Gum</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19055</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>New Car</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19060</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Fresh Air</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19065</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Citrus</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19070</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Fresh Linen</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19075</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Berrylicious</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19080</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Vanilla</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19085</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Tropical Mist</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19090</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4733673603132</id>
+      <title>Lemon Attack</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HTOE19095</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4678258425916</id>
+    <published>2020-11-14T12:19:01-08:00</published>
+    <updated>2020-11-14T12:19:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-insta-gloss-vinyl-coating"/>
+    <title>Hi Tech INSTA-GLOSS VINYL COATING ***</title>
+    <s:type>Interior &amp; Exterior Dressings</s:type>
+    <s:vendor>Hi Tech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-interior-exterior-dressings-hi-tech-insta-gloss-vinyl-coating-15418051723324.jpg?v=1614087387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech<br>
+        <strong>Type: </strong>Interior &amp; Exterior Dressings<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Premium interior dressing in convenient aerosol form. Insta-Gloss Vinyl Coating easily shines and protects hard to reach interior areas such as air conditioning vents, door and trunk seals. Fresh air fragrance. VOC compliant.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hi tech</s:tag>
+    <s:tag>Interior &amp; Exterior Dressings</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4678258425916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>HT18010</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4678257279036</id>
+    <published>2020-11-14T12:09:10-08:00</published>
+    <updated>2020-11-14T12:09:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-quick-shot-vinyl-and-plastic-body-shop-safe-12oz"/>
+    <title>Hi-Tech QUICK SHOT VINYL and PLASTIC BODY SHOP SAFE 12OZ ***</title>
+    <s:type>Dressing</s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-dressing-hi-tech-quick-shot-vinyl-and-plastic-body-shop-safe-12oz-15418030424124.jpg?v=1614086627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong>Dressing<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Vinyl and plastic coating. Provides a mirror-like coating to vinyl and plastic trims. Long-lasting, needs no wiping. Spray on and walk away! Silicone free and body shop safe.  Aerosol can net weight 12 oz. VOC Compliant. DO NOT apply to steering wheel, brake, accelerator, or clutch pedals.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dressing</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>Interior &amp; Exterior Dressings</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4678257279036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>HT18015</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4678256066620</id>
+    <published>2020-11-14T11:58:43-08:00</published>
+    <updated>2020-11-14T11:58:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-orange-pop-degreaser"/>
+    <title>Hi-Tech Orange Pop Degreaser ****</title>
+    <s:type>All Purpose Cleaners &amp; Degreaser</s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-all-purpose-cleaners-degreaser-hi-tech-orange-pop-degreaser-15418001031228.jpg?v=1614086748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong>All Purpose Cleaners &amp; Degreaser<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Natural citrus extracts, strong enough to tackle even the heaviest degreasing tasks. Cleans safely and effectively, while leaving a pleasant citrus aroma. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Cleaners &amp; Degreasers</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4678256066620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>HT18018</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4678253772860</id>
+    <published>2020-11-14T11:47:41-08:00</published>
+    <updated>2020-11-14T11:47:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-dr-foamy-enzyme-carpet-cleaner"/>
+    <title>Hi-Tech Dr. Foamy Enzyme Carpet Cleaner ***</title>
+    <s:type>Carpet Care and Upholstrey</s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-carpet-care-and-upholstrey-hi-tech-dr-foamy-enzyme-carpet-cleaner-15417970131004.jpg?v=1614087354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong>Carpet Care and Upholstrey<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large" data-mce-fragment="1">
+<div id="productDescription_feature_div" class="celwidget" data-feature-name="productDescription" data-csa-c-id="412svc-heuzof-ssfmfk-812yd1" data-cel-widget="productDescription_feature_div" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div" data-mce-fragment="1">
+<div id="productDescription" class="a-section a-spacing-small" data-mce-fragment="1">
+<p data-mce-fragment="1">Dr. Foamy Enzyme Carpet Cleaner is the LAST carpet cleaner you will need because it WORKS! The Amazing World of Enzymes Enzymes literally digest organic soil or waste, thereby, obliterating the stain and odor! As amazing as that sounds, it's true! This is the secret WHY this extraordinary cleaner is not just a cover-up, but an ELIMINATOR. Its true incredible strength is in the enzyme action. The enzymes go to work on your odor-causing stains like little Pac-Men eating pac-dots. The enzymes digest ("eat away") blood, vomit, urine, poop, milk, juice-even red ones, cosmetics, coffee, food, wine, pet stains, all your protein-based stains. The stain and odor are eliminated - gone! Dr. Foamy Enzyme Carpet Cleaner dissolves dirt, grease, and other oil-based stains, too. You will find Dr. Foamy will remove stains that other cleaners will not touch - effective for pre-treating stains in carpet or upholstery prior to overall cleaning. The Inverted Sprayer dispenses the cleaner at ANY Angle making it super quick and easy to use. VOC Compliant. Aerosol products ship via ground method only per federal regulations. 18oz Aerosol Available: 1 Can 2 Cans Case of 6 each gives you the greatest savings Directions: Always test an inconspicuous area prior to use. 1. Spray soiled area until moist. 2. Allow to dwell for at least 5 minutes. 3. Blot with a clean dry cloth. 4. If stains persist, repeat steps one and two and brush with upholstery brush to agitate stains. 5. To clean red stains from fruit juice, spray liberally to fully saturate the area to be cleaned and allow to dwell for 30 minutes. Remove using a neutral soap and water solution.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="aplusBrandStory_feature_div" class="celwidget" data-feature-name="aplusBrandStory" data-csa-c-id="5whkc9-h3un4z-7asgbg-hkj4jy" data-cel-widget="aplusBrandStory_feature_div" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div id="legal_feature_div" class="celwidget" data-feature-name="legal" data-csa-c-id="5q9l1w-s7j9tr-x7hhx0-1up0pi" data-cel-widget="legal_feature_div" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div id="importantInformation_feature_div" class="celwidget" data-feature-name="importantInformation" data-csa-c-id="481eve-eewpfn-l9mj1c-dlvyhv" data-cel-widget="importantInformation_feature_div" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div id="sponsoredProducts2_feature_div" class="celwidget" data-feature-name="sponsoredProducts2" data-csa-c-id="lifumz-khta23-t4690m-pjirjw" data-cel-widget="sponsoredProducts2_feature_div" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carpet Care and Upholstery</s:tag>
+    <s:tag>Carpet Care and Upholstrey</s:tag>
+    <s:tag>carpet cleaner</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>wholesaleCarpet &amp; Upholstrey Cleaners</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4678253772860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580251992124</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-micro-chenille-wash-mitt-with-cuff"/>
+    <title>Hi Tech Industries Micro Chenille Wash Mitt with Cuff</title>
+    <s:type></s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-hi-tech-industries-micro-chenille-wash-mitt-with-cuff-14707906281532.png?v=1614088104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2527-product-field-body">
+<div class="field field-name-field-body">
+<p>The Green Micro Chenille Wash Mitt is 9 in. x 11 in. and has a cuff to protect your wrist while washing your vehicle. <span>Quickly and gently washes away dirt and grime. </span></p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5150" action="http://www.bocar.ca/en/product/2527/green-micro-chenille-wash-mitt-cuff" method="post" id="commerce-cart-add-to-cart-form-5150" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580251992124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.09</s:price>
+      <s:sku>HTMCM-911</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580249468988</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-spoke-brush"/>
+    <title>Hi Tech Industries Spoke Brush</title>
+    <s:type></s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-hi-tech-industries-spoke-brush-14707881345084.png?v=1614087661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2884-product-field-body">
+<div class="field field-name-field-body">
+<p>Effectively cleans wheel and spokes. Great for grills as well. Overall Length: 12”. Bristles length: 1.5”.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5582" action="http://www.bocar.ca/en/product/2884/spoke-brush" method="post" id="commerce-cart-add-to-cart-form-5582" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>detail brush</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580249468988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HT920</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580247896124</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-detail-brush-paintbrush-style"/>
+    <title>Hi Tech Industries Detail Brush -- Paintbrush Style</title>
+    <s:type></s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-hi-tech-industries-detail-brush-paintbrush-style-14707866730556.png?v=1614088672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2509-product-field-body">
+<div class="field field-name-field-body">
+<p>6.2 in. black china bristles for cleaning around automobile moldings and seams. Very effective in removing wax residue around emblems. Overall length 6.5 in. </p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5130-5982" action="http://www.bocar.ca/en/product/2509/detail-brushes-paintbrush-style" method="post" id="commerce-cart-add-to-cart-form-5130-5982" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>detail brush</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580247896124</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.65</s:price>
+      <s:sku>HT516</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580247896124</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">2.65</s:price>
+      <s:sku>HT716</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580237115452</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-extra-foamy"/>
+    <title>Hi Tech Industries Extra Foamy</title>
+    <s:type></s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-hi-tech-industries-extra-foamy-14707749945404.png?v=1614088436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2761-product-field-body">
+<div class="field field-name-field-body">
+<p>Hi-Tech Extra Foamy Automotive Interior Cleaner is a unique foaming cleaner that is designed to clean and condition vinyl, plastic, cloth, leather and hard surfaces. Deep cleaning foaming action lifts dirt and helps restore true color and appearance. Excellent for use on auto upholstery, floor mats and carpets. Also use in kitchens and bathroom as an effective hard surface cleaner. Aerosol can net weight 18.5 oz. California / OTC VOC Compliant.</p>
+</div>
+</div>
+<div class="field field-name-field-msds"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>auto interior</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>surface cleaner</s:tag>
+    <s:tag>upholstery cleaner</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580237115452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HT18003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580189732924</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-fast-n-foamy"/>
+    <title>Hi Tech Industries Fast N&apos; Foamy</title>
+    <s:type>Carpet Care and Upholstrey</s:type>
+    <s:vendor>Hi-Tech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-carpet-care-and-upholstrey-hi-tech-industries-fast-n-foamy-14707359252540.png?v=1614088353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi-Tech<br>
+        <strong>Type: </strong>Carpet Care and Upholstrey<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2749-product-field-body">
+<div class="field field-name-field-body">
+<p><span>Hi-Tech</span><span> Fast &amp; Foamy is a professional strength velour, fabric and carpet cleaner - exceptional for all auto interior fabrics! </span>Its dry foaming action enables the professional to lift out dirt and stains from carpet while minimizing surface wetness. Fast &amp; Foamy utilizes VFC optical brighteners, has a convenient upside-down tip, cleans, deodorizes, and leaves a pleasant citrus aroma. Aerosol can net weight 12 oz. California / OTC VOC Compliant.</p>
+</div>
+</div>
+<div class="field field-name-field-msds"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>auto interior</s:tag>
+    <s:tag>Carpet &amp; Upholstrey Cleaners</s:tag>
+    <s:tag>carpet cleaner</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>quick</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580189732924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HT18004</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580165484604</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-bucket-dolly"/>
+    <title>Hi Tech Industries Bucket Dolly</title>
+    <s:type>equipment</s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-equipment-blue-hi-tech-industries-bucket-dolly-28582796394556.png?v=1628022747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong>equipment<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3680-product-field-body">
+<div class="field field-name-field-body">
+<p>The Bucket Dolly features 5 heavy-duty urethane casters that last longer and roll smoothly over cracks. Two of the casters lock, holding your bucket in place even on steep inclines. Supports up to 250 pounds and is securely held in place with three thumb screws. Dolly will fit most 3.5 gallon, 4 gallon, 5 gallon and 6 gallon buckets.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6647-6670" action="http://www.bocar.ca/en/product/3680/bucket-dolly" method="post" id="commerce-cart-add-to-cart-form-6647-6670" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Polishers and Equipment</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580165484604</id>
+      <title>Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>HTBD-100B</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580165484604</id>
+      <title>Green</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>HTBD-100G</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580165484604</id>
+      <title>Black</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580164206652</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-bucket-grate"/>
+    <title>Hi Tech Industries Bucket Grate</title>
+    <s:type></s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-hi-tech-industries-bucket-grate-14707140329532.png?v=1614088791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3117-product-field-body">
+<div class="field field-name-field-body">
+<p>Your brush and towels will never come into contact with the dirt that sinks to the bottom of your wash bucket! Plastic bucket grate fits in standard 5 gallon bucket.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5872" action="http://www.bocar.ca/en/product/3117/bucket-grate" method="post" id="commerce-cart-add-to-cart-form-5872" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580164206652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HTRDS-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578090057788</id>
+    <published>2020-06-17T15:54:56-07:00</published>
+    <updated>2020-06-17T15:54:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-microfibre-wax-applicator"/>
+    <title>Hi Tech Industries Microfibre Wax Applicator</title>
+    <s:type></s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-hi-tech-industries-microfibre-wax-applicator-14695601438780.png?v=1614087949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3826-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3085-product-field-body">
+<div class="field field-name-field-body">
+<p>Poly-sponge applicators encased in blue microfiber. Great for applying wax and polish to cars. Round, 5" diameter.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5830" action="http://www.bocar.ca/en/product/3085/round-microfiber-wax-applicator" method="post" id="commerce-cart-add-to-cart-form-5830" accept-charset="UTF-8">
+<div></div>
+</form></div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6869" action="http://www.bocar.ca/en/product/3826/rotary-brush-short-bristles" method="post" id="commerce-cart-add-to-cart-form-6869" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applicator</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>Miscellaneous</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578090057788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>HT5M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578084552764</id>
+    <published>2020-06-17T15:45:06-07:00</published>
+    <updated>2020-06-17T15:45:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-gold-standard-wax"/>
+    <title>Hi Tech Industries Gold Standard Wax</title>
+    <s:type></s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-hi-tech-industries-gold-standard-wax-14695561232444.png?v=1614088192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3703-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3332-product-field-body">
+<div class="field field-name-field-body">
+<p>Premium blend of cleaners, waxes and polymers that will enable you to polish and protect in one quick and convenient step. Easy on/off. Safe for clear coat finishes. Will not leave powder residue.</p>
+</div>
+</div>
+<div class="field field-name-field-msds"></div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6688" action="http://www.bocar.ca/en/product/3703/precision-coating-applicator" method="post" id="commerce-cart-add-to-cart-form-6688" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>paint protection</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>quick</s:tag>
+    <s:tag>wax</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578084552764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>HT18050</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578044706876</id>
+    <published>2020-06-17T14:27:30-07:00</published>
+    <updated>2020-06-17T14:27:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-palm-sanding-grip"/>
+    <title>Hi-Tech Industries Palm Sanding Grip</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-equipment-3-hi-tech-industries-palm-sanding-grip-14695152353340.png?v=1614086872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2799-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2827-product-field-body">
+<div class="field field-name-field-body">
+<p>Velcro palm sanding grip holder. </p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5515-5514" action="http://www.bocar.ca/en/product/2827/palm-sanding-grips" method="post" id="commerce-cart-add-to-cart-form-5515-5514" accept-charset="UTF-8">
+<div></div>
+</form></div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5482" action="http://www.bocar.ca/en/product/2799/aluminum-mat-clamp" method="post" id="commerce-cart-add-to-cart-form-5482" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>sanding</s:tag>
+    <s:tag>tool</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578044706876</id>
+      <title>3&quot;</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>HTPSG-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578040905788</id>
+    <published>2020-06-17T14:20:22-07:00</published>
+    <updated>2020-06-17T14:20:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-fiberglass-pole"/>
+    <title>Hi-Tech Industries Fiberglass Pole</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-equipment-hi-tech-industries-fiberglass-pole-14695108247612.png?v=1614086783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2799-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2425-product-field-body">
+<div class="field field-name-field-body">
+<p>60 Inch Fiberglass Pole with metal tip. Threaded.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-4910" action="http://www.bocar.ca/en/product/2425/fiberglass-pole-60" method="post" id="commerce-cart-add-to-cart-form-4910" accept-charset="UTF-8">
+<div></div>
+</form></div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5482" action="http://www.bocar.ca/en/product/2799/aluminum-mat-clamp" method="post" id="commerce-cart-add-to-cart-form-5482" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>tool</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578040905788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HTMTH-1FG</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578039169084</id>
+    <published>2020-06-17T14:17:39-07:00</published>
+    <updated>2020-06-17T14:17:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-fabric-protector"/>
+    <title>Hi-Tech Industries Fabric Protector 411G</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-equipment-hi-tech-industries-fabric-protector-411g-14695093141564.png?v=1614086902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2799-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3466-product-field-body">
+<div class="field field-name-field-body">
+<p>Hi-Tech's new aerosol Fabric Protector provides easy, VOC compliant protection to fabric, carpet and upholstery. Simply spray on a clean surface and let it dry. Recoat multiple times for added protection.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5293" action="http://www.bocar.ca/en/product/3466/fabric-protector" method="post" id="commerce-cart-add-to-cart-form-5293" accept-charset="UTF-8">
+<div></div>
+</form></div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5482" action="http://www.bocar.ca/en/product/2799/aluminum-mat-clamp" method="post" id="commerce-cart-add-to-cart-form-5482" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>auto interior</s:tag>
+    <s:tag>fabric protectant</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578039169084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HT18026</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578036514876</id>
+    <published>2020-06-17T14:15:10-07:00</published>
+    <updated>2020-06-17T14:15:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-car-wash-mop-head"/>
+    <title>Hi-Tech Industries Car Wash Mop Head</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-equipment-hi-tech-industries-car-wash-mop-head-14695085506620.png?v=1614086994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2799-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3502-product-field-body">
+<div class="field field-name-field-body">
+<p>The new HTMH-950 Car Wash Mop and matching HTWM-950 Wash Mitt Bonnet can be affixed to any standard thread handle for easy, convenient and ergonomic vehicle washing. The HTWM-950 Wash Mitt Bonnet affixes securely onto the HTMH-950 head and with its soft synthetic lambswool is safe for any painted surface.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6393" action="http://www.bocar.ca/en/product/3502/car-wash-mop-head" method="post" id="commerce-cart-add-to-cart-form-6393" accept-charset="UTF-8">
+<div></div>
+</form></div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5482" action="http://www.bocar.ca/en/product/2799/aluminum-mat-clamp" method="post" id="commerce-cart-add-to-cart-form-5482" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>tool</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578036514876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HTMH-950</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578091827260</id>
+    <published>2020-06-17T14:08:53-07:00</published>
+    <updated>2020-06-17T14:08:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-wash-mitt-with-cuff"/>
+    <title>Hi Tech Industries Wash Mitt With Cuff</title>
+    <s:type></s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-hi-tech-industries-wash-mitt-with-cuff-14695611039804.png?v=1614087419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2784-product-field-body">
+<div class="field field-name-field-body">
+<p>This highly efficient, scratch proof, double faced mitt carries an abundance of water and withstands heat, gasoline and detergents. Made from heavy duty, long wearing, Lorene-Dynel synthetic fibers. Approximately 8" x 11" with elastic cuff.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5463" action="http://www.bocar.ca/en/product/2784/wash-mitt-cuff" method="post" id="commerce-cart-add-to-cart-form-5463" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578091827260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.79</s:price>
+      <s:sku>HT811</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578089041980</id>
+    <published>2020-06-17T14:08:53-07:00</published>
+    <updated>2020-06-17T14:08:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/hi-tech-industries-rotary-brush-short-bristles"/>
+    <title>Hi Tech Industries Rotary Brush Short Bristles</title>
+    <s:type></s:type>
+    <s:vendor>Hi Tech Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/hi-tech-industries-hi-tech-industries-rotary-brush-short-bristles-14695595638844.png?v=1614087717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hi Tech Industries<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3826-product-field-body">
+<div class="field field-name-field-body">
+<p>New DA Shampooing Brush is designed to fit all 5" DA Polisher Backing Plates. Can be used on any DA polisher or rotary buffer - measures 5" in diameter by 1" bristle length.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6869" action="http://www.bocar.ca/en/product/3826/rotary-brush-short-bristles" method="post" id="commerce-cart-add-to-cart-form-6869" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>detail brush</s:tag>
+    <s:tag>hi tech</s:tag>
+    <s:tag>wash equipment</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578089041980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HTROPB-5S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

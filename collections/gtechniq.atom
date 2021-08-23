@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/gtechniq.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2021-08-14T16:27:21-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625035583548</id>
+    <published>2021-08-14T16:27:21-07:00</published>
+    <updated>2021-08-14T16:27:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-fabric-interior-care-kit"/>
+    <title>GTECHNIQ FABRIC INTERIOR CARE KIT</title>
+    <s:type>Fabric Protectant</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-fabric-protectant-gtechniq-fabric-interior-care-kit-28638472470588.png?v=1628983948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Fabric Protectant<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><strong data-mce-fragment="1">Kit contains</strong></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100ml W2 Universal Cleaner Concentrate</li>
+<li data-mce-fragment="1">100ml C6 Matte Dash</li>
+<li data-mce-fragment="1">500ml G6 Perfect Glass</li>
+<li data-mce-fragment="1">500ml I1 Smart Fabric</li>
+<li data-mce-fragment="1">2 x MF1 ZeroR Microfibre Buff Cloth</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>ecocoat fabric</s:tag>
+    <s:tag>fabric protectant</s:tag>
+    <s:tag>fabric protection</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625035583548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625035026492</id>
+    <published>2021-08-14T16:25:25-07:00</published>
+    <updated>2021-08-14T16:25:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-w9-water-spot-remover"/>
+    <title>GTECHNIQ W9 WATER SPOT REMOVER</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-paint-correction-gtechniq-w9-water-spot-remover-28638471585852.png?v=1628983764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            26.99 - 39.99
+            <a href="https://meticulousdetailing.ca/products/gtechniq-w9-water-spot-remover">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Removes water and silica spots</li>
+<li data-mce-fragment="1">Coating safe</li>
+<li data-mce-fragment="1">Use on all paint types and vinyl</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>paint decontamination</s:tag>
+    <s:tag>paint treatment</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625035026492</id>
+      <title>250 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625035026492</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625031913532</id>
+    <published>2021-08-14T16:18:40-07:00</published>
+    <updated>2021-08-14T16:18:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-c2-liquid-crystal-kit"/>
+    <title>GTECHNIQ C2 LIQUID CRYSTAL KIT</title>
+    <s:type>ceramic</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-ceramic-gtechniq-c2-liquid-crystal-kit-28638468735036.png?v=1628983225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>ceramic<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Kit conta​ins</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">500ml C2 Liquid Crystal </li>
+<li data-mce-fragment="1">1 x GSpray Bottle</li>
+<li data-mce-fragment="1">3 x MF1 ZeroR Microfiber buff cloth</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>Ceramic Aviation</s:tag>
+    <s:tag>ceramic coating</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>kit</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625031913532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625024409660</id>
+    <published>2021-08-14T16:01:39-07:00</published>
+    <updated>2021-08-14T16:01:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-c0-aero-coat"/>
+    <title>GTECHNIQ C0 AERO COAT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-ceramic-gtechniq-c0-aero-coat-28638455693372.png?v=1628982326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            119.99 - 159.99
+            <a href="https://meticulousdetailing.ca/products/gtechniq-c0-aero-coat">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Specifically designed for race cars, snowmobiles, motorcycles and quads.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>Ceramic Aviation</s:tag>
+    <s:tag>ceramic coating</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625024409660</id>
+      <title>30 ml</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625024409660</id>
+      <title>50 ml</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625017921596</id>
+    <published>2021-08-14T15:49:08-07:00</published>
+    <updated>2021-08-14T15:49:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-plri-platinum-repair-kit-interior"/>
+    <title>GTECHNIQ PLRI PLATINUM REPAIR KIT - INTERIOR</title>
+    <s:type>repair kit</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-repair-kit-gtechniq-plri-platinum-repair-kit-interior-28638449827900.png?v=1628981425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>repair kit<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 data-mce-fragment="1">GTECHNIQ PLRI PLATINUM REPAIR KIT - INTERIOR</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>repair kit</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625017921596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625016250428</id>
+    <published>2021-08-14T15:43:38-07:00</published>
+    <updated>2021-08-14T15:43:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-pll-platinum-kit-no-aftercare"/>
+    <title>GTECHNIQ PLL PLATINUM KIT - NO AFTERCARE</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-kit-gtechniq-pll-platinum-kit-no-aftercare-28638448484412.png?v=1628981245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 data-mce-fragment="1">GTECHNIQ PLL PLATINUM KIT - NO AFTERCARE</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>cleaning &amp; main</s:tag>
+    <s:tag>cleaning &amp; maintenance</s:tag>
+    <s:tag>cleaning kit</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>maintenance</s:tag>
+    <s:tag>Wheel Maintenance</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625016250428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625011990588</id>
+    <published>2021-08-14T15:32:35-07:00</published>
+    <updated>2021-08-14T15:32:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-c1-crystal-laquer"/>
+    <title>GTECHNIQ C1 CRYSTAL LAQUER</title>
+    <s:type>ceramic</s:type>
+    <s:vendor>gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/meticulous-detailing-inc-gtechniq-c1-crystal-laquer-28638434525244.png?v=1628980524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gtechniq<br>
+        <strong>Type: </strong>ceramic<br>
+        <strong>Price: </strong>
+            109.99 - 189.99
+            <a href="https://meticulousdetailing.ca/products/gtechniq-c1-crystal-laquer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">3 to 5 years durability</li>
+<li data-mce-fragment="1">Excellent swirl mark resistance</li>
+<li data-mce-fragment="1">Crystal clear finish</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>Ceramic Aviation</s:tag>
+    <s:tag>ceramic coating</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>Industrial Ceramic</s:tag>
+    <s:tag>Type_Ceramic Coating</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625011990588</id>
+      <title>30 ml</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625011990588</id>
+      <title>50 ml</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6624995508284</id>
+    <published>2021-08-14T15:31:13-07:00</published>
+    <updated>2021-08-14T15:31:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-basic-maintenance-kit"/>
+    <title>GTECHNIQ BASIC MAINTENANCE KIT</title>
+    <s:type>Maintenance</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-maintenance-gtechniq-basic-maintenance-kit-28638295719996.png?v=1628978544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Maintenance<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="commerce-product-field commerce-product-field-title-field field-title-field node-3794-product-title-field" data-mce-fragment="1">
+<div class="field field-name-title-field" data-mce-fragment="1">GTECHNIQ BASIC MAINTENANCE KIT</div>
+</div>
+<div class="commerce-product-extra-field commerce-product-extra-field-sku node-3794-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku-label" data-mce-fragment="1">SKU:<span data-mce-fragment="1">  </span>ACKIT</div>
+</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-measurement field-field-measurement node-3794-product-field-measurement commerce-product-field-empty" data-mce-fragment="1"></div>
+<div class="field field-name-field-company" data-mce-fragment="1"><br></div>
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3794-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Kit contains:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">250ml GWash</li>
+<li data-mce-fragment="1">250ml Quick Detailer</li>
+<li data-mce-fragment="1">250ml T2 Tyre Dressing</li>
+<li data-mce-fragment="1">1 x MF2 Zero Scratch Microfibre Drying Towel</li>
+<li data-mce-fragment="1">2 x MF1 ZeroR Scratch Buff Cloth</li>
+<li data-mce-fragment="1">1 x Gtechniq Branded Kit Bag</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>cleaning &amp; maintenance</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>maintenance</s:tag>
+    <s:tag>Wheel Maintenance</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6624995508284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625010647100</id>
+    <published>2021-08-14T15:30:14-07:00</published>
+    <updated>2021-08-14T15:30:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-branded-kit-bag"/>
+    <title>GTECHNIQ BRANDED KIT BAG</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-equipment-gtechniq-branded-kit-bag-28638423875644.png?v=1628980345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handy storage</li>
+<li data-mce-fragment="1">Carry handle</li>
+<li data-mce-fragment="1">Measures 18x18x18cm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625010647100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625008189500</id>
+    <published>2021-08-14T15:25:08-07:00</published>
+    <updated>2021-08-14T15:25:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-master-detailing-collection"/>
+    <title>GTECHNIQ MASTER DETAILING COLLECTION</title>
+    <s:type>Collection</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-collection-gtechniq-master-detailing-collection-28638398939196.png?v=1628979985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Collection<br>
+        <strong>Price: </strong>
+            949.99 - 1099.99
+            <a href="https://meticulousdetailing.ca/products/gtechniq-master-detailing-collection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="commerce-product-field commerce-product-field-title-field field-title-field node-3802-product-title-field" data-mce-fragment="1">
+<div class="field field-name-title-field" data-mce-fragment="1">GTECHNIQ MASTER DETAILING COLLECTION SMALL</div>
+</div>
+<div class="commerce-product-extra-field commerce-product-extra-field-sku node-3802-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku-label" data-mce-fragment="1"></div>
+</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3802-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Everything you need to perfect, protect and maintain your car from coating to snow foam.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1x 30ml Crystal Serum Light</li>
+<li data-mce-fragment="1">1x 30ml EXOv4 Ultra Durable Hydrophobic Coating</li>
+<li data-mce-fragment="1">1x 15ml C4 Permanent Trim Restorer</li>
+<li data-mce-fragment="1">1x 15ml C5 Wheel Armour </li>
+<li data-mce-fragment="1">1x 15ml G1 ClearVision Smart Glass</li>
+<li data-mce-fragment="1">1x 100ml G4 Glass Nano Polish</li>
+<li data-mce-fragment="1">1x 500ml G6 Perfect Glass</li>
+<li data-mce-fragment="1">1x 500ml I1 Smart Fabric AB</li>
+<li data-mce-fragment="1">1x 100ml L1 Leather Guard AB</li>
+<li data-mce-fragment="1">1x 100ml C6 Matte Dash AB</li>
+<li data-mce-fragment="1">1x 500ml I2 Tri Clean</li>
+<li data-mce-fragment="1">1x 100ml M1 All Metal Polish</li>
+<li data-mce-fragment="1">1x 100ml P1 Nano Composite Polish</li>
+<li data-mce-fragment="1">1x 250ml Panel Wipe</li>
+<li data-mce-fragment="1">1x 500ml Quick Detailer</li>
+<li data-mce-fragment="1">1x 25ml T1 Tyre and Trim</li>
+<li data-mce-fragment="1">1x 500ml Gwash</li>
+<li data-mce-fragment="1">1x 1l W4 Citrus Foam</li>
+<li data-mce-fragment="1">1x 500ml W5 Citrus All Purpose Cleaner</li>
+<li data-mce-fragment="1">1x 500ml W6 Iron and General Fallout Remover </li>
+<li data-mce-fragment="1">1x 500ml W7 Tar and Glue Remover</li>
+<li data-mce-fragment="1">1x 500ml Bug Remover</li>
+<li data-mce-fragment="1">1x Large Branded Kit Bag</li>
+<li data-mce-fragment="1">1x WM2 Microfibre Wash Mitt</li>
+<li data-mce-fragment="1">10x MF1 Zero Microfibre Buff Cloth</li>
+<li data-mce-fragment="1">2x MF4 Diamond Sandwich Microfibre Drying Towel</li>
+<li data-mce-fragment="1">2x MF5 Glass Power Cloth</li>
+<li data-mce-fragment="1">6x AP2 Ultra Soft Foam Filled Microfibre Applicators</li>
+<li data-mce-fragment="1">3x AP3 Dual Layered Soft Foam Applicators</li>
+<li data-mce-fragment="1">2x SP2 GSpray Bottle</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>cleaning &amp; maintenance</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>maintenance</s:tag>
+    <s:tag>Wheel Maintenance</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625008189500</id>
+      <title>Small</title>
+      <s:price currency="CAD">949.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625008189500</id>
+      <title>Large</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625002324028</id>
+    <published>2021-08-14T15:12:38-07:00</published>
+    <updated>2021-08-14T15:12:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-total-surface-protection-kit"/>
+    <title>GTECHNIQ TOTAL SURFACE PROTECTION KIT</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-kit-gtechniq-total-surface-protection-kit-28638333075516.png?v=1628979265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            389.99 - 599.99
+            <a href="https://meticulousdetailing.ca/products/gtechniq-total-surface-protection-kit">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><span>GTECHNIQ TOTAL SURFACE PROTECTION KIT</span></strong></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Kit Contains</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1x30ml Crystal Serum Light</li>
+<li data-mce-fragment="1">1x 30ml EXOv4 Ultra Durable Hydrophobic Coating</li>
+<li data-mce-fragment="1">1x 15ml C4 Permanent Trim Restorer</li>
+<li data-mce-fragment="1">1x 15ml C5 Wheel Armour </li>
+<li data-mce-fragment="1">1x 15ml G1 ClearVision Smart Glass</li>
+<li data-mce-fragment="1">1x 500ml I1 Smart Fabric AB</li>
+<li data-mce-fragment="1">1x 100ml L1 Leather Guard AB</li>
+<li data-mce-fragment="1">1x 100ml C6 Matte Dash AB</li>
+<li data-mce-fragment="1">1x 250ml Panel Wipe</li>
+<li data-mce-fragment="1">10x MF1 Zero Microfibre Buff Cloth</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>Premium Protection</s:tag>
+    <s:tag>Ultimate Protection</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625002324028</id>
+      <title>Small</title>
+      <s:price currency="CAD">389.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625002324028</id>
+      <title>Large</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6625000980540</id>
+    <published>2021-08-14T15:09:41-07:00</published>
+    <updated>2021-08-14T15:09:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-large-kit-bag"/>
+    <title>GTECHNIQ LARGE KIT BAG</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-equipment-gtechniq-large-kit-bag-28638327406652.png?v=1628979268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Large kit bag suitable for storing 5x 250ml products and 4x 500ml</li>
+<li data-mce-fragment="1">Handy front pocket for cleaning cloths</li>
+<li data-mce-fragment="1">Measures 30x24x11cm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6625000980540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>COL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6624998883388</id>
+    <published>2021-08-14T15:05:45-07:00</published>
+    <updated>2021-08-14T15:05:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-marine-rinse-on-ceramic"/>
+    <title>GTECHNIQ MARINE RINSE-ON CERAMIC</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-ceramic-gtechniq-marine-rinse-on-ceramic-28638320623676.jpg?v=1628978904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="commerce-product-field commerce-product-field-title-field field-title-field node-5101-product-title-field" data-mce-fragment="1">
+<div class="field field-name-title-field" data-mce-fragment="1"><br></div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-5101-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<p data-mce-fragment="1">Gtechniq Rinse-On-Ceramic is the fast and simple way to protect all your boat’s gloss surfaces.</p>
+<p data-mce-fragment="1">The optically clear, non-yellowing and UV-repelling coating crosslinks to any surface such as gelcoat, topcoat, glass, metal, ceramic or Plexiglass. The product is extremely versatile and can be applied to cool or hot surfaces.</p>
+<p data-mce-fragment="1">Rinse-On Ceramic can be used at every wash down with a single application lasting up to 3 months.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boat polish</s:tag>
+    <s:tag>boat wax</s:tag>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>ceramic coating</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>Industrial Ceramic</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Marine Detailing</s:tag>
+    <s:tag>Used For_Marine Detailing</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6624998883388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6624994787388</id>
+    <published>2021-08-14T14:54:57-07:00</published>
+    <updated>2021-08-14T14:54:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-ap2-ultra-soft-foam-filled-microfiber-applicator"/>
+    <title>GTECHNIQ AP2 ULTRA SOFT FOAM FILLED MICROFIBER APPLICATOR</title>
+    <s:type>Applicator</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-applicator-gtechniq-ap2-ultra-soft-foam-filled-microfiber-applicator-28638291656764.png?v=1628978185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Applicator<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="commerce-product-field commerce-product-field-title-field field-title-field node-3772-product-title-field" data-mce-fragment="1">
+<div class="field field-name-title-field" data-mce-fragment="1">GTECHNIQ AP2 ULTRA SOFT FOAM FILLED MICROFIBER APPLICATOR</div>
+</div>
+<div class="commerce-product-extra-field commerce-product-extra-field-sku node-3772-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku-label" data-mce-fragment="1">SKU:<span data-mce-fragment="1"> </span>
+</div>
+AP2</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-measurement field-field-measurement node-3772-product-field-measurement commerce-product-field-empty" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="field field-name-field-company" data-mce-fragment="1">
+<div class="label-inline" data-mce-fragment="1">Company: </div>
+<a href="https://www.bocar.ca/en/products/company/gtechniq" data-mce-fragment="1" data-mce-href="https://www.bocar.ca/en/products/company/gtechniq">Gtechniq</a>
+</div>
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3772-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">8cm diameter</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Ultra soft microfibre, foam-filled</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">The ultimate applicator for applying Gtechniq coatings</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applicator</s:tag>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6624994787388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6624993148988</id>
+    <published>2021-08-14T14:51:03-07:00</published>
+    <updated>2021-08-14T14:51:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-essential-maintenance-kit"/>
+    <title>GTECHNIQ ESSENTIAL MAINTENANCE KIT</title>
+    <s:type>Maintenace</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-maintenace-gtechniq-essential-maintenance-kit-28638290346044.png?v=1628978004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Maintenace<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><span>GTECHNIQ ESSENTIAL MAINTENANCE KIT</span></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">The kit contains:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1 x 500ml GWash</li>
+<li data-mce-fragment="1">1 x 500ml Quick Detailer</li>
+<li data-mce-fragment="1">1 x 500ml G6 Perfect Glass</li>
+<li data-mce-fragment="1">1 x 250ml W6 Iron and general Fallout Remover</li>
+<li data-mce-fragment="1">1 x 250ml T2 Tyre Dressing</li>
+<li data-mce-fragment="1">1 x 250ml W8 Bug Remover</li>
+<li data-mce-fragment="1">2 x MF1 ZeroR Microfibre Buff Cloth</li>
+<li data-mce-fragment="1">1 x MF2 Zero Scratch Microfibre Drying Towel</li>
+<li data-mce-fragment="1">1 x Large Gtechniq branded kit bag</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>cleaning &amp; maintenance</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>maintenance</s:tag>
+    <s:tag>Wheel Maintenance</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6624993148988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6624989642812</id>
+    <published>2021-08-14T14:42:16-07:00</published>
+    <updated>2021-08-14T14:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-g1-and-g4-clearvision-screen-kit"/>
+    <title>GTECHNIQ G1 AND G4 CLEARVISION SCREEN KIT</title>
+    <s:type>Glass Treatment</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-glass-treatment-gtechniq-g1-and-g4-clearvision-screen-kit-28638262788156.png?v=1628977824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Glass Treatment<br>
+        <strong>Price: </strong>
+            59.99 - 124.99
+            <a href="https://meticulousdetailing.ca/products/gtechniq-g1-and-g4-clearvision-screen-kit">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="commerce-product-extra-field commerce-product-extra-field-sku node-3792-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku-label" data-mce-fragment="1">SKU:<span data-mce-fragment="1"> </span>
+</div>
+G1G40.015</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-measurement field-field-measurement node-3792-product-field-measurement commerce-product-field-empty" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="field field-name-field-company" data-mce-fragment="1">
+<div class="label-inline" data-mce-fragment="1">Company:  <a href="https://www.bocar.ca/en/products/company/gtechniq" data-mce-fragment="1" data-mce-href="https://www.bocar.ca/en/products/company/gtechniq">Gtechniq</a>
+</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3792-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Kit contains</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">15ml G1 ClearVision Smart Glass and G2 Residue Remover</li>
+<li data-mce-fragment="1">100ml G4 Nanotech Glass Polish</li>
+<li data-mce-fragment="1">Cotton applicator pads</li>
+<li data-mce-fragment="1">Gtechniq window sticker</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>Gtechniq G1</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6624989642812</id>
+      <title>15 ml</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6624989642812</id>
+      <title>30 ml</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6624986628156</id>
+    <published>2021-08-14T14:37:49-07:00</published>
+    <updated>2021-08-14T14:37:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-pump-dispenser-for-5l-jerry-can"/>
+    <title>GTECHNIQ PUMP DISPENSER FOR 5L JERRY CAN</title>
+    <s:type>pump</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-pump-gtechniq-pump-dispenser-for-5l-jerry-can-28638258233404.png?v=1628977285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>pump<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="commerce-product-field commerce-product-field-title-field field-title-field node-3786-product-title-field" data-mce-fragment="1">
+<div class="field field-name-title-field" data-mce-fragment="1">GTECHNIQ PUMP DISPENSER FOR 5L JERRY CAN</div>
+</div>
+<div class="commerce-product-extra-field commerce-product-extra-field-sku node-3786-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku" data-mce-fragment="1">
+<div class="commerce-product-sku-label" data-mce-fragment="1">SKU:<span data-mce-fragment="1"> </span>
+</div>
+PU1</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-measurement field-field-measurement node-3786-product-field-measurement commerce-product-field-empty" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="field field-name-field-company" data-mce-fragment="1">
+<div class="label-inline" data-mce-fragment="1">Company: Gtechniq</div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3786-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Fits all Gtechniq 5 litre jerry cans</li>
+<li data-mce-fragment="1">Chemical resistant</li>
+<li data-mce-fragment="1">Dispenses 30ml per push</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barrel pump</s:tag>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>pump</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6624986628156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6624985186364</id>
+    <published>2021-08-14T14:34:56-07:00</published>
+    <updated>2021-08-14T14:34:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-dmsp-trigger-sprayer-head"/>
+    <title>GTECHNIQ DMSP TRIGGER SPRAYER HEAD</title>
+    <s:type>Bottle Sprayer</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-bottle-sprayer-gtechniq-dmsp-trigger-sprayer-head-28638250434620.png?v=1628977106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Bottle Sprayer<br>
+        <strong>Price: </strong>
+            2.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This is a handy trigger sprayer will fit any Gtechniq 250ml, 500ml or litre bottle. It is resistant to all Gtechniq products.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottle Sprayer</s:tag>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>sprayer</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6624985186364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4587286069308</id>
+    <published>2020-06-29T14:27:44-07:00</published>
+    <updated>2020-06-29T14:27:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-easy-coat-kit-refill"/>
+    <title>Gtechniq Easy Coat Kit &amp; Refill</title>
+    <s:type>Paint Protection</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-500ml-kit-gtechniq-easy-coat-kit-refill-14757663604796.jpg?v=1614097798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Paint Protection<br>
+        <strong>Price: </strong>
+            17.59 - 149.99
+            <a href="https://meticulousdetailing.ca/products/gtechniq-easy-coat-kit-refill">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>When applied to any painted or glass surface, Easy Coat provides excellent durability and protection from UV rays, wash chemicals and weathering.</span></p>
+<p><span>Easy Coat has incredibly strong dirt resistance properties and effectively repels any dirt or dust from the surface. The product is extremely versatile and can be applied to cool surfaces.</span> </p>
+<p><span>Easy Coat is non-hazardous, solvent-free and provides in excess of 3 months durability. Each 500ml bottle contains enough product to coat two medium sizes vehicles. </span> </p>
+<p><span>The Easy Coat Kit contains one bottle 500ml bottle of Easy Coat, dispenser and hose connector. </span></p>
+<p><span>Note: Easy Coat has been formulated to be applied via the dispenser provided in the kit. We do not recommend applying the product through a snow foam lance.</span></p>
+<meta charset="utf-8">
+<ul>
+<li><span>Quick and easy to apply </span></li>
+<li><span>Coating safe</span></li>
+<li><span>Up to 3 months durability</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>paint protection</s:tag>
+    <s:tag>quick</s:tag>
+    <s:tag>sealant</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4587286069308</id>
+      <title>500ml Refill</title>
+      <s:price currency="CAD">17.59</s:price>
+      <s:sku>ECR0.5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4587286069308</id>
+      <title>500ml Kit</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>EC0.5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4587286069308</id>
+      <title>5 L</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4587273715772</id>
+    <published>2020-06-29T14:18:34-07:00</published>
+    <updated>2020-06-29T14:18:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-marine-fabric-coat"/>
+    <title>Gtechniq Marine Fabric Coat</title>
+    <s:type>Fabric Protectant</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-500ml-gtechniq-marine-fabric-coat-14757637783612.jpg?v=1614096054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Fabric Protectant<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 11">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<meta charset="utf-8">
+<div class="page" title="Page 12">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div>
+<meta charset="utf-8">
+<p><span>Gtechniq Marine Fabric Coat provides unrivalled protection for all types of fabrics against mould, mildew, bacteria, microbes and everyday stains.</span> </p>
+<p><span>It's ultra-durable water and UV-repellent formula bonds to each individual fibre, leaving the feel and breathability of the fabric completely unchanged. Gtechniq Marine Fabric Coat is ideal for re-waterproofing we weather clothing, sails, awnings and for coating interior fabrics. </span></p>
+<p><span>This product is based on environmentally friendly technology and contains no flurocarbons. </span></p>
+</div>
+<ul>
+<li>
+<p><span>Protects all types of fabric from mildew, mould and bacteria </span></p>
+</li>
+<li>
+<p><span>Provides ultra-durable water and UV repellence whilst allowing the fabric to breath. </span></p>
+</li>
+<li>
+<p><span>Ideal for re-waterproofing wet weather cloths, sails and awnings. </span></p>
+</li>
+<li>
+<p><span>Contains no flurocarbons</span></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4587273715772</id>
+      <title>500ml</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>MFC0.5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4587270963260</id>
+    <published>2020-06-29T14:16:29-07:00</published>
+    <updated>2020-06-29T14:16:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-marine-interior-cleaner"/>
+    <title>Gtechniq Marine Interior Cleaner</title>
+    <s:type>Interior Cleaning &amp; Care</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-500ml-gtechniq-marine-interior-cleaner-14757631033404.jpg?v=1614095870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Interior Cleaning &amp; Care<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 11">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div>
+<meta charset="utf-8">
+<p><span>Gtechniq Marine Interior Cleaner works in three ways. First, it contains a non-harmful water-based degreaser and surfactant which will remove dirt and grease from any surface. </span></p>
+<p><span>Second, it contains an additive that traps and absorbs odour causing substances. Third, it contains a strong anti-bacterial agent that also repels dirt. </span> </p>
+<p><span>Gtechniq Marine Interior Cleaner can be used on any kind of hard or soft surface including leather, Alcantara and manmade or natural fibres. </span></p>
+</div>
+<ul>
+<li>
+<p><span>Water based, non harmful cleaner </span></p>
+</li>
+<li>
+<p><span>Removes dust and dirt from any interior surface </span></p>
+</li>
+<li>
+<p><span>Anti-bacterial action killing 99.9% of all bacteria </span></p>
+</li>
+<li>
+<p><span>Neutralises odours </span></p>
+</li>
+<li>
+<p><span>Can be used on delicate surfaces including Alcantara, man-made or </span></p>
+<p><span>natural fibres. </span></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4587270963260</id>
+      <title>500ml</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>MIC0.5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4587267850300</id>
+    <published>2020-06-29T14:14:07-07:00</published>
+    <updated>2020-06-29T14:14:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-marine-ceramic-fast-coat"/>
+    <title>Gtechniq Marine Ceramic Fast Coat</title>
+    <s:type>Paint Protection</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-500ml-gtechniq-marine-ceramic-fast-coat-14757625266236.jpg?v=1614119635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Paint Protection<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Gtechniq Marine Ceramic Fast Coat is a non-smear, high-gloss, 100% optically clear, non-yellowing and UV resistant coating. </span></p>
+<p><span>The coating repels dirt and water and provides up to six months protection. Easy to apply, Gtechniq Marine Ceramic Fast Coat is the perfect partner to protect marine surfaces from oxidation and make hard to remove stains a thing of the past. </span></p>
+<p><span>This product crosslinks to gelcoat or topcoat and is compatible with all Gtechniq Marine products. </span></p>
+<div class="page" title="Page 6">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<ul>
+<li>
+<p><span>Non-smearing, high gloss UV resistant coating </span></p>
+</li>
+<li>
+<p><span>Each application provides up to 6 months protection </span></p>
+</li>
+<li>
+<p><span>Easy application </span><span>– </span><span>spray on, buff off </span></p>
+</li>
+<li>
+<p><span>Makes stain removal from treated surfaces easier</span></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4587267850300</id>
+      <title>500ml</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>MCF0.5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4587263164476</id>
+    <published>2020-06-29T14:10:43-07:00</published>
+    <updated>2020-06-29T14:10:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-marine-glass-plexiglass-coating"/>
+    <title>Gtechniq Marine Glass &amp; Plexiglass Coating</title>
+    <s:type>Glass Treatment</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-250ml-gtechniq-marine-glass-plexiglass-coating-14757613928508.jpg?v=1614095990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Glass Treatment<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="page" title="Page 4">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 8">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 10">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<p><span>Gtechniq Marine Glass &amp; Plexiglass Coat greatly reduces the surface energy of glass and plexiglass surfaces, thereby making water form into tight droplets that readily roll off the surface. </span></p>
+<p><span>This improves visibility by both quickly clearing these surfaces of water and leaving less water residue on the surface to dry out as water spots.</span></p>
+<div class="page" title="Page 15">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<ul>
+<li>
+<p><span>Provides hydrophobic protection to glass, Perspex and Plexiglass </span></p>
+</li>
+<li>
+<p><span>Coated glass will stay cleaner for longer increasing visibility </span></p>
+</li>
+<li>
+<p><span>Maximum water repellency </span><span>– </span><span>last for up to 4 months </span></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4587263164476</id>
+      <title>250ml</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>MGC0.25</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4587258937404</id>
+    <published>2020-06-29T14:07:54-07:00</published>
+    <updated>2020-06-29T14:07:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-marine-water-spot-remover"/>
+    <title>Gtechniq Marine Water Spot Remover</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-500ml-gtechniq-marine-water-spot-remover-14757600329788.jpg?v=1614095672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="page" title="Page 4">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 8">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 10">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div>
+<meta charset="utf-8">
+<p><span>Gtechniq Marine Water Spot Remover is a concentrated formula which is safe to use on all marine finishes. This formula is designed to remove salt and fresh water spots and can be used on matt as well as gloss finishes. It will not remove any previously applied coatings or wax. </span></p>
+<p><span>The ready-to-use formula will make short work of even the most stubborn water spots. </span></p>
+</div>
+<ul>
+<li>
+<p><span>Safe to use on all marine finishes </span></p>
+</li>
+<li>
+<p><span>Can be applied to glossy or matt finishes </span></p>
+</li>
+<li>
+<p><span>Does not strip coatings or wax </span></p>
+</li>
+<li>
+<p><span>Ready to use formula </span></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4587258937404</id>
+      <title>500ml</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>MWR0.5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4587254612028</id>
+    <published>2020-06-29T14:04:55-07:00</published>
+    <updated>2020-06-29T14:04:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-marine-multi-stage-polish"/>
+    <title>Gtechniq Marine Multi-Stage Polish</title>
+    <s:type>Paint Protection</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-500ml-gtechniq-marine-multi-stage-polish-14757591318588.jpg?v=1614095761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Paint Protection<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<div class="page" title="Page 4">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 8">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div>
+<meta charset="utf-8">
+<p>Unlike traditional polishes that cut the surface, Gtechniq Marine Multi-Stage Polish contains nanoscale alpha alumina particles that reflow the surface. This causes significantly less damage to your boat's gelcoat or topcoat. </p>
+<p>The multi-stage technology is not only kinder to gel and topcoats, but removes surface defects without the need for an abundance of compounds. There are no unsightly buffer trails, only a fast to achieve flawless, high-gloss finish. </p>
+</div>
+<ul>
+<li>
+<p><span>One step abrasive removes scratches, swirls and oxidation </span></p>
+</li>
+<li>
+<p><span>Contains nano-scale abrasives for a fast and even cut </span></p>
+</li>
+<li>
+<p><span>Leaves a high gloss finish </span></p>
+</li>
+<li>
+<p><span>For best results apply product with any Gtechniq HotSwap pads </span></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4587254612028</id>
+      <title>500ml</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>MMP0.5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

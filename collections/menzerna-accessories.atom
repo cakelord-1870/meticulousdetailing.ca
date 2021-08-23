@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/menzerna-accessories.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-05-09T16:59:15-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4525950599228</id>
+    <published>2020-05-09T16:59:15-07:00</published>
+    <updated>2020-05-09T16:59:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-top-inspection-spray"/>
+    <title>Menzerna Top Inspection Spray</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-500-ml-menzerna-top-inspection-spray-14427764457532.jpg?v=1614115551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of the challenges of ensuring complete defect removal is the ability to inspect the surface for any areas requiring additional polishing. Since the polishing process itself can mask these remaining areas with compound residue, it is necessary to completely clean the surface. Menzerna's Top Inspection Spray was developed specifically for this purpose. </p>
+<ul>
+<li>contains no silicone</li>
+<li>completely safe for use in paint areas, body shops, and finessing areas</li>
+<li>perfect for new car showrooms to eliminate fingerprints, dirt, dust and grime and will leave a perfect finish</li>
+<li>available in a convenient 500ml spray bottle.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4525950599228</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4517291655228</id>
+    <published>2020-05-03T17:44:26-07:00</published>
+    <updated>2020-05-03T17:44:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-premium-wax-cut-foam-pads"/>
+    <title>Menzerna Premium Wax Cut Foam Pads</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-menzerna-premium-wax-cut-foam-pads-14380621791292.png?v=1614166307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="row">
+<div class="col-md-12">
+<div class="productheadline">
+<meta charset="utf-8"> <meta charset="utf-8">Menzerna Wax Foam Pad ensures straightforward and even application of the Menzerna sealing products. Perfect, long-lasting protection for polished surfaces. </div>
+<div class="productheadline"></div>
+<div class="productheadline"></div>
+<div class="productheadline">Benefits:</div>
+<ul>
+<li class="ulist ulist1">Washable</li>
+<li class="ulist ulist2">Consistent, long-lasting foam</li>
+<li class="ulist ulist1">Safety edge</li>
+<li class="ulist ulist2">High-quality Velcro</li>
+<li class="ulist ulist1">Convenient to use</li>
+<li class="ulist ulist1">Application: Rotary, orbital</li>
+<li class="ulist ulist1">Diameter: 95mm/3,5'' - 150mm/6″ - 180mm/7''</li>
+</ul>
+<p><br></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517291655228</id>
+      <title>3.5&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517291655228</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>M-WFP</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517291655228</id>
+      <title>7&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4517289492540</id>
+    <published>2020-05-03T17:44:26-07:00</published>
+    <updated>2020-05-03T17:44:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-premium-soft-cut-foam-pads"/>
+    <title>Menzerna Premium Soft Cut Foam Pads</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-menzerna-premium-soft-cut-foam-pads-27929178898492.png?v=1627474824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="row">
+<div class="col-md-12">
+<div class="productheadline">
+<meta charset="utf-8">Menzerna Soft Cut Foam Pad removes holograms and streaks in combination with Menzerna Finish polishes and prevents clouding. The especially formulated polishing foam reliably supports the best performance of the Menzerna finishes. Guarantees a brilliant, deep gloss and a perfect show car finish.</div>
+<div class="productheadline"></div>
+<div class="productheadline">Benefits:</div>
+<ul>
+<li class="ulist ulist1">Washable</li>
+<li class="ulist ulist2">Consistent, long-lasting foam</li>
+<li class="ulist ulist1">Safety edge</li>
+<li class="ulist ulist2">High-quality Velcro</li>
+<li class="ulist ulist1">Convenient to use</li>
+<li class="ulist ulist1">Application: Rotary, orbital</li>
+<li class="ulist ulist1">Diameter: 95mm/3,5'' - 150 mm/6'' - 180mm/7'' </li>
+<li class="ulist ulist1">
+</li>
+</ul>
+</div>
+</div>
+<p><br></p>
+<meta charset="utf-8">
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517289492540</id>
+      <title>3.5&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517289492540</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>M-SCFP</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517289492540</id>
+      <title>7&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4517286150204</id>
+    <published>2020-05-03T17:44:26-07:00</published>
+    <updated>2020-05-03T17:44:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-premium-medium-cut-foam-pads"/>
+    <title>Menzerna Premium Medium Cut Foam Pads</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-menzerna-premium-medium-cut-foam-pads-14380569100348.png?v=1614166135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Menzerna Medium Cut Foam Pad removes light scratches, holograms and surface defects in combination with Menzerna Medium Cut polishes. The special composition of the foam mixture ensures a perfect cut and produces a brilliant gloss. Removes light scratches, holograms and surface defects in combination with Menzerna Medium Cut polishes. The special composition of the foam mixture ensures  a perfect cut and produces a brilliant gloss.</span></p>
+<meta charset="utf-8">
+<div class="row">
+<div class="col-md-12">
+<div class="productheadline">Benefits:</div>
+<ul>
+<li class="ulist ulist1">Washable</li>
+<li class="ulist ulist2">Consistent, long-lasting foam</li>
+<li class="ulist ulist1">Safety edge</li>
+<li class="ulist ulist2">High-quality Velcro</li>
+<li class="ulist ulist1">Convenient to use</li>
+<li class="ulist ulist1">Application: Rotary, orbital</li>
+<li class="ulist ulist1">Diameter: 95mm/3,5'' - 150 mm/6'' - 180mm/7''</li>
+</ul>
+</div>
+</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517286150204</id>
+      <title>3.5&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517286150204</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>M-MCFP</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517286150204</id>
+      <title>7&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4517283692604</id>
+    <published>2020-05-03T17:44:26-07:00</published>
+    <updated>2020-05-03T17:44:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-premium-heavy-cut-foam-pads"/>
+    <title>Menzerna Premium Heavy Cut Foam Pads</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-menzerna-premium-heavy-cut-foam-pads-14380541739068.png?v=1614166102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            17.99 - 21.99
+            <a href="https://meticulousdetailing.ca/products/menzerna-premium-heavy-cut-foam-pads">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="row">
+<div class="col-md-12">
+<div class="productheadline">
+<meta charset="utf-8">Menzerna Heavy Cut Foam Pad removes scratches, sanding marks and surface defects in combination with Menzerna Heavy Cut polishes. The special composition of the polishing foam with a heavy cut enhances the effect of the Menzerna high-performance polishes and delivers end results reliably in the shortest time.</div>
+<div class="productheadline"></div>
+<div class="productheadline">Benefits:</div>
+<ul>
+<li class="ulist ulist1">Washable </li>
+<li class="ulist ulist2">Consistent, long-lasting foam </li>
+<li class="ulist ulist1">Safety edge </li>
+<li class="ulist ulist2">High-quality Velcro </li>
+<li class="ulist ulist1">Convenient to use</li>
+<li class="ulist ulist1">Application: Rotary, orbital</li>
+<li class="ulist ulist1">Diameter: 95mm/3,5'' - 150 mm /6″ - 180mm/7''</li>
+</ul>
+</div>
+</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517283692604</id>
+      <title>3.5&quot;</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517283692604</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>M-HCFP</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4517283692604</id>
+      <title>7&quot;</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515152429116</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-solid-grit"/>
+    <title>Menzerna Solid Grit</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-menzerna-solid-grit-14368012959804.png?v=1614116466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            9.99 - 11.99
+            <a href="https://meticulousdetailing.ca/products/menzerna-solid-grit">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Sanding block for sanding clear coat surfaces. Solid Grit reliably and easily removes scratches, runs, dust inclusions, etching and orange peel, and is perfect for use on repairs. The two P2000 and P3000 sanding blocks are supplied in a handy plexiglass case. Both blocks are very low-wearing and ensure the best manual sanding quality.</p>
+<div class="row productdescription">
+<div class="col-md-12 ">
+<ul>
+<li class="ulist ulist1">Prevents deep sanding marks</li>
+</ul>
+<ul>
+<li class="ulist ulist2">Low-wearing</li>
+</ul>
+<ul>
+<li class="ulist ulist1">Long service life</li>
+</ul>
+<ul>
+<li class="ulist ulist2">Sanding without a machine</li>
+</ul>
+<ul>
+<li class="ulist ulist1">Even sanding pattern</li>
+</ul>
+<ul>
+<li class="ulist ulist2">Handy, easy to use</li>
+</ul>
+<ul>
+<li class="ulist ulist1">Best sanding quality</li>
+</ul>
+<ul>
+<li class="ulist ulist2">Versatile in application thanks to different sanding grades</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abrasive product</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515152429116</id>
+      <title>P2000</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>26902.100.000-1</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515152429116</id>
+      <title>P3000</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>26902.100.000-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515147055164</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-liquid-matt"/>
+    <title>Menzerna Liquid Matt</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-1-l-menzerna-liquid-matt-14367990186044.png?v=1614117355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="head"><span>Matting paste for surface preparation. </span>Establishes the conditions required for reliable results in repainting or refinishing. Works on a water basis – for mechanical or manual application.</p>
+<div class="row productdescription">
+<div class="col-md-12 ">
+<meta charset="utf-8">
+<div class="productheadline">Benefits:</div>
+<ul>
+<li class="ulist ulist1">Uniform surface</li>
+<li class="ulist ulist2">Establishes the optimum basis for coating application</li>
+<li class="ulist ulist1">Straightforward application, even on rounded surfaces</li>
+<li class="ulist ulist2">Silicone-free</li>
+</ul>
+<p><br></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>sanding</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515147055164</id>
+      <title>1 L</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>20144.261.001</s:sku>
+      <s:grams>1397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515142598716</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-control-cleaner"/>
+    <title>Menzerna Control Cleaner - Professional Spray</title>
+    <s:type>Paint Protection</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-protection-500-ml-menzerna-control-cleaner-14367978487868.png?v=1614124326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Protection<br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Menzerna Control Cleaner cleaning spray for especially thorough polishing. The ultimate pre-cleaner to support the visual inspection of the coating surface being worked on. Removes polish residues, grease and contaminants prior to sealing. Menzerna Control Cleaner is the new formulation cleans without streaks and guarantees excellent wiping.
+<div class="col-md-12 ">
+<p> Benefits:</p>
+<ul>
+	<li class="ulist ulist1">Removes all traces of polishing residues and grease</li>
+	<li class="ulist ulist2">Improved formulation</li>
+	<li class="ulist ulist1">Cleans without streaks</li>
+	<li class="ulist ulist2">Perfect wiping</li>
+	<li class="ulist ulist1">No discolouration </li>
+	<li class="ulist ulist2">Perfect preparation for Sealing</li>
+	<li class="ulist ulist2">Easy application</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>surface prep</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515142598716</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku>22934.271.001</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515136766012</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-endless-shine"/>
+    <title>Menzerna Polish Endless Shine - the final shine.</title>
+    <s:type>Paint Protection</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-protection-500-ml-menzerna-endless-shine-14367959810108.png?v=1614121977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Protection<br>
+        <strong>Price: </strong>
+            32.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Menzerna Polish Endless Shine<br>
+<meta charset="utf-8">
+<p class="head"><span>Detailing spray to refresh the gloss. </span>Wellness program for all smooth surfaces like clear coat, glass, plastic or metal. Applies a protective film to the coating with a beautiful, deep gloss – including premium beading effect. Menzerna Polish Endless Shine is a must have for that uick detail.</p>
+<div class="row productdetail">
+<div class="col-md-4 col-md-push-8">
+<meta charset="utf-8">
+<div class="productheadline">Benefits:</div>
+<ul>
+	<li class="ulist ulist1">Protection and gloss refreshment</li>
+	<li class="ulist ulist2">Extended durability of the sealant</li>
+	<li class="ulist ulist1">Perfect water beading </li>
+	<li class="ulist ulist2">Leaves no traces on plastic</li>
+	<li class="ulist ulist1">Versatile in application: After washing, after polishing</li>
+	<li class="ulist ulist2">Antistatic effect</li>
+	<li class="ulist ulist1">Without the addition of waxes and fillers</li>
+</ul>
+<p></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>Endless Shine</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>Menzerna Canada</s:tag>
+    <s:tag>Menzerna Polish</s:tag>
+    <s:tag>paint protection</s:tag>
+    <s:tag>quick</s:tag>
+    <s:tag>sealant</s:tag>
+    <s:tag>Shine</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515136766012</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">32.49</s:price>
+      <s:sku>22747.271.001</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

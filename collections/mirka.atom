@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/mirka.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2021-07-13T12:04:23-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6604758253628</id>
+    <published>2021-07-13T12:04:23-07:00</published>
+    <updated>2021-07-13T12:04:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/polarshine-polish-5-1l-mirka"/>
+    <title>POLARSHINE Polish 5 1L - Mirka ***</title>
+    <s:type>paint correction</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-paint-correction-polarshine-polish-5-1l-mirka-28509563945020.jpg?v=1626203297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>paint correction<br>
+        <strong>Price: </strong>
+            73.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Polarshine VF5 is a medium-fine polishing compound suitable for hologram removal and removal of sanding marks after sanding with grits P2500 and finer. Polarshine VF5 is silicone free and suitable for both machine or hand applications.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mirka</s:tag>
+    <s:tag>mirka</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>platinum paint correction system</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6604758253628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">73.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6604719128636</id>
+    <published>2021-07-13T10:24:21-07:00</published>
+    <updated>2021-07-13T10:24:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/polarshine-polish-20-1l-mirka"/>
+    <title>POLARSHINE Polish 20 1L - Mirka</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-paint-correction-polarshine-polish-20-1l-mirka-28509229613116.jpg?v=1626197296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            49.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Polarshine® 20 is a medium coarse polishing compound for scratch removal, optimised to work on fresh and soft clear coats. This water-soluble polishing compound gives an excellent cut and leaves a very high gloss surface. In order to obtain a hologram free and superior high gloss surface, especially on darker colours, it is recommended to use Polarshine® 5 as the last step in the polishing process.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mirka</s:tag>
+    <s:tag>Compound</s:tag>
+    <s:tag>mirka</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>polish</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6604719128636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6604716834876</id>
+    <published>2021-07-13T10:19:03-07:00</published>
+    <updated>2021-07-13T10:19:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/polarshine-polish-45-mirka"/>
+    <title>POLARSHINE Polish 45 - Mirka</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-paint-correction-polarshine-polish-45-mirka-28509223485500.jpg?v=1626197044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            39.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A coarse and fast cutting polishing compound that helps you save time and still achieve a perfect deep gloss finish. Removes sanding scratches from P600 and finer quickly and permanently. Designed for hard surfaces and coatings, especially within the marine sector. Used in both production and restoration processes, Polarshine® 45 is ideal for one-step polishing of white and light-coloured gel coat surfaces. For darker colours, we recommend a second step with Polarshine® 10 to remove swirl marks.</span><br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mirka</s:tag>
+    <s:tag>mirka</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>polish</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6604716834876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6604714278972</id>
+    <published>2021-07-13T10:08:16-07:00</published>
+    <updated>2021-07-13T10:08:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/polarshine-10-by-mirka"/>
+    <title>Polarshine 10 by Mirka ***</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-paint-correction-polarshine-10-by-mirka-28509205528636.jpg?v=1626196347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            50.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The ultimate single compound system. Polarshine® 10 is a medium coarse polishing compound especially designed for achieving the best result after sanding with Mirka’s unique products.</p>
+<p data-mce-fragment="1">Polarshine® 10 is suitable for all paint systems and for polishing of scratch resistant clear coats. It is designed to keep the surface temperature low when polishing and it removes marks permanently.</p>
+<p data-mce-fragment="1">Polarshine® 10 is water-based and silicone-free and can be applied both by machine and by hand.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Permanently remove sanding scratches from P1500 and finer on all types of surfaces, depending on polishing pad</li>
+<li data-mce-fragment="1">Suitable for all paint systems. Also suitable for polishing of scratch resistant clear coats</li>
+<li data-mce-fragment="1">Designed to keep surface temperature low when polishing</li>
+<li data-mce-fragment="1">Silicone free</li>
+<li data-mce-fragment="1">For hand or machine application</li>
+</ul>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/2NWqahSCTcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <iframe width="900" height="506" src="https://www.youtube.com/embed/fgJe-8WMaWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/YpYfUDq0EvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mirka</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>Cut Compound</s:tag>
+    <s:tag>Jeweling Polish</s:tag>
+    <s:tag>mirka</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>polish</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6604714278972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6604713230396</id>
+    <published>2021-07-13T10:04:46-07:00</published>
+    <updated>2021-07-13T10:04:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/polarshine-35-by-mirka"/>
+    <title>Polarshine 35 by Mirka</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-paint-correction-polarshine-35-by-mirka-28509195894844.jpg?v=1626196101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Polarshine® 35 is a coarse polishing compound developed for demanding Industrial and Marine applications. Suitable for materials such as gel coats, high gloss lacquers and composites.</p>
+<p data-mce-fragment="1">Polarshine® 35 is fast and efficient compound, producing a high surface gloss and thus enabling you to minimize the sanding steps. This polishing compound has special emulsifying properties, which reduce the risk of drying out or overheating the surface.</p>
+<p data-mce-fragment="1">The viscosity of Polarshine® 35 reduces splashing and makes it is easy to use.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">An aggressive polishing compound for removal of sanding scratches from P800 and finer, or for heavily oxidized surfaces</li>
+<li data-mce-fragment="1">For easy and quick polishing, use a twisted wool pad after sanding with P800, or an orange foam pad after sanding with P1000</li>
+<li data-mce-fragment="1">Can also be used for removal of fine orange peel</li>
+<li data-mce-fragment="1">Silicone free</li>
+<li data-mce-fragment="1">For machine application</li>
+</ul>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/2NWqahSCTcY" height="506" width="900" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe> <iframe title="YouTube video player" src="https://www.youtube.com/embed/fgJe-8WMaWY" height="506" width="900" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/YpYfUDq0EvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mirka</s:tag>
+    <s:tag>Compounds</s:tag>
+    <s:tag>mirka</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>polish</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6604713230396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4678074269756</id>
+    <published>2020-11-13T20:00:03-08:00</published>
+    <updated>2020-11-13T20:00:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/mirka-dry-guide-coat-white-100g"/>
+    <title>Mirka Dry Guide Coat White 100g ***</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-paint-correction-mirka-dry-guide-coat-white-100g-15416111038524.jpg?v=1614115015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Dry Guide Coat has excellent covering properties. The powder makes all imperfections and scratches visible. This unique applicator leaves an even powder coating. The applicator has flexible edges which makes it easy to use on contoured areas. This is a great tool in guiding the operator through the sanding process and achieving a perfect result. The white powder is used for dark colour surfaces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mirka</s:tag>
+    <s:tag>mirka</s:tag>
+    <s:tag>Paint Correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4678074269756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4678073548860</id>
+    <published>2020-11-13T19:56:22-08:00</published>
+    <updated>2020-11-13T19:56:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/mirka-dry-guide-coat-black-100g"/>
+    <title>Mirka Dry Guide Coat Black 100g ***</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-paint-correction-mirka-dry-guide-coat-black-100g-15416100749372.jpg?v=1614114949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Black Dry Guide Coat used for light colour surfaces. Dry Guide Coat with excellent covering properties. The powder makes all imperfections and scratches visible. This unique applicator leaves an even powder coating. The applicator has flexible edges which makes it easy to use on contoured areas. A great tool in guiding the operator through the sanding process and achieving a perfect result.</span></p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mirka</s:tag>
+    <s:tag>mirka</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4678073548860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4657381277756</id>
+    <published>2020-10-11T12:18:58-07:00</published>
+    <updated>2020-10-11T12:18:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/mirka-6-abralon-sanding-discs-quantity-10-sanding-discs"/>
+    <title>Mirka 6&quot; Abralon Sanding Discs Quantity 10 Sanding Discs ****</title>
+    <s:type>sanding</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-sanding-mirka-6-abralon-sanding-discs-quantity-10-sanding-discs-15269933318204.jpg?v=1614115072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>sanding<br>
+        <strong>Price: </strong>
+            46.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>k</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mirka</s:tag>
+    <s:tag>mirka</s:tag>
+    <s:tag>Sanding</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657381277756</id>
+      <title>180</title>
+      <s:price currency="CAD">46.65</s:price>
+      <s:sku>8A-240-180</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657381277756</id>
+      <title>360</title>
+      <s:price currency="CAD">46.65</s:price>
+      <s:sku>8A-240-360</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657381277756</id>
+      <title>500</title>
+      <s:price currency="CAD">46.65</s:price>
+      <s:sku>8A-240-500</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657381277756</id>
+      <title>1000</title>
+      <s:price currency="CAD">46.65</s:price>
+      <s:sku>8A-240-1000</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657381277756</id>
+      <title>2000</title>
+      <s:price currency="CAD">46.65</s:price>
+      <s:sku>8A-240-2000</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657381277756</id>
+      <title>3000</title>
+      <s:price currency="CAD">46.65</s:price>
+      <s:sku>8A-240-3000</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657381277756</id>
+      <title>4000</title>
+      <s:price currency="CAD">46.65</s:price>
+      <s:sku>8A-240-4000</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4657372561468</id>
+    <published>2020-10-11T12:08:22-07:00</published>
+    <updated>2020-10-11T12:08:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/mirka-6-abralon-sanding-discs-quantity-20-sanding-discs"/>
+    <title>Mirka 6&quot; Abralon Sanding Discs Quantity 20 Sanding Discs ****</title>
+    <s:type>Sanding</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-sanding-mirka-6-abralon-sanding-discs-quantity-20-sanding-discs-15269873451068.jpg?v=1614115192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>Sanding<br>
+        <strong>Price: </strong>
+            93.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Abralon is a unique, multifunctional sanding material developed for tackling both smooth and profiled surfaces. Its patented, flexible construction allows it to create a smooth sanding pattern on angled surfaces and edges while minimizing the risk of pressure marks. The flexible weave also allows water and air to pass freely, making it suitable for both dry and wet sanding, by machine or by hand.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mirka</s:tag>
+    <s:tag>Mirka</s:tag>
+    <s:tag>sanding</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657372561468</id>
+      <title>180</title>
+      <s:price currency="CAD">93.31</s:price>
+      <s:sku>8A-241-180</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657372561468</id>
+      <title>360</title>
+      <s:price currency="CAD">93.31</s:price>
+      <s:sku>8A-241-360</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657372561468</id>
+      <title>500</title>
+      <s:price currency="CAD">93.31</s:price>
+      <s:sku>8A-241-500</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657372561468</id>
+      <title>1000</title>
+      <s:price currency="CAD">93.31</s:price>
+      <s:sku>8A-241-1000</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657372561468</id>
+      <title>2000</title>
+      <s:price currency="CAD">93.31</s:price>
+      <s:sku>8A-241-2000</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657372561468</id>
+      <title>3000</title>
+      <s:price currency="CAD">93.31</s:price>
+      <s:sku>8A-241-3000</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657372561468</id>
+      <title>4000</title>
+      <s:price currency="CAD">93.31</s:price>
+      <s:sku>8A-241-4000</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657372561468</id>
+      <title>Assorted</title>
+      <s:price currency="CAD">93.31</s:price>
+      <s:sku>8A-241-AP</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4657359519804</id>
+    <published>2020-10-11T11:51:47-07:00</published>
+    <updated>2020-10-11T11:51:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/mirka-abralon-sanding-discs-3000"/>
+    <title>Mirka 3&quot; Abralon Sanding Discs Quantity 20 Sanding Discs ****</title>
+    <s:type>sanding</s:type>
+    <s:vendor>mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-sanding-mirka-3-abralon-sanding-discs-quantity-20-sanding-discs-15269803163708.jpg?v=1614115431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mirka<br>
+        <strong>Type: </strong>sanding<br>
+        <strong>Price: </strong>
+            49.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Abralon is a unique, multifunctional sanding material developed for tackling both smooth and profiled surfaces. Its patented, flexible construction allows it to create a smooth sanding pattern on angled surfaces and edges while minimizing the risk of pressure marks. The flexible weave also allows water and air to pass freely, making it suitable for both dry and wet sanding, by machine or by hand.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mirka</s:tag>
+    <s:tag>sanding</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657359519804</id>
+      <title>180</title>
+      <s:price currency="CAD">49.93</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657359519804</id>
+      <title>360</title>
+      <s:price currency="CAD">49.93</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657359519804</id>
+      <title>500</title>
+      <s:price currency="CAD">49.93</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657359519804</id>
+      <title>1000</title>
+      <s:price currency="CAD">49.93</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657359519804</id>
+      <title>2000</title>
+      <s:price currency="CAD">49.93</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657359519804</id>
+      <title>3000</title>
+      <s:price currency="CAD">49.93</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657359519804</id>
+      <title>4000</title>
+      <s:price currency="CAD">49.93</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4585989341244</id>
+    <published>2020-06-27T12:29:04-07:00</published>
+    <updated>2020-06-27T12:29:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/mirka-abralon-sanding-discs"/>
+    <title>Mirka Abralon Sanding Discs</title>
+    <s:type>Miscellaneous</s:type>
+    <s:vendor>Mirka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/mirka-miscellaneous-360-mirka-abralon-sanding-discs-14748434104380.jpg?v=1614115227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirka<br>
+        <strong>Type: </strong>Miscellaneous<br>
+        <strong>Price: </strong>
+            4.19 - 69.98
+            <a href="https://meticulousdetailing.ca/products/mirka-abralon-sanding-discs">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Abralon is a unique, multifunctional sanding material developed for tackling both smooth and profiled surfaces. Its patented, flexible construction allows it to create a smooth sanding pattern on angled surfaces and edges while minimizing the risk of pressure marks. The flexible weave also allows water and air to pass freely, making it suitable for both dry and wet sanding, by machine or by hand.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abrasive product</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>disc</s:tag>
+    <s:tag>mirka</s:tag>
+    <s:tag>Miscellaneous</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>360</title>
+      <s:price currency="CAD">69.98</s:price>
+      <s:sku>842028013637</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>500</title>
+      <s:price currency="CAD">69.98</s:price>
+      <s:sku>842028013668</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>1000</title>
+      <s:price currency="CAD">69.98</s:price>
+      <s:sku>842028013576</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>2000</title>
+      <s:price currency="CAD">69.98</s:price>
+      <s:sku>842028013613</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>3000</title>
+      <s:price currency="CAD">69.98</s:price>
+      <s:sku>842028038166</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>4000</title>
+      <s:price currency="CAD">69.98</s:price>
+      <s:sku>842028013644</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>2 ea. 180, 360, 500, 1000, 2000, 4000 grits</title>
+      <s:price currency="CAD">69.98</s:price>
+      <s:sku>842028016300</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>500 Single</title>
+      <s:price currency="CAD">4.19</s:price>
+      <s:sku>842028013637</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>360 Single</title>
+      <s:price currency="CAD">4.19</s:price>
+      <s:sku>842028013637</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>1000 Single</title>
+      <s:price currency="CAD">4.19</s:price>
+      <s:sku>842028013668</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>2000 Single</title>
+      <s:price currency="CAD">4.19</s:price>
+      <s:sku>842028013613</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>3000 Single</title>
+      <s:price currency="CAD">4.19</s:price>
+      <s:sku>842028038166</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4585989341244</id>
+      <title>4000 Single</title>
+      <s:price currency="CAD">4.19</s:price>
+      <s:sku>842028013644</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

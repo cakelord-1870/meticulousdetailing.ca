@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/wolfgang.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-07-29T12:28:04-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4609082687548</id>
+    <published>2020-07-29T12:28:04-07:00</published>
+    <updated>2020-07-29T12:28:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/wolfgang-paintwork-polish-enhancer"/>
+    <title>Wolfgang Paintwork Polish Enhancer</title>
+    <s:type>polish</s:type>
+    <s:vendor>Wolfgang</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/wolfgang-polish-16oz-wolfgang-paintwork-polish-enhancer-14916268523580.jpg?v=1614061554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolfgang<br>
+        <strong>Type: </strong>polish<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Gently polishes paint to a deep gloss! Wolfgang Paintwork Polish Enhancer is your last chance to create a memorable gloss before wax application. Wolfgang's pre-wax cleanser removes old waxes and sealants, light oxidation, and paint contamination to reveal deep color and gloss. Once you apply a wax or paint sealant, it will enhance the smooth, clean paint created by Wolfgang Paintwork Polish Enhancer. If you want the ultimate gloss, it starts with Wolfgang Paintwork Polish Enhancer!</p>
+<meta charset="utf-8">
+<p>Wolfgang Paintwork Polish Enhancer is truly in a class of its own. Most car polishes get their shine-power from potent VOC solvents—not exactly kind to paintwork. Our Paintwork Polish Enhancer is a mild oil-in-water emulsion. This prewax cleansing lotion will not dull or dry the paint, even with dedicated use. Wolfgang's gentle, water-based formula is ideal to use on expensive finishes and antique, collectible, and show cars.</p>
+<meta charset="utf-8">
+<p>Wolfgang Paintwork Polish Enhancer does not level or abrade the paint. It is a moisturizing cleansing lotion that uncovers the shimmering gloss of like-new paint by removing dull layers of old wax and surface impurities. Micro-fine fillers settle into light swirls and scratches to create a smooth, level surface. Minor imperfections will disappear. The removal of old paint protection will encourage maximum bonding and gloss of Wolfgang Deep Gloss Paint Sealant or Wolfgang Füzion Estate Wax. This combination of products will leave your vehicle with an absolutely stunning shine.<br><br>Use Wolfgang Paintwork Polish Enhancer before using Wolfgang Deep Gloss Paint Sealant for the first time. As needed, use Wolfgang Paintwork Polish Enhancer prior to wax or sealant application to rid the paint of wax build-up and contamination.</p>
+<p style="text-align: center;"><span class="Bullet-script-18">Hand Application</span></p>
+<meta charset="utf-8">
+<ol>
+<li>Pour a nickel-size amount of Wolfgang Paintwork Polish Enhancer onto a clean terry or microfiber applicator pad. This should be enough to cover half of the hood or an entire fender. Spread the polish across the section in an overlapping motion.<br><br>
+</li>
+<li>Allow a slight haze to form. Use a clean terry cloth or microfiber towel to buff the surface to a bright shine.</li>
+</ol>
+<meta charset="utf-8">
+<p align="center" class="link-grey">Machine Application:</p>
+<ol start="1" type="1">
+<li>Use a white polishing pad on a dual action polisher, like the Porter Cable 7424. If you prefer a softer pad, use a gray finishing pad.<br><br>
+</li>
+<li>Apply 3 beads of polish to either the pad or directly to the vehicle surface. With the polisher turned off, spread the product over the surface to avoid splatter.<br><br>
+</li>
+<li>Set the maximum speed to 4.5 and work the polish over one panel at a time. When it begins to dry, stop polishing.<br><br>
+</li>
+<li>Use a microfiber towel or bonnet to buff away the haze.</li>
+</ol>
+<p align="left"><strong>Usage Tips: </strong>To maximize the effectiveness of Wolfgang Paintwork Polish Enhancer, apply out of direct sunlight onto a freshly washed, cool, dry surface. The polish may be applied by hand or buffer, to equal satisfaction. Always follow up the polish application with Wolfgang's Deep Gloss Paint Sealant or Wolfgang Füzion Estate Wax. Both products will create a dramatic gloss on all colors and types of paint.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:tag>wolfgang</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4609082687548</id>
+      <title>16oz</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>WG-2000</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4609081442364</id>
+    <published>2020-07-29T12:24:26-07:00</published>
+    <updated>2020-07-29T12:24:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/wolfgang-deep-gloss-paint-sealant"/>
+    <title>Wolfgang Deep Gloss Paint Sealant</title>
+    <s:type>Sealant</s:type>
+    <s:vendor>Wolfgang</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/wolfgang-sealant-16oz-wolfgang-deep-gloss-paint-sealant-14916259381308.jpg?v=1614061668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolfgang<br>
+        <strong>Type: </strong>Sealant<br>
+        <strong>Price: </strong>
+            52.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span color="#FF0000">Wolfgang Deep Gloss Paint Sealant redefines the paint sealant as we know it –</span> your perceptions of paint sealants will be forever altered! The glossy, liquid-like shimmer enhances all types and colors of paint. No other synthetic wax or paint sealant gives your vehicle the gloss, the depth, and the protection of Wolfgang Deep Gloss Paint Sealant. Now with fortified polymer technology, Wolfgang Deep Gloss Paint Sealant is simply the best paint sealant you'll ever use.</p>
+<meta charset="utf-8">
+<p>The entire Wolfgang Concours Series collection is built around this single product. Wolfgang Deep Gloss Paint Sealant was developed in order to meet the demand for a paint protectant that captures the wet look of a carnauba wax but lasts longer. Immediately, we looked to the newest breed of crystalline "super" polymers being developed in Germany. German Super Polymers were the foundation of their original groundbreaking formula.</p>
+<meta charset="utf-8">
+<p>Wolfgang Deep Gloss Paint Sealant features fortified polymer technology. Wolfgang's German Super Polymers are fortified with more dirt-repelling power to keep your vehicle cleaner and shinier, longer. Our enhanced super polymers have an amazing anti-static property that repels water, oil, dust, and road grime to provide unsurpassed paint protection. Your vehicle stays cleaner because foreign molecules literally slide off the clear polymer coating. Super polymers bond easily to automotive paint and form an extensive cross-linked polymer network. This clear shield eliminates surface tension so contaminants have no foothold on your vehicle.</p>
+<p align="left">The network of slick super polymers increases the paint's "jetting factor". Jetting factor is another word for decreased surface tension. No other paint sealant matches Wolfgang's jetting factor. Regular washing with Wolfgang Auto Bathe will allow dirt to slide right off the paint.</p>
+<p>The look of Wolfgang Deep Gloss Paint Sealant is similar to the shine of a carnauba wax but with a slicker, wetter surface gloss. The paint looks like a clear glossy coating was just poured over it. The paint ripples with reflections and light bounces off every angle and curve. The crystal-like structure of the German Super Polymers yields an incredible, vivid shine - not a sterile, surface shine. The crystals refract light much like high-quality diamonds. Any color is enhanced by Wolfgang Deep Gloss Paint Sealant.</p>
+<p>Wolfgang Deep Gloss Paint Sealant replicates the best qualities of carnauba wax – slickness and shine – but it has more than double the longevity of the average carnauba wax. Just a few drops will produce a show-stealing shine that withstands the elements, ultraviolet rays, infrared radiation, salt water, and environmental pollutants and armors your paint for months. Plus, Wolfgang Deep Gloss Paint Sealant is an excellent value. A little goes a long way.</p>
+<p>Wolfgang Deep Gloss Paint Sealant was created to meet any car care challenge. It stands up to extreme temperatures, road salt, salty ocean air, ozone, and moisture. Apply it in hot, humid conditions – Wolfgang Deep Gloss Paint Sealant will deliver a streak-free shine every time. Apply it just before the onset of winter and your vehicle will be protected until spring!</p>
+<meta charset="utf-8">
+<p><strong>Tech Note:</strong> Wolfgang Deep Gloss Paint Sealant is a water-based, oxygen activated paint sealant. After buffing off the sealant, the remaining coating needs to cure for 12 hours in dry conditions to fully bond to the paint. Exposure to moisture during this time will drown the polymers. For the best results, allow 12 hours of curing time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>paint protection</s:tag>
+    <s:tag>paint sealant</s:tag>
+    <s:tag>sealant</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:tag>wolfgang</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4609081442364</id>
+      <title>16oz</title>
+      <s:price currency="CAD">52.99</s:price>
+      <s:sku>WG-5500</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

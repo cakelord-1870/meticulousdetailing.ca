@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/tld-products.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-06-23T19:47:18-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4584823259196</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-sample-size"/>
+    <title>TLD Products The Last Cut Sample Size ***</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-tld-products-the-last-cut-sample-size-14737670012988.png?v=1614164454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Test out a 2oz sample of The Last Cut</p>
+<meta charset="utf-8">
+<p id="yui_3_17_2_1_1571871993309_371">The Last Cut is a compounding glaze designed by a detailer for detailers and body shop users. Versatility is key and this product gives its user full control over aggression/finishing ability based on pad choice. Its main purpose is to remove scratches and swirls while leaving a glossy finish on light or dark colored painted/clear-coated surfaces. On harder paints, its one step capabilities can be explored. Best results are achieved using a Dual Action or Rotary Polisher. This Silicone free formula contains NO FILLERS; showing true results after use. Body Shop Safe!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584823259196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4584822308924</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-plus-sample-size"/>
+    <title>TLD Products The Last Cut+ Sample Size ***</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-tld-products-the-last-cut-sample-size-14737659953212.png?v=1614063114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Test out a 2oz sample of The Last Cut+</p>
+<meta charset="utf-8">
+<p><span>The Last Cut+ (TLC+) is a water-based Cut Compound designed by a detailer for detailers and body shop users. Versatility is key and this product was designed to complement its less aggressive companion The Last Cut. TLC+ provides a careful blend of added aggression while still maintaining the finishing ability when working with clear coated/gel coat surfaces. This is achieved by using diminishing abrasives and providing more cutting action during its diminished state. This product is compatible with numerous types of pads and can be paired based on aggression requirements or job purpose. When dealing with clear coat on the harder end of the scale, TLC+ is designed to provide more defect removal ability when compared to The Last Cut. Ultimately it provides the means of improved efficiency while keeping surface integrity and user safety in mind. Best results are achieved using a Dual Action Polisher or Rotary Polisher. This SILICONE FREE formula contains NO FILLERS and is BODY SHOP SAFE.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584822308924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4584820867132</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-mix-bundle"/>
+    <title>TLD Products The Last Cut Mix Bundle ***</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-16oz-tld-products-the-last-cut-mix-bundle-14770630393916.png?v=1614164149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            105.99 - 139.99
+            <a href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-mix-bundle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Bundle and<span> </span>Save</strong><span> with The Last Cut Mix bundle. This bundle combines the wool pad with the heaviest aggression plus the ability to step down aggression with the softer foam polishing pad or a foam finishing pad. The bundle includes TLC with a foamed back wool pad, foam polishing pad, and the foam finishing pad. This bundle is great for paint on the medium to the softer side with general defects. The two included microfiber towels will aid with your product wipe-off needs. </span></p>
+<p><strong><span>This Bundle Includes:</span></strong></p>
+<ul>
+	<li><span>1 x The Last Cut - 32oz OR 26oz</span></li>
+	<li><span>1 x Foam Backed Wool Pad</span></li>
+	<li><span>1 x Foam Polishing Pad </span></li>
+	<li><span>1 X Foam Finishing Pad </span></li>
+	<li><span>2 x Microfiber Towels </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584820867132</id>
+      <title>16oz</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584820867132</id>
+      <title>32oz</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4584818212924</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-lite-bundle-plus"/>
+    <title>TLD Products The Last Cut Lite Bundle Plus</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-16oz-tld-products-the-last-cut-lite-bundle-plus-14737617059900.png?v=1614164212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            99.99 - 134.99
+            <a href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-lite-bundle-plus">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Bundle and<span> </span>Save</strong><span> with The Last Cut Lite bundle. This bundle is the least aggressive. It combines the foam cutting pad for defect removal and the ability step to the softer pads to finish out. This bundle includes TLC with a foamed cutting pad, foam polishing pad, and the foam finishing pad. This bundle is great for paint on the softer side. The two included microfiber towels will aid with your product wipe-off needs. </span></p>
+<p></p>
+<p><strong><span>This Bundle Includes:</span></strong></p>
+<ul>
+	<li><span>1 x The Last Cut - 16oz OR 32 oz</span></li>
+	<li><span>1 x Foam Cutting Pad </span></li>
+	<li><span>1 x Foam Polishing Pad </span></li>
+	<li><span>1 X Foam Finishing Pad </span></li>
+	<li><span>2 x Microfiber Towels </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584818212924</id>
+      <title>16oz</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584818212924</id>
+      <title>32oz</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku/>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4584811429948</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-aggressive-bundle-plus"/>
+    <title>TLD Products The Last Cut Aggressive Bundle Plus</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-16oz-tld-products-the-last-cut-aggressive-bundle-plus-14737554636860.png?v=1614044871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            105.99 - 139.99
+            <a href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-aggressive-bundle-plus">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Bundle and<span> </span>Save</strong><span> with The Last Cut Aggressive bundle. This will be the most aggressive bundle paired with The Last Cut compound. It combines TLC with a foamed back wool pad, microfiber pad, and the foam cutting pad. This bundle is great for paint on the medium to harder side with heavy defects. The two included microfiber towels will aid with your product wipe-off needs. </span></p>
+<p><strong><span>This Bundle Includes:</span></strong></p>
+<ul>
+	<li><span>1 x The Last Cut - 16oz OR 32oz</span></li>
+	<li><span>1 x Foam Backed Wool Pad</span></li>
+	<li><span>1 x Microfiber Cutting Pad</span></li>
+	<li><span>1 X Foam Cutting Pad </span></li>
+	<li><span>2 x Microfiber Towels </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>Compound</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584811429948</id>
+      <title>16oz</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584811429948</id>
+      <title>32oz</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4584809627708</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-bundle-plus"/>
+    <title>TLD Products The Last Cut Bundle Plus</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-32oz-tld-products-the-last-cut-bundle-plus-27929019514940.png?v=1614193193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            99.99 - 135.99
+            <a href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-bundle-plus">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>BUNDLE AND SAVE!!</strong> </span></p>
+<p><span>In this Last Cut bundle you will receive:</span></p>
+<ul>
+	<li>1 - 32oz OR 16oz  Bottle of The Last Cut Compound</li>
+	<li>1 - Microfiber Cut Pad</li>
+	<li>1 - Blue Foam Cut Pad</li>
+	<li>1 - Orange Foam Polishing Pad</li>
+	<li>2 - Microfiber Towels</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>Compound</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584809627708</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584809627708</id>
+      <title>32oz</title>
+      <s:price currency="CAD">135.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4584805236796</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-mix-bundle-1"/>
+    <title>TLD Products The Last Cut+ Mix Bundle</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-16oz-tld-products-the-last-cut-mix-bundle-14737506467900.png?v=1614164388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            105.99 - 148.99
+            <a href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-mix-bundle-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Bundle and<span> </span>Save</strong><span> with The Last Cut+ Mix bundle. This bundle combines the wool pad with the heaviest aggression plus the ability to step down aggression with the softer foam polishing pad or a foam finishing pad. The bundle includes TLC+ with a foamed back wool pad, foam polishing pad, and the foam finishing pad. This bundle is great for paint on the medium to softer side with heavy defects. The two included microfiber towels will aid with your product wipe-off needs. </span></p>
+<p><strong><span>This Bundle Includes:</span></strong></p>
+<ul>
+	<li><span>1 x The Last Cut+ 16oz OR 32oz</span></li>
+	<li><span>1 x Foam Backed Wool Pad</span></li>
+	<li><span>1 x Foam Polishing Pad </span></li>
+	<li><span>1 X Foam Finishing Pad </span></li>
+	<li><span>2 x Microfiber Towels </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584805236796</id>
+      <title>16oz</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584805236796</id>
+      <title>32oz</title>
+      <s:price currency="CAD">148.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4584800616508</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-aggressive-bundle"/>
+    <title>TLD Products The Last Cut+ Aggressive Bundle</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-16oz-kit-tld-products-the-last-cut-aggressive-bundle-14770039849020.png?v=1614164871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            106.99 - 139.99
+            <a href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-aggressive-bundle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Bundle and Save</strong> with The Last Cut+ Aggressive bundle. This will be the most aggressive bundle. It combines TLC+ with a foamed back wool pad, microfiber pad, and the foam cutting pad. This bundle is great for paint on the medium to harder side with heavy defects. The two included microfiber towels will aid with your product wipe-off needs.</p>
+<p><strong><span>This Bundle Includes:</span></strong></p>
+<ul>
+	<li><span>1 x The Last Cut+ 16oz/32oz</span></li>
+	<li><span>1 x 5.5 inch Foam Backed Wool Pad</span></li>
+	<li><span>1 x 5.5 inch Microfiber Cutting Pad</span></li>
+	<li><span>1 X 5.5 inch Foam Cutting Pad </span></li>
+	<li><span>2 x Microfiber Towels </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>pad</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584800616508</id>
+      <title>16oz Kit</title>
+      <s:price currency="CAD">106.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584800616508</id>
+      <title>32oz Kit</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4584795635772</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-1"/>
+    <title>TLD Products The Last Cut+ Compound</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-16oz-tld-products-the-last-cut-14737409835068.jpg?v=1614193108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            49.99 - 289.99
+            <a href="https://meticulousdetailing.ca/products/tld-products-the-last-cut-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p id="yui_3_17_2_1_1571871993154_369">The Last Cut+ (TLC+) is a water-based Cut Compound designed by a detailer for detailers and body shop users. Versatility is key and this product was designed to complement its less aggressive companion The Last Cut. TLC+ compound provides a careful blend of added aggression while still maintaining the finishing ability when working with clear coated/gel coat surfaces. This is achieved by using diminishing abrasives and providing more cutting action during its diminished state. This product is compatible with numerous types of pads and can be paired based on aggression requirements or job purpose. When dealing with clear coat on the harder end of the scale, TLC+ is designed to provide more defect removal ability when compared to The Last Cut. Ultimately it provides the means of improved efficiency while keeping surface integrity and user safety in mind. Best results are achieved using a Dual Action Polisher or Rotary Polisher. This SILICONE FREE formula contains NO FILLERS and is BODY SHOP SAFE.</p>
+<p></p>
+<p></p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/XggXYDTbCJE" width="560"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584795635772</id>
+      <title>16oz</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584795635772</id>
+      <title>32oz</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4584795635772</id>
+      <title>128 oz</title>
+      <s:price currency="CAD">289.99</s:price>
+      <s:sku/>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4583133970492</id>
+    <published>2020-06-23T19:47:18-07:00</published>
+    <updated>2020-06-23T19:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tld-products-the-last-cut"/>
+    <title>TLD Products The Last Cut Compound</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>TLD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tld-paint-correction-16oz-tld-products-the-last-cut-14770731515964.png?v=1614045230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLD<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            37.99 - 249.99
+            <a href="https://meticulousdetailing.ca/products/tld-products-the-last-cut">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>THE LAST CUT - COMPOUND GLAZE GALLON</p>
+<p id="yui_3_17_2_1_1571871993309_371">The Last Cut Compound is designed by a detailer for detailers and body shop users. Versatility is key and this product gives its user full control over aggression/finishing ability based on pad choice. Its main purpose is to remove scratches and swirls while leaving a glossy finish on light or dark colored painted/clear-coated surfaces. On harder paints, its one step capabilities can be explored. Best results are achieved using a Dual Action or Rotary Polisher. This Silicone free formula contains NO FILLERS; showing true results after use. Body Shop Safe!</p>
+<p></p>
+<p></p>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="369" src="https://www.youtube.com/embed/zbSloKMhmhM" width="657"></iframe><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="369" src="https://www.youtube.com/embed/iAcXUz7PwVw" width="657"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>tld</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4583133970492</id>
+      <title>16oz</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku/>
+      <s:grams>590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4583133970492</id>
+      <title>32oz</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku/>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4583133970492</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku/>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

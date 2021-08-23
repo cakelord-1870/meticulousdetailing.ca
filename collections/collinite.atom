@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/collinite.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-06-05T10:25:46-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4565453439036</id>
+    <published>2020-06-05T10:25:46-07:00</published>
+    <updated>2020-06-05T10:25:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/collinite-845-insulator-wax"/>
+    <title>Collinite 845 Insulator Wax</title>
+    <s:type>Paint Protection</s:type>
+    <s:vendor>Collinite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/collinite-paint-protection-16-oz-collinite-845-insulator-wax-14639904587836.png?v=1614125097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collinite<br>
+        <strong>Type: </strong>Paint Protection<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3>COLLINITE 845 INSULATOR WAX</h3>
+<p>Unique combination of high gloss shine, ease-of-use and long-lasting weather defense</p>
+<ul>
+	<li>#1 selling, “most talked about” Collinite product</li>
+	<li>Easy on, easy off application</li>
+	<li>Durable weather protection</li>
+</ul>
+<p>A user-friendlier version of the No. 476s paste, No. 845 stands as Collinite’s most legendary product to date. Famous for its versatility, durability and DIY ease of use, “IW” is ideal for both small and large surface area jobs where lasting protection and timely job completion are desired, but hard buffing and frequent reapplication are not practical. Leaves behind carnauba shine and durable coating that preserves finish and shields against the elements; UV, rain, snow, salt, dust, dirt, grime, bugs, staining and more. Handcrafted and poured in the USA.</p>
+<p>Shake well before using. Surface should feel lukewarm to the touch. Apply THIN, even amount of No. 845 to dry, CLEAN surface (no larger than 2X2ft sections at a time) with applicator pad. When wax begins to dry/haze, polish off with dry microfiber or soft cotton towel. See TECH SHEET for additional tips and instructions.</p>
+<ul>
+	<li>Car, truck, boat, bike, RV, aircraft, personal watercraft, snowmobile, ATV, tractor/farm equipment, golf cart, snowplow.</li>
+	<li>Exterior gel coat, fiberglass, clear coat, single stage and lacquer paints and highly finished wood.</li>
+	<li>CLEAN, unblemished painted/unpainted metals; chrome, stainless steel, aluminum, copper, and brass</li>
+	<li>NOT recommended for rubber, non-skid, black trim, vinyl, glass or non-painted plastic (exterior matte trims).</li>
+</ul>
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="150" src="https://www.youtube.com/embed/1-uV3rT7w9E" width="300"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>Collinite</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>paint protection</s:tag>
+    <s:tag>quick</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4565453439036</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

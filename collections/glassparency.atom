@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/glassparency.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-04-04T10:41:06-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4488110342204</id>
+    <published>2020-04-04T10:41:06-07:00</published>
+    <updated>2020-04-04T10:41:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/glassparency-windshield-cleaning-kits"/>
+    <title>GlassParency Windshield Cleaning Kits Single or Full</title>
+    <s:type>Glass Treatment</s:type>
+    <s:vendor>GlassParency</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/glassparency-glass-treatment-glassparency-windshield-cleaning-kits-14245242896444.jpg?v=1616273352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GlassParency<br>
+        <strong>Type: </strong>Glass Treatment<br>
+        <strong>Price: </strong>
+            139.99 - 199.99
+            <a href="https://meticulousdetailing.ca/products/glassparency-windshield-cleaning-kits">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GlassParency Windshield Cleaning Kits puts their product to the ultimate test to illustrate the true performance of our glass treatment. They simulated visibility in inclement weather. You will see a significant difference between the treated side verses the untreated side. On the treated side water repels instantaneously when it hits the glass. This allows for a substantially more visible windshield than the untreated side. To simulate glare, we set up a real-life construction zone. Through this station, you will see that on the treated side, the road sign is crystal clear. On the untreated side, the road sign is barely legible. In the real world, the difference can be astounding. Windshield Cleaning Kits is all you need for safety of you and your loved ones. GlassParency Windshield Cleaning Kits the only thing you need to protect you and your loved ones.</p>
+<meta charset="utf-8">
+<h3 class="wpb_heading wpb_video_heading"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="240" src="https://www.youtube.com/embed/4OsU0G9vvlU" width="427"></iframe></h3>
+<h3 class="wpb_heading wpb_video_heading">
+<strong>WINTER DRIVING | </strong>A SAFER DRIVING EXPERIENCE.</h3>
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="240" src="https://www.youtube.com/embed/U8feKnXRCig" width="427"></iframe></p>
+<meta charset="utf-8">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h3 class="wpb_heading wpb_video_heading">
+<strong>MUD DEMO |</strong> HALF TREATED WINDSHIELD.</h3>
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="240" src="https://www.youtube.com/embed/hC3swfQ0SkU" width="427"></iframe></p>
+<p></p>
+</div>
+</div>
+<div class="wpb_video_widget wpb_content_element vc_clearfix vc_custom_1497421644472 vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-left">
+<div class="wpb_wrapper">
+<div class="wpb_video_wrapper"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>auto exterior</s:tag>
+    <s:tag>glass cleaner</s:tag>
+    <s:tag>glassparency</s:tag>
+    <s:tag>GlassParency kit</s:tag>
+    <s:tag>GlassParency Windshield Cleaning</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:tag>Windshield Cleaning</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4488110342204</id>
+      <title>Full Kit</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4488110342204</id>
+      <title>Single Kit</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

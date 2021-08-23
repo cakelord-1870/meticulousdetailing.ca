@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/tornador-tools.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-10-11T09:54:12-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4657334878268</id>
+    <published>2020-10-11T09:54:12-07:00</published>
+    <updated>2020-10-11T09:54:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-jar-cap-no-hole"/>
+    <title>TORNADOR JAR CAP NO HOLE ***</title>
+    <s:type>equipment</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-equipment-tornador-jar-cap-no-hole-15269480169532.png?v=1614062632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>equipment<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3361-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<p data-mce-fragment="1">TORNADOR JAR CAP NO HOLE</p>
+<p data-mce-fragment="1">Tornador 32 oz jar cap for storage.</p>
+</div>
+</div>
+<div class="field field-name-field-product" data-mce-fragment="1"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6177" action="https://www.bocar.ca/en/product/3361/tornador-jar-cap-no-hole" method="post" id="commerce-cart-add-to-cart-form-6177" data-mce-fragment="1" accept-charset="UTF-8">
+<div data-mce-fragment="1">
+<div id="edit-line-item-fields" class="form-wrapper" data-mce-fragment="1"></div>
+</div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Tornador</s:tag>
+    <s:tag>Brands_Tornador</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4657334878268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>CT-400</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4651992842300</id>
+    <published>2020-10-01T09:05:53-07:00</published>
+    <updated>2020-10-01T09:05:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-black-inner-blower-tube-rotation-set"/>
+    <title>TORNADOR BLACK INNER BLOWER TUBE / ROTATION SET ***</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-equipment-tornador-black-inner-blower-tube-rotation-set-15218133041212.jpg?v=1614062938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">TORNADOR BLACK INNER BLOWER TUBE / ROTATION SET</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brands_Tornador</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4651992842300</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4651991924796</id>
+    <published>2020-10-01T09:01:26-07:00</published>
+    <updated>2020-10-01T09:01:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-black-inner-liquid-tube"/>
+    <title>TORNADOR BLACK INNER LIQUID TUBE ***</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-equipment-tornador-black-inner-liquid-tube-15218115379260.gif?v=1614062663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            20.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h1 class="productView-title" data-mce-fragment="1" itemprop="name">TORNADOR BLACK INNER LIQUID TUBE</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Tornador</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4651991924796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.89</s:price>
+      <s:sku/>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580129472572</id>
+    <published>2020-06-19T13:29:25-07:00</published>
+    <updated>2020-06-19T13:29:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-air-blow-gun"/>
+    <title>Tornador Air Blow Gun Z014 ***</title>
+    <s:type>Polishers &amp; Equipment</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-polishers-equipment-tornador-air-blow-gun-z014-14706894995516.png?v=1614062993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>Polishers &amp; Equipment<br>
+        <strong>Price: </strong>
+            143.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3262-product-field-body">
+<div class="field field-name-field-body">
+<meta charset="utf-8">
+<p>The Tornador® Air Blow Out Gun works with your air compressor to blow debris and moisture out of hard-to-reach areas of a vehicle. Use inside or outside the vehicle. The strong, tornado-like funnel of air blasts out dirt and dust quickly and easily.</p>
+<p>Use it to blow crumbs, trash, and dust from under and between car seats. Blow out seams in the dashboard and trim, where dust accumulates. On the exterior, blow moisture out of door, trunk, and hood jambs. Blast water out of body seams and from around windows and mirrors to avoid drip marks. Under the hood, dry out the engine compartment so you can dress and polish engine components.</p>
+<p>Specifications:</p>
+<div>
+<ul>
+<li>Free Speed RPM: 3,600</li>
+<li>Air Consumption: 1/min. = 120</li>
+<li>Liquid Consumption: N/A</li>
+<li>Sound Pressure DBA: 101.1</li>
+<li>Air Inlet: 1/4" female thread</li>
+<li>Air Pressure: 5.2 - 6.2 CFM @ 70 PSI</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6062" action="http://www.bocar.ca/en/product/3262/tornador-32oz-jar" method="post" id="commerce-cart-add-to-cart-form-6062" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580129472572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">143.99</s:price>
+      <s:sku>Z-014</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526099824700</id>
+    <published>2020-05-09T19:27:46-07:00</published>
+    <updated>2020-05-09T19:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-enzyme-multipurpose-interior-cleaner"/>
+    <title>Tornador Enzyme Multipurpose Interior Cleaner</title>
+    <s:type>All Purpose Cleaner</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-all-purpose-cleaner-2-oz-tornador-enzyme-multipurpose-interior-cleaner-14428359196732.jpg?v=1614062752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>All Purpose Cleaner<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="" id="yui_3_17_2_1_1572304279471_369">Enzymes make the difference! Active enzymes break up stains right before your eyes. Tornador Enzyme Multi-Purpose Interior Cleaner is hyper concentrated to give you the most cleaning power for your money. Each pre-measured package is airtight to lock in the enzymes until the cleaner is used. You'll achieve consistent, amazing results with every use!<br><br>Tornador Enzyme Multi-Purpose Interior Cleaner removes spots and spills from carpet and upholstery, eliminates films on plastics, rubber, and vinyl, and it even removes smoker's film from glass! This enzyme-powered cleaner is safe on every automotive surface.<br><br><strong>Tornador Enzyme Multi-Purpose Interior Cleaner is designed for use with the Tornador Car Cleaning Gun but it can also be used as a spot pre-treatment when diluted in a 32 oz. spray bottle.</strong><br><br><strong>Directions for the Tornador Cleaning Gun:</strong></p>
+<ol data-rte-list="default">
+<li>
+<p class="">Add 32 oz. of water to the 1000 line on the Tornador cup. Add Tornador Enzyme Multi-Purpose Interior Cleaner to the cup and shake lightly.</p>
+</li>
+<li>
+<p class="">Turn liquid/air switch to the upright position to deliver the solution.</p>
+</li>
+<li>
+<p class="">Hold cleaning nozzle 1-3 inches from the area to be cleaned. Begin a back and forth action over the area until the stain is removed.</p>
+</li>
+<li>
+<p class="">Turn the liquid/air switch in the down position and dry the treated area.</p>
+</li>
+<li>
+<p class="">Wipe over the area with a soft, clean towel.</p>
+</li>
+</ol>
+<p class=""><strong>Directions for Pre-Treatment:</strong></p>
+<ol data-rte-list="default" id="yui_3_17_2_1_1572304279471_374">
+<li>
+<p class="">Fill 32 oz. container with water to the 30 oz. level to eliminate foaming.</p>
+</li>
+<li>
+<p class="">Add Tornador Enzyme Multi-Purpose Interior Cleaner to the water and shake lightly.</p>
+</li>
+<li>
+<p class="">If cleaning carpet or upholstery, pre vacuum or dry brush the area to be cleaned to separate the fibers.</p>
+</li>
+<li id="yui_3_17_2_1_1572304279471_373">
+<p class="" id="yui_3_17_2_1_1572304279471_372">Spray area and allow the cleaner to dwell for 2-3 minutes. Use a brush to agitate the area or follow with the Tornador Car Cleaning Gun.</p>
+</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all purpose</s:tag>
+    <s:tag>auto interior</s:tag>
+    <s:tag>glass cleaner</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>specialty cleaner</s:tag>
+    <s:tag>surface cleaner</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:tag>upholstery cleaner</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526099824700</id>
+      <title>2 oz</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526095073340</id>
+    <published>2020-05-09T19:27:46-07:00</published>
+    <updated>2020-05-09T19:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-foamy-interior-cleaner"/>
+    <title>Tornador Foamy Interior Cleaner</title>
+    <s:type>Floor Cleaner</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-floor-cleaner-2-oz-tornador-foamy-interior-cleaner-14428347924540.jpg?v=1614062458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>Floor Cleaner<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="" id="yui_3_17_2_1_1572304279369_367">Tornador Foamy Interior Cleaner is a strong concentrated foaming formula designed to work deep into carpets and upholstery to remove dirt, muck, and other contaminants. With the Tornador Foamy Interior Cleaner you don't have to worry about stuck-on food, spills, or tracked-in dirt. Tornador Foamy Interior Cleaner encapsulates the contaminants that are stuck deep in fibers so that you can blow out with the Tornador Cleaning Gun or wipe away with a microfiber towel.<br><br>Tornador Foamy Interior Cleaner is designed for use with the Tornador Car Cleaning Gun.<br><br><strong>Directions for the Tornador Cleaning Gun:</strong></p>
+<ol data-rte-list="default" id="yui_3_17_2_1_1572304279369_374">
+<li>
+<p class="">Add 32 oz. of water to the 1000 line on the Tornador cup. Add Tornador Foamy Interior Cleaner to the cup and shake lightly.</p>
+</li>
+<li>
+<p class="">Turn liquid/air switch to the upright position to deliver the solution.</p>
+</li>
+<li>
+<p class="">Hold cleaning nozzle 1-3 inches from the area to be cleaned. Begin a back and forth action over the area until carpet/upholstery is covered.</p>
+</li>
+<li>
+<p class="">Use a scrub brush to agitate carpet and upholstery and left dirt out of fibers.</p>
+</li>
+<li>
+<p class="">Wipe over the area with a soft, clean towel.</p>
+</li>
+<li id="yui_3_17_2_1_1572304279369_373">
+<p class="" id="yui_3_17_2_1_1572304279369_372">Turn the liquid/air switch in the down position and dry the treated area.</p>
+</li>
+</ol>
+<p class=""> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>auto interior</s:tag>
+    <s:tag>carpet cleaner</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:tag>upholstery cleaner</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526095073340</id>
+      <title>2 oz</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526091206716</id>
+    <published>2020-05-09T19:27:46-07:00</published>
+    <updated>2020-05-09T19:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-air-foam-gun"/>
+    <title>Tornador Air Foam Gun</title>
+    <s:type>Polishers &amp; Equipment</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-polishers-equipment-tornador-air-foam-gun-14428336816188.png?v=1614062904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>Polishers &amp; Equipment<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3></h3>
+<p>Presoak your vehicle with cleaning foam that stays where it's sprayed! The Foam Gun only works with an air compressor capable of producing 60-90 psi of air pressure. The higher the air pressure, the greater the foam generated by the gun. The unique barrel on the gun mixes the shampoo and pressurized air to create a blizzard of foam. You’ll be amazed! The amount of foam is regulated by a pressure valve on the gun. Use as little or as much foam as you need.</p>
+<p>The TORNADOR® Foam Gun can be used with any foaming cleaner, such as car shampoos, carpet and upholstery cleaners, and non-acidic wheel cleaners. Please note: Thoroughly flush all parts of the foam gun with water between uses to prevent cross-contamination of vehicle surfaces. The best rule of thumb is to use different foam guns for different parts of the vehicle.</p>
+<p>Interior shampoos and car wash soaps can be diluted per the manufacturers’ instructions prior to adding them to the TORNADOR'S® reservoir.</p>
+<p>The TORNADOR® Foam Gun includes the gun with a 30 oz. jar and an extra cap for the jar. You will need an air compressor to use the TORNADOR®. To use the TORNADOR® Foam Gun for car washing, start by rinsing down the vehicle with a water hose. Mix the desired shampoo with water as directed on the product’s label. Attach the nozzle to the jar tightly and attach the gun to the air compressor. Turn the air compressor i and coat the vehicle with foam. Turn off the air compressor and agitate vehicle with a sponge or mitt. Rinse with your water hose!</p>
+<p>To use the TORNADOR® Foam Gun for interior carpet and fabric cleaning, dilute a concentrated interior cleaner per the label directions. Spray the carpet and seats with foam and use a brush to agitate the area. Then towel dry and vacuum.</p>
+<p>Two fittings are included that attach to the diffuser cap:</p>
+<p><strong>Narrow Nozzle</strong> - designed to apply upholstery shampoo between seats, kick panels, seat rails - areas where you do not want a lot of foam.</p>
+<p><strong>Wide Nozzle</strong> – great for using on exterior of vehicle and provides more concentrated strip of product that will cling better. More concentrated strip means less splatter and wasted product.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526091206716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>Z011</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526088126524</id>
+    <published>2020-05-09T19:27:46-07:00</published>
+    <updated>2020-05-09T19:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-32oz-jar"/>
+    <title>Tornador 32oz Jar</title>
+    <s:type>Polishers &amp; Equipment</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-polishers-equipment-tornador-32oz-jar-14706875367484.png?v=1614063147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>Polishers &amp; Equipment<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3262-product-field-body">
+<div class="field field-name-field-body">
+<p>32 oz jar for Tornador gun.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6062" action="http://www.bocar.ca/en/product/3262/tornador-32oz-jar" method="post" id="commerce-cart-add-to-cart-form-6062" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526088126524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526085210172</id>
+    <published>2020-05-09T19:27:46-07:00</published>
+    <updated>2020-05-09T19:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-velocity-vac-dry"/>
+    <title>Tornador Velocity Vac Dry Z-200</title>
+    <s:type>Polishers &amp; Equipment</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-polishers-equipment-tornador-velocity-vac-dry-z-200-14428319940668.jpg?v=1614062279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>Polishers &amp; Equipment<br>
+        <strong>Price: </strong>
+            225.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Tornador power vacuum for faster interior auto cleaning. The ZV-240 takes your vacuuming to a whole new level. The patented TORNADOR® ball-bearing rotation quickly lifts dirt and grime from carpet fibers that other vacuums leave behind. The unique shape and technology of the cone also adds additional suction power to your vacuum.</p>
+<p>The TORNADOR® VELOCITY-VAC DRY easily attaches to an air source and a wet/dry vacuum. This new technology combination will streamline your automotive detailing and reconditioning challenges. It’s ideal for use in quick Wash and Vac detailing situations in Car Washes, Body Shops, New Car Get-Ready and other quick detailing jobs. The VELOCITY-VAC DRY is a quick and economical solution to combat everyday interior problems.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:tag>vacuum</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526085210172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.99</s:price>
+      <s:sku/>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526082457660</id>
+    <published>2020-05-09T19:27:46-07:00</published>
+    <updated>2020-05-09T19:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-velocity-vac-attachment"/>
+    <title>Tornador Velocity Vac Attachment</title>
+    <s:type>Polishers &amp; Equipment</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-polishers-equipment-tornador-velocity-vac-attachment-14428302082108.png?v=1614062520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>Polishers &amp; Equipment<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Vacuum, clean, and air dry all in one! </h3>
+<p>VELOCITY-VAC Features:</p>
+<ul>
+<li>Easily attaches to the <a href="https://meticulousdetailing.ca/products/tornador-black-cleaning-tool" target="_blank" rel="noopener noreferrer">Tornador Black</a> -- <em>only </em>attaches to Tornador Black</li>
+<li>Use with any wet/dry vacuum</li>
+<li>Low cost for great all-in-one resultsn</li>
+<li>The MUST-HAVE detailer's tool </li>
+</ul>
+<p>The TORNADOR® VELOCITY-VAC attachment is our latest addition to the TORNADOR® tool family. You now have the outstanding cleaning power of TORNADOR® with the addition of a wet/dry vacuum. We’re continuing the benefits of the TORNADOR® patented technology. The TORNADOR® VELOCITY-VAC easily attaches to the Z-020 TORNADOR® BLACK and a wet/dry vacuum. This new technology combination will make cleaning tasks quicker and easier than ever!</p>
+<p>If you have experience with TORNADOR® Z-020 BLACK, you will immediately see the advantage of this great addition. Three different cleaning functions will streamline your automotive detailing and reconditioning challenges. The VELOCITY-VAC is a quick and economical solution to combat everyday interior problems.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526082457660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>ZV200</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526079541308</id>
+    <published>2020-05-09T19:27:46-07:00</published>
+    <updated>2020-05-09T19:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/tornador-classic-car-cleaning-tool"/>
+    <title>Tornador Classic Car Cleaning Tool</title>
+    <s:type>Polishers &amp; Equipment</s:type>
+    <s:vendor>Tornador Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/tornador-tools-polishers-equipment-tornador-classic-car-cleaning-tool-14428290940988.png?v=1614062696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tornador Tools<br>
+        <strong>Type: </strong>Polishers &amp; Equipment<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tornador car cleaning tools are the fastest and easiest way to clean all automotive surfaces. This car cleaning tool works with your air compressor to blast cleaning solution into crevices you can't reach by hand. Clean carpets, plastics, and upholstery inside the car. Clean wheels, convertible tops, and body seams on the exterior. </p>
+<p>The patented TORNADOR® Car Cleaning Tool tackles your most challenging detailing jobs with ease. The cone-shaped nozzle and oscillating tip create a tornado cleaning action that cleans hard and soft surfaces like nothing you’ve seen before. Dirt and grime are immediately released from fabrics, carpet, and solid surfaces.</p>
+<p>The TORNADOR® Car Cleaning Tool releases a fine mist of cleaning solution that does not over saturate surfaces. You’ll see the liquid turning dirty as grime is released from the surface. Wipe with a microfiber towel. Then turn the dial to shut off the water and use the compressed air to dry the cleaned area. It’s that simple.</p>
+<p>Use the TORNADOR® Car Cleaning Tool on the dashboard, door panels, steering wheel, fabric upholstery, carpet, floor mats, and between seats. The TORNADOR® cleans in tough-to-reach places between seats and in seams. Because it releases so little liquid, surfaces dry quickly.</p>
+<p>On the exterior, use the TORNADOR® Car Cleaning Tool to clean fabric convertible tops, body seams, wheels, and emblems. There’s no need to scrub. The TORNADOR® does the hard work for you.</p>
+<p>The TORNADOR® Car Cleaning Tool must be used with an air compressor capable of producing a constant air pressure of at least 60 psi. Do not to exceed 90 psi in order to protect your TORNADOR® from unnecessary wear. Use the green valve to control the amount of liquid released by the TORNADOR®.</p>
+<p>To clean any surface, dilute the desired cleaner according to label’s directions. Turn the liquid valve straight up and use an overlapping motion as you pass the TORNADOR® Car Cleaning Tool over the surface. If necessary, allow the cleaning liquid to dwell for 10-15 seconds. Use a microfiber towel to absorb excess liquid. Then turn the liquid valve off and use the compressed air to dry the cleaned area.</p>
+<p>Cleaning with the TORNADOR® Car Cleaning Tool is easier and faster than small detailing brushes or swabs. Just spray and watch the dirt release from plastics, rubber, vinyl, and fabrics.</p>
+<p>The TORNADOR® Car Cleaning Tool includes the gun itself with the 32 oz. jar and an extra cap for the jar.</p>
+<p>The TORNADOR® Car Cleaning Tool is one of a kind. Clean and dry all hard-to-reach areas with the cyclonic cleaning power of the TORNADOR®!</p>
+<p>For optimal performance, the TORNADOR® Car Cleaning Tool works best with an air compressor that produces 5 CFM, or at least 85 psi.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>tornador</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526079541308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>Z010</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

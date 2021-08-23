@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/black-wow.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-08-02T17:42:41-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4611025371196</id>
+    <published>2020-08-02T17:42:41-07:00</published>
+    <updated>2020-08-02T17:42:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/black-wow-professional-trim-restorer"/>
+    <title>Black WOW Professional Trim Restorer - 16 oz ***</title>
+    <s:type>Paint Treatment</s:type>
+    <s:vendor>Black Wow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/black-wow-paint-treatment-black-wow-professional-trim-restorer-16-oz-14933582381116.jpg?v=1614163076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Wow<br>
+        <strong>Type: </strong>Paint Treatment<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="stacks_out_1018_page1" class="stacks_out">
+<div id="stacks_in_1018_page1" class="stacks_in text_stack"><span id="stacks_in_1019_page1"><strong><em>BlackWow</em></strong><span>™</span><strong><em><span> </span>Pro wasn't just developed for detailers</em></strong>, it was invented, used, and refined by a respected detailer who is known for pushing the envelope in the industry. When BlackWow<span>™</span><span> </span>Classic was first released in 2007, as years went by, better and more effective application methods were discovered and shared. The same holds true for BlackWow<span>™</span><span> </span>Pro.<br></span></div>
+<div class="stacks_in text_stack"><span></span></div>
+</div>
+<div id="stacks_out_1264_page1" class="stacks_out">
+<div id="stacks_in_1264_page1" class="stacks_in com_yourhead_stack_quote_stack">
+<div class="pullquote">When purchasing detailing products I never look at the cost. I only look at performance. BWP performs better then any trim dressing I've ever used. This bottle of BWP lasted about 6 months that's over 160 cars, one huge F150 Tono Cover and a couple of wrapped cars.</div>
+<div class="pullquote">
+<div class="pullquote-source">Mario Asencio- Detailing by M, CA</div>
+<div class="pullquote-source"></div>
+<div class="pullquote-source">
+<meta charset="utf-8">
+<div id="stacks_out_175_page1" class="stacks_out">
+<div id="stacks_in_175_page1" class="stacks_in text_stack"><span>BWP is a silicone based trim restorer that was created by a detailer for detailers that truly redefines how silicone products behave and perform.  Most silicone products are either sticky, shiny, or slippery.  BWP is none of these.  Silicones are fantastic for restoring trim because they are extremely stable, resistant to water, temperature, and sunlight.</span></div>
+</div>
+<div id="stacks_out_1029_page1" class="stacks_out">
+<div id="stacks_in_1029_page1" class="stacks_in text_stack">
+<span>However most people associate silicone with plastic dressings that are shiny or attract dust. Even the BlackWow</span><span>™</span><span> Classic was a little shiny before it’s first wash, but it needed time to absorb so we advised people to apply it, let it soak for a week, then give it a nice wash.  While BlackWow</span><span>™</span><span> Pro isn’t slippery, it is still silicone based and not recommended on any driving control surfaces or areas that might be walked or stepped on.</span>
+</div>
+<div class="stacks_in text_stack"><span></span></div>
+<div class="stacks_in text_stack"><span></span></div>
+</div>
+</div>
+<div class="pullquote-source"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Wow</s:tag>
+    <s:tag>brand black wow</s:tag>
+    <s:tag>paint treatment</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4611025371196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>

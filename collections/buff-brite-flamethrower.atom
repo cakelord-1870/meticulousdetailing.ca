@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/buff-brite-flamethrower.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-07-27T15:17:38-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4607475843132</id>
+    <published>2020-07-27T15:17:38-07:00</published>
+    <updated>2020-07-27T15:17:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/buff-brite-fur-eel-pet-hair-sand-remover-kit"/>
+    <title>Buff Brite Fur-Eel Pet Hair &amp; Sand Remover Kit</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Buff Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/buff-brite-equipment-buff-brite-fur-eel-pet-hair-sand-remover-kit-14906470760508.jpg?v=1614161156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buff Brite<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            41.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This tool will triple your dog hair removal speed at a minimum. This patented poly latex tool slides onto any standard Mr. Nozzle crevice tool or our Fang adapter tool and transforms your dog hair nightmare into just another day at the office.  When done just slip it off and go back to your normal vacuum duties. You’ll never fear pet hair again!  Made in Italy  </p>
+<p>Please note (from manufacturer): If you have a 1.25 inch inside diameter vacuum hose please order our 1.25 to 1.5 inch adapter cuff or swivel cuff. Another great option is the Fang adapter tool which fits both 1.25 inch inside diameter hoses (like a home central vac system) or 1.5 inch cuff like many shop vacs  If you have the large 2 inch style hose please order our awesome Crazy Snake Vacuum hose (expands from 3 ft to 10 ft) which will adapt it to 2 inch as well as the crevice tool and Fang adapter.  </p>
+<p>Directions for use:</p>
+<p>Always use a left to right or right to left motion.  Going back and forth will pull the hair 1/2 way out and then push it back in.  Using one direction will pull it out very quickly. Your gonna be blown away by your results!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>buff brite</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>vacuum accessory</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4607475843132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.49</s:price>
+      <s:sku>FUR-EEL</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

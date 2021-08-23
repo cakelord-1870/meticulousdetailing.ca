@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/flitz.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-06-19T13:10:37-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580162732092</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/flitz-buff-ball"/>
+    <title>Flitz Buff Ball</title>
+    <s:type></s:type>
+    <s:vendor>Flitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/flitz-flitz-buff-ball-14707131383868.png?v=1614134780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flitz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2428-product-field-body">
+<div class="field field-name-field-body">
+<p>A revolutionary new way to buff and polish all painted surfaces, metals, fiberglass, plastics, eisenglass, and plexiglas. Also works exceptionally on stainless steel, aluminum, brass, and much more! Safely and easily buffs out scuff marks, light scratches, oxidation, chalking, tarnish, pitting and corrosion. Fits all drills, air tools, drill presses and bench grinders. Great for textured and smooth surfaces. Can be machine washed and reused up to 10 times. Use indoors or outdoors. Will not shed lint.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6367" action="http://www.bocar.ca/en/product/2428/flitz-buff-ball" method="post" id="commerce-cart-add-to-cart-form-6367" accept-charset="UTF-8">
+<div>5" wide</div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>flitz</s:tag>
+    <s:tag>polisher part</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580162732092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.49</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580161519676</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/flitz-metal-polish"/>
+    <title>Flitz Metal Polish</title>
+    <s:type></s:type>
+    <s:vendor>Flitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/flitz-flitz-metal-polish-14707123257404.png?v=1614134668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flitz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.99 - 73.69
+            <a href="https://meticulousdetailing.ca/products/flitz-metal-polish">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3040-product-field-body">
+<div class="field field-name-field-body">
+<p>A concentrated cream, Flitz Polish is unsurpassed in its ability to Clean, Polish, Deoxidize and Protect. Tough,durable protection; Non-abrasive formula; Non-toxic; Non-flammable; USDA authorized; Protects up to 6 months in fresh water; up to 3 months in salt water.</p>
+</div>
+</div>
+<div class="field field-name-field-msds">Comes as a paste in the smaller tube, or a liquid in the larger can. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>flitz</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>metal polish</s:tag>
+    <s:tag>Miscellaneous</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580161519676</id>
+      <title>150g Tube</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>3515</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580161519676</id>
+      <title>906g Can</title>
+      <s:price currency="CAD">73.69</s:price>
+      <s:sku>3518</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

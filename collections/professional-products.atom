@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/professional-products.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-06-19T14:44:23-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580167909436</id>
+    <published>2020-06-19T14:44:23-07:00</published>
+    <updated>2020-06-19T14:44:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/sonax-profiline-cut-finish"/>
+    <title>Sonax ProfiLine Cut &amp; Finish Innovative Polish</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Sonax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/sonax-paint-correction-1l-sonax-profiline-cut-finish-14707164020796.png?v=1614137756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sonax<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            52.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3615-product-field-body">
+<div class="field field-name-field-body">
+<p>Sonax ProfiLine Cut &amp; Finish Innovative polish with intense abrasive effect for quickly eradicating defective spots, such as dust occlusion, paint overspray and sanding marks, following repair spraying. High abrasion with simultaneous good degree of shine, workable for a long time, with outstanding wipe off feature. Ideal for polishing sanded down surfaces. Sonax ProfiLine Cut &amp; Finish removes sanding grooves made by P1500 abrasive paper. Silicone-free.</p>
+</div>
+</div>
+<div class="field field-name-field-msds"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abrasive polish</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>compounds</s:tag>
+    <s:tag>paint</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>rotary polish</s:tag>
+    <s:tag>Sonax</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580167909436</id>
+      <title>1L</title>
+      <s:price currency="CAD">52.65</s:price>
+      <s:sku>225300</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526799323196</id>
+    <published>2020-05-10T09:58:08-07:00</published>
+    <updated>2020-05-10T09:58:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/sonax-profiline-perfect-finish-rotary"/>
+    <title>Sonax Profiline Perfect Finish Rotary Polish</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Sonax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/sonax-paint-correction-1l-sonax-profiline-perfect-finish-rotary-14431933235260.png?v=1614111384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sonax<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            29.99 - 429.99
+            <a href="https://meticulousdetailing.ca/products/sonax-profiline-perfect-finish-rotary">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>SONAX Profiline Perfect Finish is an innovative paintwork finishing polish for a 1 step polishing of sanded down, localized paintwork damage such as dust occlusion or paint runs. Silicone-free. </span></p>
+<p><span>For rotary machines 4/6 Cut, 6/6 Gloss, Use with SONAX Polishing Pad Green 160mm Part # 04930000</span></p>
+<meta charset="utf-8">
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>compounds</s:tag>
+    <s:tag>paint</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>Sonax</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526799323196</id>
+      <title>250ml</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>02241410</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526799323196</id>
+      <title>1L</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>02243000</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526799323196</id>
+      <title>5L</title>
+      <s:price currency="CAD">429.99</s:price>
+      <s:sku>02245000</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526791360572</id>
+    <published>2020-05-10T09:41:08-07:00</published>
+    <updated>2020-05-10T09:41:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/sonax-clay-disc-with-hook-loom-velcro"/>
+    <title>Sonax - Clay Disc with Hook &amp; Loom Velcro</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Sonax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/sonax-paint-correction-sonax-clay-disc-with-hook-loom-velcro-14431879856188.png?v=1614057231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sonax<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The SONAX Clay Disc is suitable for machine processing. Cleans and smoothens out paintwork surfaces. These clay discs are deal for removing stubbornly adhesive dirt contamination, such as paint overspray, water stains, tree sap, adhesive residues and other impurities. Diameter 150 mm. Will treat up to 60 vehicles. Easy to clean by rinsing out the absorbed impurities with water. Hook and loom velcro.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>buffing pad</s:tag>
+    <s:tag>compounds</s:tag>
+    <s:tag>disc</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>Sonax</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526791360572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>04506050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4525976027196</id>
+    <published>2020-05-09T18:05:56-07:00</published>
+    <updated>2020-05-09T18:05:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/sonax-leather-care"/>
+    <title>Sonax  Profiline   Leather Care</title>
+    <s:type>Leather Treatment</s:type>
+    <s:vendor>Sonax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/sonax-leather-treatment-1l-sonax-leather-care-14427842347068.png?v=1614056420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sonax<br>
+        <strong>Type: </strong>Leather Treatment<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-title-field field-title-field node-3696-product-title-field">
+<div class="field field-name-title-field"></div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-measurement field-field-measurement node-3696-product-field-measurement">
+<div class="field field-name-field-measurement">
+<div class="label-inline"></div>
+</div>
+</div>
+<div class="field field-name-field-company">
+<div class="label-inline">Wax free leather care with UV protection for smooth leather. Freshens up and maintains the leather’s colour. With anti creaking additive for a supple, soft haptic. Fast evaporating, non-greasy, with a pleasantly fresh fragrance.</div>
+<div class="label-inline"></div>
+<div class="label-inline"><span>SONAX Profiline Class Leather Care restores the leather?s original, subtle shine, intensive colour and natural smoothness. Moisturising active ingredients nourish the leather, maintain the permeability and increase the life. The products UV filters protect the leather against colour fading when exposed to sunlight. Anti-creaking additives ensure a comfortable seating sensation without seeming slippery. Thanks to the addition of antioxidants, the leather’s natural deterioration due to ageing is stopped. The treated surface has a hydrophobic effect and forms a protective barrier against dirt, water, spillages, etc. Suitable for all smooth leather, also for perforated leather surfaces and seats with seat heating. Do not use on aniline, nubuck, velours or suede leathers.</span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto interior</s:tag>
+    <s:tag>carpet cleaner</s:tag>
+    <s:tag>leather cleaner</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>Sonax</s:tag>
+    <s:tag>surface cleaner</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4525976027196</id>
+      <title>1L</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>282300</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

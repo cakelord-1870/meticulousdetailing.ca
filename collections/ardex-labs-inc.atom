@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/ardex-labs-inc.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-06-19T13:10:37-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4580159455292</id>
+    <published>2020-06-19T13:10:37-07:00</published>
+    <updated>2020-06-19T13:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/ardex-labs-pet-control"/>
+    <title>Ardex Labs Pet Control</title>
+    <s:type></s:type>
+    <s:vendor>Ardex Labs Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/ardex-labs-inc-32oz-ardex-labs-pet-control-14707106873404.png?v=1614126351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ardex Labs Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-3695-product-field-body">
+<div class="field field-name-field-body">
+<p>Pet Control is a specially formulated product that removes pet hair and fur from automotive interiors. The Ant-Static properties allow for effortless hair removal from the surfaces while the Mal-Odor fights residual pet odor.</p>
+</div>
+</div>
+<div class="field field-name-field-product"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6673" action="http://www.bocar.ca/en/product/3695/pet-control" method="post" id="commerce-cart-add-to-cart-form-6673" accept-charset="UTF-8">
+<div></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ardex</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>auto interior</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>surface cleaner</s:tag>
+    <s:tag>upholstery cleaner</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4580159455292</id>
+      <title>32oz</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>8267-32</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4578067808316</id>
+    <published>2020-06-17T14:08:53-07:00</published>
+    <updated>2020-06-17T14:08:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/ardex-labs-ocean-polymer-sealant"/>
+    <title>Ardex Labs Ocean Polymer Sealant</title>
+    <s:type></s:type>
+    <s:vendor>Ardex Labs Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/ardex-labs-inc-ardex-labs-ocean-polymer-sealant-14695382122556.png?v=1614126714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ardex Labs Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99 - 89.99
+            <a href="https://meticulousdetailing.ca/products/ardex-labs-ocean-polymer-sealant">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-2918-product-field-body">
+<div class="field field-name-field-body">
+<p>Much more than a just another "boat wax".  It is a salt water resistant co-polymer structure that will not rinse off even in the presence of warm/salty/brackish water during the course of the season.  Your boat never had it so good!</p>
+</div>
+</div>
+<div class="field field-name-field-msds"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ardex</s:tag>
+    <s:tag>boat wax</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578067808316</id>
+      <title>16oz</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>2501-16</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578067808316</id>
+      <title>32 oz</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4578067808316</id>
+      <title>64oz</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>2501-65</s:sku>
+      <s:grams>3992</s:grams>
+    </s:variant>
+  </entry>
+</feed>

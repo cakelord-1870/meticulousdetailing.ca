@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/braun-automotive.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-07-10T12:24:38-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4594653069372</id>
+    <published>2020-07-10T12:24:38-07:00</published>
+    <updated>2020-07-10T12:24:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/braun-automotive-wheel-brush-with-black-boar-hair"/>
+    <title>Braun Automotive Wheel Brush with Black Boar Hair</title>
+    <s:type>Brushes &amp; Accessories</s:type>
+    <s:vendor>Wheel Woolies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/wheel-woolies-brushes-accessories-braun-automotive-wheel-brush-with-black-boar-hair-14818904440892.jpg?v=1614161343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheel Woolies<br>
+        <strong>Type: </strong>Brushes &amp; Accessories<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This 9" hand held Wheel &amp; Fender Brush is made with the highest quality long black boar's hair. Features epoxy set construction to eliminate losing the fibers after many uses. The 2" long bristles are epoxy set so that the brush will never lose its tufts.</span><span></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>braun</s:tag>
+    <s:tag>Braun Automotive</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>wheel brush</s:tag>
+    <s:tag>Wheel Woolies</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4594653069372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>9190BKD</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526802829372</id>
+    <published>2020-05-10T09:53:27-07:00</published>
+    <updated>2020-05-10T09:53:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/braun-automotive-leather-upholstery-brush"/>
+    <title>Braun Automotive Leather Upholstery Brush</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Wheel Woolies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/wheel-woolies-accessory-braun-automotive-leather-upholstery-brush-14431955583036.jpg?v=1614161752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheel Woolies<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            18.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leather Upholstery Brush is the perfect seat cleaning tool for your leather upholstery. The brush is made of two different types of bristles for aggressive scrubbing: Sturdy Crimped Nylon and Natural Horse Hair.</p>
+<p>Both the nylon and natural horse hair bristles are great for loosening dirt and debris from your leather upholstery, while still gentle enough not to scratch your leather. The non-slip handle is ergonomically designed for your comfort. </p>
+<p> <strong>Description</strong></p>
+<ul data-rte-list="default">
+<li>
+<p>Bristle length- Red Nylon: 1 1/4 inches, Black Horse Hair Brush: 1 1/4 inches</p>
+</li>
+<li>
+<p>Manufactured with natural boar’s hair or nylon bristles</p>
+</li>
+<li>
+<p>Ergonomically designed handle</p>
+</li>
+<li>
+<p>Staple set bristles</p>
+</li>
+<li>
+<p>Chemical resistant</p>
+</li>
+<li>
+<p>9" Oal,Poly Handle, 2.5"TrimOut</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>braun</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>interior brush</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:tag>woolie</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526802829372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526801420348</id>
+    <published>2020-05-10T09:53:27-07:00</published>
+    <updated>2020-05-10T09:53:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/braun-automotive-vent-brush"/>
+    <title>Braun Automotive Vent Brush</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Wheel Woolies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/wheel-woolies-accessory-24-x-1-8-braun-automotive-vent-brush-14431947292732.jpg?v=1614161550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheel Woolies<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            23.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This 100% non-scratch synthetic wool-like material and polypropylene slim handle is a great fit for car vents.</p>
+<p>The long head and slim profile allow you to clean deep inside your vents.</p>
+<p>The vent brush is the perfect tool to further complete your auto detailing arsenal.</p>
+<p><br>  <strong>Description</strong></p>
+<ul>
+<li>Brush head diameter: 7/8 inches</li>
+<li>Bristle length: 6 inches</li>
+<li>Made with soft microfiber material - metal free<br>
+</li>
+<li>24" Long flexible handle</li>
+<li>Chemical resistant</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>braun</s:tag>
+    <s:tag>detail brush</s:tag>
+    <s:tag>interior brush</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526801420348</id>
+      <title>24&quot; x 1/8&quot;</title>
+      <s:price currency="CAD">23.40</s:price>
+      <s:sku>WWRKMEDVB24</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4526790901820</id>
+    <published>2020-05-10T08:22:14-07:00</published>
+    <updated>2020-05-10T08:22:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/braun-automotive-wheel-woolies-detail-brushes-3-piece-set"/>
+    <title>Braun Automotive Wheel Woolies Detail Brushes 3-Piece Set</title>
+    <s:type>Brushes &amp; Accessories</s:type>
+    <s:vendor>Wheel Woolies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/wheel-woolies-brushes-accessories-braun-automotive-wheel-woolies-detail-brushes-3-piece-set-28577708703804.jpg?v=1627716731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheel Woolies<br>
+        <strong>Type: </strong>Brushes &amp; Accessories<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Features:</strong><br></p>
+<ul>
+<li>Three piece wheel brush kit</li>
+<li>Clean wheels and hard to reach places safely and easily</li>
+<li>Works great on wheels, rims, grills and narrow spaces</li>
+<li>Large brush measures 19", medium 12" and small 8"</li>
+<li>Built from the highest grade wool</li>
+</ul>
+<p>The Wheel Woolies Wheel Brushes are premium wheel cleaner brushes that are easy to fit anywhere. This kit comes with three different size brushes to fit all your cleaning needs. The largest brush is 19 inches long, the medium size brush is 12 inches long and the small brush measures at 8 inches long. These brushes are ideal to clean to toughest dirt and the tightest of areas.<br><br>They are great for spokes, wheels, rims, grills and other hard to reach places. These Wheel Woolies are safe for all wheels an rims regardless of finish and shape. These brushes are made of the highest grade wool. They will bend and flex to fit into the tightest of spots. The Wheel Woolies are great for more than just wheels - they work great on grills, vents, louvers, engines and anywhere regular brushes don't fit.<br><br>The long handles on the Wheel Woolies enable you to reach areas that could never be reached before. Always rinse your Wheel Woolies after each use, use clean water to remove dirt and grime and allow to dry after use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>braun</s:tag>
+    <s:tag>Braun Automotive</s:tag>
+    <s:tag>brushes</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>wheel woolie</s:tag>
+    <s:tag>Wheel Woolies</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:tag>woolie</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4526790901820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>WWRK3DG2</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

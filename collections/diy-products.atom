@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/diy-products.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-06-03T11:43:53-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4563512393788</id>
+    <published>2020-06-03T11:43:53-07:00</published>
+    <updated>2020-06-03T11:43:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/sonax-wheel-cleaner-plus"/>
+    <title>Sonax Wheel Cleaner Plus</title>
+    <s:type>wheel maintenance</s:type>
+    <s:vendor>Sonax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/sonax-wheel-maintenance-750-ml-sonax-wheel-cleaner-plus-14613514321980.png?v=1614110455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sonax<br>
+        <strong>Type: </strong>wheel maintenance<br>
+        <strong>Price: </strong>
+            29.99 - 1999.99
+            <a href="https://meticulousdetailing.ca/products/sonax-wheel-cleaner-plus">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>SONAX Wheel Cleaner Plus is the latest formulation for fast and effective removal of stubborn brake dust and road grime. The powerful wheel cleaner is 30% stronger and works much faster than SONAX Wheel Cleaner full effect. PLUS sprays on clear and turns red almost instantly as it begins to work. Because it is acid-free, Wheel Cleaner PLUS is safe for use on all wheel types and will not damage or corrode wheel bolts.</span><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/mKafawOvbxw" title="YouTube video player" width="560"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>diy</s:tag>
+    <s:tag>non acid cleaner</s:tag>
+    <s:tag>Sonax</s:tag>
+    <s:tag>tire cleaner</s:tag>
+    <s:tag>Wheel Maintenance</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4563512393788</id>
+      <title>750 ml</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>02304000</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4563512393788</id>
+      <title>5 L</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>02305050</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4563512393788</id>
+      <title>25 L</title>
+      <s:price currency="CAD">429.99</s:price>
+      <s:sku>02307050</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4563512393788</id>
+      <title>200 L</title>
+      <s:price currency="CAD">1999.99</s:price>
+      <s:sku>02309050</s:sku>
+      <s:grams>181437</s:grams>
+    </s:variant>
+  </entry>
+</feed>

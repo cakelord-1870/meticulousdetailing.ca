@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/optimum-car-care.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2020-06-13T15:42:50-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4573964271676</id>
+    <published>2020-06-13T15:42:50-07:00</published>
+    <updated>2020-06-13T15:42:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/optimum-power-clean"/>
+    <title>Optimum Power Clean</title>
+    <s:type>All Purpose Cleaners &amp; Degreasers</s:type>
+    <s:vendor>Optimum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/optimum-all-purpose-cleaners-degreasers-optimum-power-clean-14671947890748.jpg?v=1614141153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Optimum<br>
+        <strong>Type: </strong>All Purpose Cleaners &amp; Degreasers<br>
+        <strong>Price: </strong>
+            15.99 - 52.99
+            <a href="https://meticulousdetailing.ca/products/optimum-power-clean">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Optimum Power Clean is an environmentally friendly, safe, yet powerful All Purpose Cleaner. The unique formula contains special polymers and</p>
+<p>emulsifiers break down contaminants with minimal agitation.</p>
+<p>Power Clean cleans your vehicle's dirties surfaces including removal of bugs and paint contamination, brake dust, oily grime when used full strength. Dilute it to clean leather, vinyl and plastics.</p>
+<p>It can remove old dashboard and trim dressings and tough residues from interior panels. Wipe away spills from leather seats. It practically cleans everything, from the engine bay to leather and dashboard and everything in between.</p>
+<p>Optimum Power Clean packs a powerful punch, yet it’s gentle when it needs to be. Clean everything from the engine and wheels to the leather and dashboard with one product! Optimum Power Clean™ can even be used on the paint to dissolve bugs and stubborn contaminants. For many jobs, you can simply spray it on and wipe it off.</p>
+<p>Use full strength, Optimum Power Clean cleans and degreases the engine compartment, cleans tires, wheels, and wheel wells. This sophisticated formula dissolves bugs and powers through brake dust and oil to clean your vehicle’s dirtiest parts.</p>
+<p>Dilute Power Clean up to 3:1 to safely clean leather, vinyl, paint, and plastics. Remove old dash dressings and tough residues from interior panels. Wipe away spills and spots from leather seats. Special polymers and emulsifiers break down contaminants with minimal agitation.</p>
+<meta charset="utf-8">
+<p>Directions:</p>
+<p>To clean wheels and tires, Optimum Power Clean can be used at full strength or diluted up to 3:1. Agitate as needed and rinse off. For use on painted surfaces, dilute at 3:1 for best results. Spray on, agitate lightly and rinse. To clean interior panels, dilute at 3:1. Spray on, agitate, and wipe off. For leather, vinyl, or the dashboard, dilute at 3:1. Spray on and wipe off. For tougher grime and stains use at full strength.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all purpose</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>optimum</s:tag>
+    <s:tag>specialty cleaner</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4573964271676</id>
+      <title>17oz</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4573964271676</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">52.99</s:price>
+      <s:sku/>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

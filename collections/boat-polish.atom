@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meticulousdetailing.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meticulousdetailing.ca/collections/boat-polish.atom"/>
+  <title>Meticulous Detailing Inc.</title>
+  <updated>2021-08-14T15:05:45-07:00</updated>
+  <author>
+    <name>Meticulous Detailing Inc.</name>
+  </author>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/6624998883388</id>
+    <published>2021-08-14T15:05:45-07:00</published>
+    <updated>2021-08-14T15:05:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gtechniq-marine-rinse-on-ceramic"/>
+    <title>GTECHNIQ MARINE RINSE-ON CERAMIC</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Gtechniq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/gtechniq-ceramic-gtechniq-marine-rinse-on-ceramic-28638320623676.jpg?v=1628978904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gtechniq<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="commerce-product-field commerce-product-field-title-field field-title-field node-5101-product-title-field" data-mce-fragment="1">
+<div class="field field-name-title-field" data-mce-fragment="1"><br></div>
+</div>
+<div class="commerce-product-field commerce-product-field-field-body field-field-body node-5101-product-field-body" data-mce-fragment="1">
+<div class="field field-name-field-body" data-mce-fragment="1">
+<p data-mce-fragment="1">Gtechniq Rinse-On-Ceramic is the fast and simple way to protect all your boat’s gloss surfaces.</p>
+<p data-mce-fragment="1">The optically clear, non-yellowing and UV-repelling coating crosslinks to any surface such as gelcoat, topcoat, glass, metal, ceramic or Plexiglass. The product is extremely versatile and can be applied to cool or hot surfaces.</p>
+<p data-mce-fragment="1">Rinse-On Ceramic can be used at every wash down with a single application lasting up to 3 months.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boat polish</s:tag>
+    <s:tag>boat wax</s:tag>
+    <s:tag>Brand_Gtechniq</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>ceramic coating</s:tag>
+    <s:tag>gtechniq</s:tag>
+    <s:tag>Industrial Ceramic</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Marine Detailing</s:tag>
+    <s:tag>Used For_Marine Detailing</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/6624998883388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4655755886652</id>
+    <published>2020-10-07T20:11:42-07:00</published>
+    <updated>2020-10-07T20:11:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/gelcoat-polishing-and-protection-kit"/>
+    <title>Gelcoat Polishing and Protection Kit ***</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-gelcoat-polishing-and-protection-kit-15245581287484.jpg?v=1614134634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Simple, effective, elegant. Menzerna’s premium gelcoat polishing system minimizes working time while producing brilliant gloss.</strong></p>
+<p data-mce-fragment="1">From start to finish, Menzerna’s exceptional gelcoat polishing and protection products make restoring and maintaining your boats and trailers a simple task with rewarding results. Premium One-Step Polish eliminates significant defects and breaks down to a fine finish in one step. Premium Gloss refines your surface – particularly black – into a flawless mirror. Finally, Premium Protection provides long-lasting protection from the elements, preserving your finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boat polish</s:tag>
+    <s:tag>Brand_Menzerrna</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>paint protection</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4655755886652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku/>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515155017788</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-universal-metal-polish"/>
+    <title>Menzerna Universal Metal Polish 125 grams</title>
+    <s:type>Abrasive Products</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-abrasive-products-125-g-menzerna-universal-metal-polish-125-grams-14368052543548.png?v=1614115466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Abrasive Products<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Universal Metal Polish cleans and polishes stainless steel, aluminium, chrome, brass, copper, silver and plastics. Perfect gloss for exhaust, radiator grille, decorative strips, rims etc. Also perfect on domestic and leisure parts like cutlery, sanitary fittings, metal instruments etc.<br></p>
+<p>Menzerna Metal Polish is certified by NSF (National Sanitation Foundation) under the Category Code A7. NSF is the world leader in product certification for Food safety with a focus on Food, water, indoor air and the environment. NSF conducts product testing and material analyses through to unannounced plant inspection. Every aspect of a products development is thoroughly evaluated before it can earn certification.</p>
+<meta charset="utf-8">
+<div class="productheadline">Benefits:</div>
+<ul>
+<li class="ulist ulist1">Easy application</li>
+<li class="ulist ulist2">Economical consumption</li>
+<li class="ulist ulist1">Reliable results</li>
+<li class="ulist ulist2">Versatile in application: trade, domestic home, leisure</li>
+<li class="ulist ulist1"><b><i>Silicone-free</i></b></li>
+</ul>
+<meta charset="utf-8">
+<div class="productheadline">Processing:</div>
+<div class="productheadline"></div>
+<p>1. Apply Metal Polish by hand with microfibre</p>
+<p>2. Metal Polish with circular movements</p>
+<p>3. Remove residue with a clean, soft cloth</p>
+<p> </p>
+<iframe width="675" height="450" src="https://www.youtube.com/embed/k5oNzx76mkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>aviation</s:tag>
+    <s:tag>boat polish</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>metal polish</s:tag>
+    <s:tag>paint correction</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515155017788</id>
+      <title>125 g</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>23003.391.001</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515127558204</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-gelcoat-premium-protection"/>
+    <title>Menzerna Gelcoat Premium Protection - Menzerna Canada</title>
+    <s:type>Paint Protection</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-protection-menzerna-gelcoat-premium-protection-14367933431868.png?v=1614120773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Protection<br>
+        <strong>Price: </strong>
+            35.99 - 134.99
+            <a href="https://meticulousdetailing.ca/products/menzerna-gelcoat-premium-protection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="head"><span><br>
+<br>
+Menzerna Gelcoat Premium Protection wellness for your boat. Relief at the stern, bow, starboard and port. Gelcoat Premium Protection offers long-lasting protection against adhesion and scratches for boat detailing.</span></p>
+<div class="row productdescription">
+<div class="col-md-12">
+<p>Menzerna Gelcoat Premium Protection is the latest polymer technologies create a visibly fresher and perceptibly smoother surface. Lively effect: less resistance, reduced consumption.</p>
+<p></p>
+<p></p>
+</div>
+</div>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="573" src="https://www.youtube.com/embed/VUmb35u0c4Q" width="1018"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>automotive care</s:tag>
+    <s:tag>boat polish</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>gas</s:tag>
+    <s:tag>Gelcoat</s:tag>
+    <s:tag>Gelcoat protection</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>material property</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>Menzerna Gelcoat</s:tag>
+    <s:tag>Menzerna Gelcoat Premium Protection</s:tag>
+    <s:tag>paint</s:tag>
+    <s:tag>Premium Protection</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515127558204</id>
+      <title>250 ml</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515127558204</id>
+      <title>1 L</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>24015.261.080</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515117760572</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-gelcoat-premium-gloss"/>
+    <title>Menzerna Gelcoat Premium Gloss - Pure Luxury!</title>
+    <s:type>Paint Protection</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-protection-1-l-menzerna-gelcoat-premium-gloss-14367906791484.png?v=1614120984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Protection<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="head"><span>Menzerna Gelcoat Premium Gloss is pure luxury! Menzerna Gelcoat Premium Gloss is the flagship in the gloss class. An expression of love for the boat. Proud to turn heads.</span></p>
+<div class="row productdescription">
+<div class="col-md-12">
+<p>The ultimate mirror finish of Premium Gloss is revealed to its best advantage on dark gelcoat surfaces. Gliding along weightlessly: the smooth and flawless surface makes it possible. Aesthetic and functional enjoyment for sailing and motor boats.</p>
+<p></p>
+<p></p>
+</div>
+</div>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="573" src="https://www.youtube.com/embed/VUmb35u0c4Q" width="1018"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boat polish</s:tag>
+    <s:tag>gelcoat</s:tag>
+    <s:tag>gelcoat gloss</s:tag>
+    <s:tag>gloss</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>Menzerna Gelcoat Premium Gloss</s:tag>
+    <s:tag>premium gelcoat gloss</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515117760572</id>
+      <title>1 L</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>24014.261.080</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515113205820</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-gelcoat-premium-one-step-polish"/>
+    <title>Menzerna Marine Gelcoat One Step Polish</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-1-l-menzerna-gelcoat-premium-one-step-polish-14367896993852.png?v=1614120832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            114.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Menzerna Gelcoat One Step Polish - heading for bliss at high speed! Menzerna Gelcoat Premium One-Step Polish pulls through at the highest level, from beginning to end.
+<div class="row productdescription">
+<div class="col-md-12">
+<p>Menzerna Gelcoat One Step Polish Premium Polishes to a high gloss in just one process step. Once around the boat – finish included. A look at the brilliant result gives you goose pimples. </p>
+<p></p>
+<p></p>
+</div>
+</div>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="573" src="https://www.youtube.com/embed/VUmb35u0c4Q" width="1018"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boat polish</s:tag>
+    <s:tag>Gelcoat One Step Polish</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>one step polish</s:tag>
+    <s:tag>one-step</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515113205820</id>
+      <title>1 L</title>
+      <s:price currency="CAD">114.99</s:price>
+      <s:sku>24011.261.080</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515101409340</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-gelcoat-liquid-sanding"/>
+    <title>Menzerna Gelcoat Liquid Sanding - P800 - P1200</title>
+    <s:type>Paint Correction</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-correction-1-l-menzerna-gelcoat-liquid-sanding-14367871795260.png?v=1614120952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Correction<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="head"><span>Full speed ahead! Menzerna Gelcoat Liquid Sanding is the Menzerna breakwater. </span>This liquid sandpaper aggressively sands badly scratched, dirty or chalky gelcoats. Menzerna Gelcoat Liquid sanding establishes clear conditions at repair sites: ideal surface preparation for subsequent polishing. P800-P1200</p>
+<p class="head">  </p>
+<p class="head"></p>
+<div class="row productdescription">
+<div class="col-md-12">
+<p></p>
+</div>
+</div>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="573" src="https://www.youtube.com/embed/VUmb35u0c4Q" width="1018"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boat polish</s:tag>
+    <s:tag>liquid sanding</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>Menzerna liquid sanding</s:tag>
+    <s:tag>P1200</s:tag>
+    <s:tag>P800</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515101409340</id>
+      <title>1 L</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>24013.261.080</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meticulousdetailing.ca/products/4515084271676</id>
+    <published>2020-05-01T09:08:54-07:00</published>
+    <updated>2020-05-01T09:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://meticulousdetailing.ca/products/menzerna-liquid-carnauba-protection"/>
+    <title>Menzerna Liquid Carnauba Wax Protection - for the true enthusiast</title>
+    <s:type>Paint Protection</s:type>
+    <s:vendor>Menzerna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/9880/9404/products/menzerna-paint-protection-menzerna-liquid-carnauba-protection-14367836536892.png?v=1614117470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menzerna<br>
+        <strong>Type: </strong>Paint Protection<br>
+        <strong>Price: </strong>
+            29.99 - 79.99
+            <a href="https://meticulousdetailing.ca/products/menzerna-liquid-carnauba-protection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="head">Menzerna Liquid Carnauba Wax Protection is a n<span>atural sealing blend for surface enthusiasts. </span>Long-lasting, functional protection combined with a soft, natural feel and brilliant deep gloss. Developed for perceptibly smoother surfaces.</p>
+<div class="row productdescription">
+<div class="col-md-12 ">
+<meta charset="utf-8">
+<p>Menzerna Liquid Carnauba Wax Fluid, high-quality carnauba wax for long-lasting, functional protection combined with a soft and natural feel. Developed for perceptibly smoother surfaces. Menzerna Liquid Carnauba Wax generates hydrophobic layers and is therefore perfect for car enthusiasts.</p>
+<p></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boat polish</s:tag>
+    <s:tag>carnauba</s:tag>
+    <s:tag>Carnauba Wax</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>Menzerna</s:tag>
+    <s:tag>wax</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515084271676</id>
+      <title>250 ml</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>22068.281.001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://meticulousdetailing.ca/products/4515084271676</id>
+      <title>1 L</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>22068.261.001</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>
